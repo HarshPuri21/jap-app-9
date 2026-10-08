@@ -1,0 +1,90 @@
+name: Build Android APK
+
+# Runs automatically whenever you push to GitHub, and can also be started
+# by hand from the "Actions" tab (the "Run workflow" button).
+"on":
+  push:
+    branches: [ main, master ]
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the code
+        uses: actions/checkout@v4
+
+      - name: Sanity-check repo layout
+        run: |
+          if [ ! -f "pubspec.yaml" ]; then
+            echo "::error::pubspec.yaml not found at the repo root."
+            echo "This usually means the nihongo_trainer folder itself got"
+            echo "uploaded as a subfolder instead of its contents being"
+            echo "uploaded to the repo root. See SETUP_INSTRUCTIONS.md step 3."
+            exit 1
+          fi
+
+      - name: Set up Java (required by the Android build tools)
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
+          cache: true
+
+      - name: Add Android platform support
+        # This repo intentionally doesn't include the generated android/
+        # folder -- it's created fresh here, guaranteed compatible with
+        # whatever Flutter version this workflow just installed.
+        run: flutter create --platforms=android --org com.claire .
+
+      - name: Set the app's display name
+        run: |
+          sed -i 's/android:label="nihongo_trainer"/android:label="Nihongo Trainer"/' \
+            android/app/src/main/AndroidManifest.xml
+
+      # The notification subsystem needs manifest receivers, desugaring,
+      # Java 17 and a notification icon in the *generated* android/ project.
+      # The script is idempotent and exits non-zero (failing the build with a
+      # clear message) if the generated project isn't shaped as expected.
+      - name: Self-test the Android patch script (informational)
+        continue-on-error: true
+        run: python3 tool/android/test_apply_notification_android_config.py
+
+      - name: Apply notification Android configuration
+        run: python3 tool/android/apply_notification_android_config.py
+
+      - name: Install dependencies
+        run: flutter pub get
+
+      # Non-blocking: surfaces any analyzer complaint in the job log without
+      # failing the build over style-level lints.
+      - name: Analyze (informational)
+        continue-on-error: true
+        run: flutter analyze --no-fatal-infos --no-fatal-warnings
+
+      # Also non-blocking for now, so a test problem never costs you the APK.
+      # The suite in test/ guards the theme contract -- most importantly that
+      # every theme still renders a full-width panel inside a scroll view,
+      # which is the bug that made answer explanations disappear. Once you've
+      # seen it pass in the log, flip continue-on-error to false so a future
+      # regression actually stops the build.
+      - name: Test (informational)
+        continue-on-error: true
+        run: flutter test
+
+      - name: Generate the launcher icon
+        run: flutter pub run flutter_launcher_icons
+
+      - name: Build the release APK
+        run: flutter build apk --release
+
+      - name: Upload the APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: nihongo-trainer-apk
+          path: build/app/outputs/flutter-apk/app-release.apk
