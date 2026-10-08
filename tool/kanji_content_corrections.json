@@ -1,0 +1,413 @@
+{
+  "登": {
+    "onyomi": [
+      "トウ",
+      "ト"
+    ],
+    "kunyomi": [
+      "のぼる"
+    ],
+    "meaning": "ascend, climb"
+  },
+  "偵": {
+    "onyomi": [
+      "テイ"
+    ],
+    "kunyomi": [
+      "うかがう"
+    ],
+    "meaning": "spy, investigate"
+  },
+  "松": {
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "まつ"
+    ],
+    "meaning": "pine tree"
+  },
+  "網": {
+    "onyomi": [
+      "モウ",
+      "ボウ"
+    ],
+    "kunyomi": [
+      "あみ"
+    ],
+    "meaning": "netting, network"
+  },
+  "彰": {
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [],
+    "meaning": "clear, evident"
+  },
+  "法": {
+    "onyomi": [
+      "ホウ",
+      "ハッ",
+      "ホッ"
+    ],
+    "kunyomi": [
+      "のり",
+      "のっとる",
+      "フラン"
+    ]
+  },
+  "服": {
+    "onyomi": [
+      "フク"
+    ],
+    "kunyomi": [
+      "きもの",
+      "きる",
+      "したがう",
+      "のむ"
+    ]
+  },
+  "院": {
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [
+      "かき",
+      "かこい"
+    ]
+  },
+  "茶": {
+    "onyomi": [
+      "チャ",
+      "サ"
+    ],
+    "kunyomi": []
+  },
+  "族": {
+    "onyomi": [
+      "ゾク"
+    ],
+    "kunyomi": [
+      "やから"
+    ]
+  },
+  "式": {
+    "onyomi": [
+      "シキ",
+      "ショク"
+    ],
+    "kunyomi": [
+      "のり",
+      "のっとる"
+    ]
+  },
+  "題": {
+    "onyomi": [
+      "ダイ",
+      "テイ"
+    ],
+    "kunyomi": []
+  },
+  "官": {
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "つかさ",
+      "おおやけ"
+    ]
+  },
+  "不": {
+    "onyomi": [
+      "フ",
+      "ブ"
+    ],
+    "kunyomi": [
+      "ず"
+    ]
+  },
+  "枚": {
+    "onyomi": [
+      "マイ",
+      "バイ"
+    ],
+    "kunyomi": [
+      "ひら"
+    ]
+  },
+  "券": {
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "てがた",
+      "わりふ"
+    ],
+    "meaning": "ticket, coupon"
+  },
+  "坊": {
+    "onyomi": [
+      "ボウ",
+      "ボッ",
+      "ホウ"
+    ],
+    "kunyomi": [
+      "まち",
+      "へや"
+    ]
+  },
+  "域": {
+    "onyomi": [
+      "イキ"
+    ],
+    "kunyomi": [
+      "さかい",
+      "ところ"
+    ]
+  },
+  "版": {
+    "onyomi": [
+      "ハン"
+    ],
+    "kunyomi": [
+      "ふだ",
+      "いた"
+    ]
+  },
+  "符": {
+    "onyomi": [
+      "フ"
+    ],
+    "kunyomi": [
+      "わりふ"
+    ]
+  },
+  "佐": {
+    "onyomi": [
+      "サ"
+    ],
+    "kunyomi": [
+      "すけ",
+      "たすける"
+    ]
+  },
+  "寮": {
+    "onyomi": [
+      "リョウ"
+    ],
+    "kunyomi": [
+      "つかさ"
+    ]
+  },
+  "慢": {
+    "onyomi": [
+      "マン",
+      "バン"
+    ],
+    "kunyomi": [
+      "おこたる",
+      "おごる",
+      "あなどる"
+    ],
+    "meaning": "ridicule, laziness"
+  },
+  "拍": {
+    "onyomi": [
+      "ハク",
+      "ヒョウ"
+    ],
+    "kunyomi": [
+      "うつ"
+    ],
+    "meaning": "clap, beat (music)"
+  },
+  "盤": {
+    "onyomi": [
+      "バン",
+      "ハン"
+    ],
+    "kunyomi": [
+      "おおざら",
+      "まがる",
+      "わだかまる",
+      "めぐる"
+    ]
+  },
+  "砲": {
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "つつ",
+      "おおづつ"
+    ],
+    "meaning": "cannon, gun"
+  },
+  "穀": {
+    "onyomi": [
+      "コク"
+    ],
+    "kunyomi": []
+  },
+  "胞": {
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "はら"
+    ]
+  },
+  "賃": {
+    "onyomi": [
+      "チン",
+      "ジン"
+    ],
+    "kunyomi": [
+      "やとう"
+    ]
+  },
+  "購": {
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "あがなう"
+    ]
+  },
+  "銘": {
+    "onyomi": [
+      "メイ",
+      "ミョウ"
+    ],
+    "kunyomi": [
+      "しるす"
+    ],
+    "meaning": "inscription, artisan's signature"
+  },
+  "陣": {
+    "onyomi": [
+      "ジン",
+      "チン"
+    ],
+    "kunyomi": [
+      "じんだて"
+    ]
+  },
+  "猛": {
+    "onyomi": [
+      "モウ"
+    ],
+    "kunyomi": [
+      "たけし"
+    ]
+  },
+  "肢": {
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "てあし"
+    ],
+    "meaning": "limb, arms & legs"
+  },
+  "衡": {
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "はかり",
+      "はかる",
+      "くびき"
+    ]
+  },
+  "貿": {
+    "onyomi": [
+      "ボウ"
+    ],
+    "kunyomi": [
+      "あきなう"
+    ]
+  },
+  "胴": {
+    "onyomi": [
+      "ドウ",
+      "トウ"
+    ],
+    "kunyomi": []
+  },
+  "義": {
+    "onyomi": [
+      "ギ"
+    ],
+    "kunyomi": [
+      "よい"
+    ]
+  },
+  "模": {
+    "onyomi": [
+      "モ",
+      "ボ"
+    ],
+    "kunyomi": [
+      "かた",
+      "のっとる"
+    ]
+  },
+  "個": {
+    "onyomi": [
+      "コ",
+      "カ"
+    ],
+    "kunyomi": []
+  },
+  "姓": {
+    "meaning": "surname"
+  },
+  "庁": {
+    "meaning": "government office"
+  },
+  "坪": {
+    "meaning": "tsubo, approx. thirty-six sq ft"
+  },
+  "孝": {
+    "meaning": "filial piety, respect for parents and elders"
+  },
+  "帆": {
+    "meaning": "sail"
+  },
+  "枕": {
+    "meaning": "pillow"
+  },
+  "棟": {
+    "meaning": "ridgepole, ridge"
+  },
+  "眉": {
+    "meaning": "eyebrow"
+  },
+  "眼": {
+    "meaning": "eyeball, eye"
+  },
+  "稲": {
+    "meaning": "rice plant"
+  },
+  "箇": {
+    "meaning": "counter for articles"
+  },
+  "餅": {
+    "meaning": "mochi rice cake"
+  },
+  "己": {
+    "onyomi": [
+      "コ",
+      "キ"
+    ],
+    "kunyomi": [
+      "おのれ",
+      "つちのと"
+    ],
+    "meaning": "self"
+  },
+  "絹": {
+    "meaning": "silk"
+  }
+}

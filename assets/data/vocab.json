@@ -1,0 +1,4266 @@
+[
+ {
+  "jp": "私",
+  "kana": "わたし",
+  "romaji": "watashi",
+  "meaning": "I, me",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "僕",
+  "kana": "ぼく",
+  "romaji": "boku",
+  "meaning": "I, me",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "俺",
+  "kana": "おれ",
+  "romaji": "ore",
+  "meaning": "I, me",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "あなた",
+  "kana": "あなた",
+  "romaji": "anata",
+  "meaning": "you",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "彼",
+  "kana": "かれ",
+  "romaji": "kare",
+  "meaning": "he, boyfriend",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "彼女",
+  "kana": "かのじょ",
+  "romaji": "kanojo",
+  "meaning": "she, girlfriend",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "私たち",
+  "kana": "わたしたち",
+  "romaji": "watashitachi",
+  "meaning": "we",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "これ",
+  "kana": "これ",
+  "romaji": "kore",
+  "meaning": "this",
+  "category": "General",
+  "pos": "demonstrative"
+ },
+ {
+  "jp": "それ",
+  "kana": "それ",
+  "romaji": "sore",
+  "meaning": "that",
+  "category": "General",
+  "pos": "demonstrative"
+ },
+ {
+  "jp": "あれ",
+  "kana": "あれ",
+  "romaji": "are",
+  "meaning": "that over there",
+  "category": "General",
+  "pos": "demonstrative"
+ },
+ {
+  "jp": "ここ",
+  "kana": "ここ",
+  "romaji": "koko",
+  "meaning": "here",
+  "category": "General",
+  "pos": "demonstrative"
+ },
+ {
+  "jp": "そこ",
+  "kana": "そこ",
+  "romaji": "soko",
+  "meaning": "there",
+  "category": "General",
+  "pos": "demonstrative"
+ },
+ {
+  "jp": "あそこ",
+  "kana": "あそこ",
+  "romaji": "asoko",
+  "meaning": "over there",
+  "category": "General",
+  "pos": "demonstrative"
+ },
+ {
+  "jp": "どこ",
+  "kana": "どこ",
+  "romaji": "doko",
+  "meaning": "where",
+  "category": "General",
+  "pos": "question"
+ },
+ {
+  "jp": "何",
+  "kana": "なに",
+  "romaji": "nani",
+  "meaning": "what",
+  "category": "General",
+  "pos": "question"
+ },
+ {
+  "jp": "誰",
+  "kana": "だれ",
+  "romaji": "dare",
+  "meaning": "who",
+  "category": "General",
+  "pos": "question"
+ },
+ {
+  "jp": "いつ",
+  "kana": "いつ",
+  "romaji": "itsu",
+  "meaning": "when",
+  "category": "General",
+  "pos": "question"
+ },
+ {
+  "jp": "どう",
+  "kana": "どう",
+  "romaji": "dou",
+  "meaning": "how",
+  "category": "General",
+  "pos": "question"
+ },
+ {
+  "jp": "どうして",
+  "kana": "どうして",
+  "romaji": "doushite",
+  "meaning": "why",
+  "category": "General",
+  "pos": "question"
+ },
+ {
+  "jp": "どれ",
+  "kana": "どれ",
+  "romaji": "dore",
+  "meaning": "which",
+  "category": "General",
+  "pos": "question"
+ },
+ {
+  "jp": "どちら",
+  "kana": "どちら",
+  "romaji": "dochira",
+  "meaning": "which way/which one",
+  "category": "General",
+  "pos": "question"
+ },
+ {
+  "jp": "皆",
+  "kana": "みんな",
+  "romaji": "minna",
+  "meaning": "everyone",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "自分",
+  "kana": "じぶん",
+  "romaji": "jibun",
+  "meaning": "oneself",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "人",
+  "kana": "ひと",
+  "romaji": "hito",
+  "meaning": "person",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "男",
+  "kana": "おとこ",
+  "romaji": "otoko",
+  "meaning": "man",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "女",
+  "kana": "おんな",
+  "romaji": "onna",
+  "meaning": "woman",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "男の子",
+  "kana": "おとこのこ",
+  "romaji": "otokonoko",
+  "meaning": "boy",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "女の子",
+  "kana": "おんなのこ",
+  "romaji": "onnanoko",
+  "meaning": "girl",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "子供",
+  "kana": "こども",
+  "romaji": "kodomo",
+  "meaning": "child",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "大人",
+  "kana": "おとな",
+  "romaji": "otona",
+  "meaning": "adult",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "する",
+  "kana": "する",
+  "romaji": "suru",
+  "meaning": "do",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "ある",
+  "kana": "ある",
+  "romaji": "aru",
+  "meaning": "exist/have (things)",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "いる",
+  "kana": "いる",
+  "romaji": "iru",
+  "meaning": "exist/be (living things)",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "なる",
+  "kana": "なる",
+  "romaji": "naru",
+  "meaning": "become",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "行く",
+  "kana": "いく",
+  "romaji": "iku",
+  "meaning": "go",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "来る",
+  "kana": "くる",
+  "romaji": "kuru",
+  "meaning": "come",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "帰る",
+  "kana": "かえる",
+  "romaji": "kaeru",
+  "meaning": "return/go home",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "見る",
+  "kana": "みる",
+  "romaji": "miru",
+  "meaning": "see/watch",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "聞く",
+  "kana": "きく",
+  "romaji": "kiku",
+  "meaning": "hear/ask",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "言う",
+  "kana": "いう",
+  "romaji": "iu",
+  "meaning": "say/tell",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "話す",
+  "kana": "はなす",
+  "romaji": "hanasu",
+  "meaning": "speak",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "読む",
+  "kana": "よむ",
+  "romaji": "yomu",
+  "meaning": "read",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "書く",
+  "kana": "かく",
+  "romaji": "kaku",
+  "meaning": "write",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "食べる",
+  "kana": "たべる",
+  "romaji": "taberu",
+  "meaning": "eat",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "飲む",
+  "kana": "のむ",
+  "romaji": "nomu",
+  "meaning": "drink",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "買う",
+  "kana": "かう",
+  "romaji": "kau",
+  "meaning": "buy",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "売る",
+  "kana": "うる",
+  "romaji": "uru",
+  "meaning": "sell",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "使う",
+  "kana": "つかう",
+  "romaji": "tsukau",
+  "meaning": "use",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "作る",
+  "kana": "つくる",
+  "romaji": "tsukuru",
+  "meaning": "make",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "思う",
+  "kana": "おもう",
+  "romaji": "omou",
+  "meaning": "think",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "知る",
+  "kana": "しる",
+  "romaji": "shiru",
+  "meaning": "know/find out",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "分かる",
+  "kana": "わかる",
+  "romaji": "wakaru",
+  "meaning": "understand",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "忘れる",
+  "kana": "わすれる",
+  "romaji": "wasureru",
+  "meaning": "forget",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "覚える",
+  "kana": "おぼえる",
+  "romaji": "oboeru",
+  "meaning": "remember/learn",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "好き",
+  "kana": "すき",
+  "romaji": "suki",
+  "meaning": "like",
+  "category": "Common verbs",
+  "pos": "na-adjective"
+ },
+ {
+  "jp": "嫌う",
+  "kana": "きらう",
+  "romaji": "kirau",
+  "meaning": "dislike",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "愛する",
+  "kana": "あいする",
+  "romaji": "aisuru",
+  "meaning": "love",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "会う",
+  "kana": "あう",
+  "romaji": "au",
+  "meaning": "meet",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "待つ",
+  "kana": "まつ",
+  "romaji": "matsu",
+  "meaning": "wait",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "持つ",
+  "kana": "もつ",
+  "romaji": "motsu",
+  "meaning": "hold/have",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "取る",
+  "kana": "とる",
+  "romaji": "toru",
+  "meaning": "take",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "置く",
+  "kana": "おく",
+  "romaji": "oku",
+  "meaning": "put",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "入る",
+  "kana": "はいる",
+  "romaji": "hairu",
+  "meaning": "enter",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "出る",
+  "kana": "でる",
+  "romaji": "deru",
+  "meaning": "leave/go out",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "開ける",
+  "kana": "あける",
+  "romaji": "akeru",
+  "meaning": "open",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "閉める",
+  "kana": "しめる",
+  "romaji": "shimeru",
+  "meaning": "close",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "始める",
+  "kana": "はじめる",
+  "romaji": "hajimeru",
+  "meaning": "start",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "終わる",
+  "kana": "おわる",
+  "romaji": "owaru",
+  "meaning": "finish/end",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "休む",
+  "kana": "やすむ",
+  "romaji": "yasumu",
+  "meaning": "rest",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "働く",
+  "kana": "はたらく",
+  "romaji": "hataraku",
+  "meaning": "work",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "勉強する",
+  "kana": "べんきょうする",
+  "romaji": "benkyou suru",
+  "meaning": "study",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "教える",
+  "kana": "おしえる",
+  "romaji": "oshieru",
+  "meaning": "teach/tell",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "習う",
+  "kana": "ならう",
+  "romaji": "narau",
+  "meaning": "learn",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "住む",
+  "kana": "すむ",
+  "romaji": "sumu",
+  "meaning": "live/reside",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "生きる",
+  "kana": "いきる",
+  "romaji": "ikiru",
+  "meaning": "live",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "死ぬ",
+  "kana": "しぬ",
+  "romaji": "shinu",
+  "meaning": "die",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "起きる",
+  "kana": "おきる",
+  "romaji": "okiru",
+  "meaning": "wake up",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "寝る",
+  "kana": "ねる",
+  "romaji": "neru",
+  "meaning": "sleep/go to bed",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "歩く",
+  "kana": "あるく",
+  "romaji": "aruku",
+  "meaning": "walk",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "走る",
+  "kana": "はしる",
+  "romaji": "hashiru",
+  "meaning": "run",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "座る",
+  "kana": "すわる",
+  "romaji": "suwaru",
+  "meaning": "sit",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "立つ",
+  "kana": "たつ",
+  "romaji": "tatsu",
+  "meaning": "stand",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "入れる",
+  "kana": "いれる",
+  "romaji": "ireru",
+  "meaning": "put in",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "出す",
+  "kana": "だす",
+  "romaji": "dasu",
+  "meaning": "take out",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "貸す",
+  "kana": "かす",
+  "romaji": "kasu",
+  "meaning": "lend",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "借りる",
+  "kana": "かりる",
+  "romaji": "kariru",
+  "meaning": "borrow",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "返す",
+  "kana": "かえす",
+  "romaji": "kaesu",
+  "meaning": "return",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "手伝う",
+  "kana": "てつだう",
+  "romaji": "tetsudau",
+  "meaning": "help",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "呼ぶ",
+  "kana": "よぶ",
+  "romaji": "yobu",
+  "meaning": "call",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "遊ぶ",
+  "kana": "あそぶ",
+  "romaji": "asobu",
+  "meaning": "play",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "歌う",
+  "kana": "うたう",
+  "romaji": "utau",
+  "meaning": "sing",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "泳ぐ",
+  "kana": "およぐ",
+  "romaji": "oyogu",
+  "meaning": "swim",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "洗う",
+  "kana": "あらう",
+  "romaji": "arau",
+  "meaning": "wash",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "着る",
+  "kana": "きる",
+  "romaji": "kiru",
+  "meaning": "wear (upper body)",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "脱ぐ",
+  "kana": "ぬぐ",
+  "romaji": "nugu",
+  "meaning": "take off clothes",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "乗る",
+  "kana": "のる",
+  "romaji": "noru",
+  "meaning": "ride",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "降りる",
+  "kana": "おりる",
+  "romaji": "oriru",
+  "meaning": "get off",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "切る",
+  "kana": "きる",
+  "romaji": "kiru",
+  "meaning": "cut",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "止める",
+  "kana": "とめる",
+  "romaji": "tomeru",
+  "meaning": "stop",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "大きい",
+  "kana": "おおきい",
+  "romaji": "ookii",
+  "meaning": "big",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "小さい",
+  "kana": "ちいさい",
+  "romaji": "chiisai",
+  "meaning": "small",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "多い",
+  "kana": "おおい",
+  "romaji": "ooi",
+  "meaning": "many",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "少ない",
+  "kana": "すくない",
+  "romaji": "sukunai",
+  "meaning": "few",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "長い",
+  "kana": "ながい",
+  "romaji": "nagai",
+  "meaning": "long",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "短い",
+  "kana": "みじかい",
+  "romaji": "mijikai",
+  "meaning": "short",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "高い",
+  "kana": "たかい",
+  "romaji": "takai",
+  "meaning": "high/expensive",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "安い",
+  "kana": "やすい",
+  "romaji": "yasui",
+  "meaning": "cheap",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "新しい",
+  "kana": "あたらしい",
+  "romaji": "atarashii",
+  "meaning": "new",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "古い",
+  "kana": "ふるい",
+  "romaji": "furui",
+  "meaning": "old",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "良い",
+  "kana": "いい",
+  "romaji": "ii",
+  "meaning": "good",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "悪い",
+  "kana": "わるい",
+  "romaji": "warui",
+  "meaning": "bad",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "面白い",
+  "kana": "おもしろい",
+  "romaji": "omoshiroi",
+  "meaning": "interesting/funny",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "つまらない",
+  "kana": "つまらない",
+  "romaji": "tsumaranai",
+  "meaning": "boring",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "美しい",
+  "kana": "うつくしい",
+  "romaji": "utsukushii",
+  "meaning": "beautiful",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "可愛い",
+  "kana": "かわいい",
+  "romaji": "kawaii",
+  "meaning": "cute",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "格好いい",
+  "kana": "かっこいい",
+  "romaji": "kakkoii",
+  "meaning": "cool/good-looking",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "楽しい",
+  "kana": "たのしい",
+  "romaji": "tanoshii",
+  "meaning": "fun",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "難しい",
+  "kana": "むずかしい",
+  "romaji": "muzukashii",
+  "meaning": "difficult",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "易しい",
+  "kana": "やさしい",
+  "romaji": "yasashii",
+  "meaning": "easy",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "早い",
+  "kana": "はやい",
+  "romaji": "hayai",
+  "meaning": "early/fast",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "遅い",
+  "kana": "おそい",
+  "romaji": "osoi",
+  "meaning": "late/slow",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "速い",
+  "kana": "はやい",
+  "romaji": "hayai",
+  "meaning": "fast",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "暑い",
+  "kana": "あつい",
+  "romaji": "atsui",
+  "meaning": "hot weather",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "寒い",
+  "kana": "さむい",
+  "romaji": "samui",
+  "meaning": "cold weather",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "熱い",
+  "kana": "あつい",
+  "romaji": "atsui",
+  "meaning": "hot to touch",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "冷たい",
+  "kana": "つめたい",
+  "romaji": "tsumetai",
+  "meaning": "cold to touch",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "暖かい",
+  "kana": "あたたかい",
+  "romaji": "atatakai",
+  "meaning": "warm",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "涼しい",
+  "kana": "すずしい",
+  "romaji": "suzushii",
+  "meaning": "cool",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "忙しい",
+  "kana": "いそがしい",
+  "romaji": "isogashii",
+  "meaning": "busy",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "暇",
+  "kana": "ひま",
+  "romaji": "hima",
+  "meaning": "free/not busy",
+  "category": "Adjectives & descriptions",
+  "pos": "na-adjective"
+ },
+ {
+  "jp": "強い",
+  "kana": "つよい",
+  "romaji": "tsuyoi",
+  "meaning": "strong",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "弱い",
+  "kana": "よわい",
+  "romaji": "yowai",
+  "meaning": "weak",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "重い",
+  "kana": "おもい",
+  "romaji": "omoi",
+  "meaning": "heavy",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "軽い",
+  "kana": "かるい",
+  "romaji": "karui",
+  "meaning": "light",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "明るい",
+  "kana": "あかるい",
+  "romaji": "akarui",
+  "meaning": "bright",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "暗い",
+  "kana": "くらい",
+  "romaji": "kurai",
+  "meaning": "dark",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "広い",
+  "kana": "ひろい",
+  "romaji": "hiroi",
+  "meaning": "spacious/wide",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "狭い",
+  "kana": "せまい",
+  "romaji": "semai",
+  "meaning": "narrow",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "近い",
+  "kana": "ちかい",
+  "romaji": "chikai",
+  "meaning": "near",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "遠い",
+  "kana": "とおい",
+  "romaji": "tooi",
+  "meaning": "far",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "美味しい",
+  "kana": "おいしい",
+  "romaji": "oishii",
+  "meaning": "delicious",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "不味い",
+  "kana": "まずい",
+  "romaji": "mazui",
+  "meaning": "bad-tasting",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "甘い",
+  "kana": "あまい",
+  "romaji": "amai",
+  "meaning": "sweet",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "辛い",
+  "kana": "からい",
+  "romaji": "karai",
+  "meaning": "spicy",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "苦い",
+  "kana": "にがい",
+  "romaji": "nigai",
+  "meaning": "bitter",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "酸っぱい",
+  "kana": "すっぱい",
+  "romaji": "suppai",
+  "meaning": "sour",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "しょっぱい",
+  "kana": "しょっぱい",
+  "romaji": "shoppai",
+  "meaning": "salty",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "汚い",
+  "kana": "きたない",
+  "romaji": "kitanai",
+  "meaning": "dirty",
+  "category": "Adjectives & descriptions",
+  "pos": "adjective"
+ },
+ {
+  "jp": "きれい",
+  "kana": "きれい",
+  "romaji": "kirei",
+  "meaning": "clean/beautiful",
+  "category": "Adjectives & descriptions",
+  "pos": "na-adjective"
+ },
+ {
+  "jp": "家族",
+  "kana": "かぞく",
+  "romaji": "kazoku",
+  "meaning": "family",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "父",
+  "kana": "ちち",
+  "romaji": "chichi",
+  "meaning": "my father",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "お父さん",
+  "kana": "おとうさん",
+  "romaji": "otousan",
+  "meaning": "father",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "母",
+  "kana": "はは",
+  "romaji": "haha",
+  "meaning": "my mother",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "お母さん",
+  "kana": "おかあさん",
+  "romaji": "okaasan",
+  "meaning": "mother",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "両親",
+  "kana": "りょうしん",
+  "romaji": "ryoushin",
+  "meaning": "parents",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "兄",
+  "kana": "あに",
+  "romaji": "ani",
+  "meaning": "older brother",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "お兄さん",
+  "kana": "おにいさん",
+  "romaji": "oniisan",
+  "meaning": "older brother",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "姉",
+  "kana": "あね",
+  "romaji": "ane",
+  "meaning": "older sister",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "お姉さん",
+  "kana": "おねえさん",
+  "romaji": "oneesan",
+  "meaning": "older sister",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "弟",
+  "kana": "おとうと",
+  "romaji": "otouto",
+  "meaning": "younger brother",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "妹",
+  "kana": "いもうと",
+  "romaji": "imouto",
+  "meaning": "younger sister",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "夫",
+  "kana": "おっと",
+  "romaji": "otto",
+  "meaning": "husband",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "妻",
+  "kana": "つま",
+  "romaji": "tsuma",
+  "meaning": "wife",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "息子",
+  "kana": "むすこ",
+  "romaji": "musuko",
+  "meaning": "son",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "娘",
+  "kana": "むすめ",
+  "romaji": "musume",
+  "meaning": "daughter",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "友達",
+  "kana": "ともだち",
+  "romaji": "tomodachi",
+  "meaning": "friend",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "彼氏",
+  "kana": "かれし",
+  "romaji": "kareshi",
+  "meaning": "boyfriend",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "先生",
+  "kana": "せんせい",
+  "romaji": "sensei",
+  "meaning": "teacher",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "学生",
+  "kana": "がくせい",
+  "romaji": "gakusei",
+  "meaning": "student",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "男性",
+  "kana": "だんせい",
+  "romaji": "dansei",
+  "meaning": "male/man",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "女性",
+  "kana": "じょせい",
+  "romaji": "josei",
+  "meaning": "female/woman",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "客",
+  "kana": "きゃく",
+  "romaji": "kyaku",
+  "meaning": "customer/guest",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "店員",
+  "kana": "てんいん",
+  "romaji": "ten'in",
+  "meaning": "shop clerk",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "医者",
+  "kana": "いしゃ",
+  "romaji": "isha",
+  "meaning": "doctor",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "時間",
+  "kana": "じかん",
+  "romaji": "jikan",
+  "meaning": "time",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "時",
+  "kana": "とき",
+  "romaji": "toki",
+  "meaning": "time/when",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "今日",
+  "kana": "きょう",
+  "romaji": "kyou",
+  "meaning": "today",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "昨日",
+  "kana": "きのう",
+  "romaji": "kinou",
+  "meaning": "yesterday",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "明日",
+  "kana": "あした",
+  "romaji": "ashita",
+  "meaning": "tomorrow",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "今",
+  "kana": "いま",
+  "romaji": "ima",
+  "meaning": "now",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "朝",
+  "kana": "あさ",
+  "romaji": "asa",
+  "meaning": "morning",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "昼",
+  "kana": "ひる",
+  "romaji": "hiru",
+  "meaning": "noon/daytime",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "夜",
+  "kana": "よる",
+  "romaji": "yoru",
+  "meaning": "night",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "晩",
+  "kana": "ばん",
+  "romaji": "ban",
+  "meaning": "evening/night",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "毎日",
+  "kana": "まいにち",
+  "romaji": "mainichi",
+  "meaning": "every day",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "毎週",
+  "kana": "まいしゅう",
+  "romaji": "maishuu",
+  "meaning": "every week",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "毎月",
+  "kana": "まいつき",
+  "romaji": "maitsuki",
+  "meaning": "every month",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "毎年",
+  "kana": "まいとし",
+  "romaji": "maitoshi",
+  "meaning": "every year",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "週",
+  "kana": "しゅう",
+  "romaji": "shuu",
+  "meaning": "week",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "月",
+  "kana": "つき",
+  "romaji": "tsuki",
+  "meaning": "month/moon",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "年",
+  "kana": "とし",
+  "romaji": "toshi",
+  "meaning": "year",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "分",
+  "kana": "ふん",
+  "romaji": "fun",
+  "meaning": "minute",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "秒",
+  "kana": "びょう",
+  "romaji": "byou",
+  "meaning": "second",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "今週",
+  "kana": "こんしゅう",
+  "romaji": "konshuu",
+  "meaning": "this week",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "今月",
+  "kana": "こんげつ",
+  "romaji": "kongetsu",
+  "meaning": "this month",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "今年",
+  "kana": "ことし",
+  "romaji": "kotoshi",
+  "meaning": "this year",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "去年",
+  "kana": "きょねん",
+  "romaji": "kyonen",
+  "meaning": "last year",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "来年",
+  "kana": "らいねん",
+  "romaji": "rainen",
+  "meaning": "next year",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "最近",
+  "kana": "さいきん",
+  "romaji": "saikin",
+  "meaning": "recently",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "家",
+  "kana": "いえ",
+  "romaji": "ie",
+  "meaning": "house/home",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "部屋",
+  "kana": "へや",
+  "romaji": "heya",
+  "meaning": "room",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "学校",
+  "kana": "がっこう",
+  "romaji": "gakkou",
+  "meaning": "school",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "大学",
+  "kana": "だいがく",
+  "romaji": "daigaku",
+  "meaning": "university",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "会社",
+  "kana": "かいしゃ",
+  "romaji": "kaisha",
+  "meaning": "company",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "駅",
+  "kana": "えき",
+  "romaji": "eki",
+  "meaning": "station",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "店",
+  "kana": "みせ",
+  "romaji": "mise",
+  "meaning": "shop/store",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "病院",
+  "kana": "びょういん",
+  "romaji": "byouin",
+  "meaning": "hospital",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "銀行",
+  "kana": "ぎんこう",
+  "romaji": "ginkou",
+  "meaning": "bank",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "郵便局",
+  "kana": "ゆうびんきょく",
+  "romaji": "yuubinkyoku",
+  "meaning": "post office",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "公園",
+  "kana": "こうえん",
+  "romaji": "kouen",
+  "meaning": "park",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "道",
+  "kana": "みち",
+  "romaji": "michi",
+  "meaning": "road/way",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "街",
+  "kana": "まち",
+  "romaji": "machi",
+  "meaning": "town/city",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "国",
+  "kana": "くに",
+  "romaji": "kuni",
+  "meaning": "country",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "世界",
+  "kana": "せかい",
+  "romaji": "sekai",
+  "meaning": "world",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "東京",
+  "kana": "とうきょう",
+  "romaji": "Tokyo",
+  "meaning": "Tokyo",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "日本",
+  "kana": "にほん",
+  "romaji": "Nihon",
+  "meaning": "Japan",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "車",
+  "kana": "くるま",
+  "romaji": "kuruma",
+  "meaning": "car",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "電車",
+  "kana": "でんしゃ",
+  "romaji": "densha",
+  "meaning": "train",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "地下鉄",
+  "kana": "ちかてつ",
+  "romaji": "chikatetsu",
+  "meaning": "subway",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "バス",
+  "kana": "バス",
+  "romaji": "basu",
+  "meaning": "bus",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "タクシー",
+  "kana": "タクシー",
+  "romaji": "takushii",
+  "meaning": "taxi",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "自転車",
+  "kana": "じてんしゃ",
+  "romaji": "jitensha",
+  "meaning": "bicycle",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "飛行機",
+  "kana": "ひこうき",
+  "romaji": "hikouki",
+  "meaning": "airplane",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "空港",
+  "kana": "くうこう",
+  "romaji": "kuukou",
+  "meaning": "airport",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "海",
+  "kana": "うみ",
+  "romaji": "umi",
+  "meaning": "sea",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "山",
+  "kana": "やま",
+  "romaji": "yama",
+  "meaning": "mountain",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "川",
+  "kana": "かわ",
+  "romaji": "kawa",
+  "meaning": "river",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "店内",
+  "kana": "てんない",
+  "romaji": "tennai",
+  "meaning": "inside the store",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "外",
+  "kana": "そと",
+  "romaji": "soto",
+  "meaning": "outside",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "食べ物",
+  "kana": "たべもの",
+  "romaji": "tabemono",
+  "meaning": "food",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "飲み物",
+  "kana": "のみもの",
+  "romaji": "nomimono",
+  "meaning": "drink",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "ご飯",
+  "kana": "ごはん",
+  "romaji": "gohan",
+  "meaning": "rice/meal",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "米",
+  "kana": "こめ",
+  "romaji": "kome",
+  "meaning": "rice",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "パン",
+  "kana": "パン",
+  "romaji": "pan",
+  "meaning": "bread",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "肉",
+  "kana": "にく",
+  "romaji": "niku",
+  "meaning": "meat",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "魚",
+  "kana": "さかな",
+  "romaji": "sakana",
+  "meaning": "fish",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "鶏肉",
+  "kana": "とりにく",
+  "romaji": "toriniku",
+  "meaning": "chicken",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "牛肉",
+  "kana": "ぎゅうにく",
+  "romaji": "gyuuniku",
+  "meaning": "beef",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "豚肉",
+  "kana": "ぶたにく",
+  "romaji": "butaniku",
+  "meaning": "pork",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "野菜",
+  "kana": "やさい",
+  "romaji": "yasai",
+  "meaning": "vegetables",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "果物",
+  "kana": "くだもの",
+  "romaji": "kudamono",
+  "meaning": "fruit",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "卵",
+  "kana": "たまご",
+  "romaji": "tamago",
+  "meaning": "egg",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "牛乳",
+  "kana": "ぎゅうにゅう",
+  "romaji": "gyuunyuu",
+  "meaning": "milk",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "水",
+  "kana": "みず",
+  "romaji": "mizu",
+  "meaning": "water",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "お茶",
+  "kana": "おちゃ",
+  "romaji": "ocha",
+  "meaning": "tea",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "コーヒー",
+  "kana": "コーヒー",
+  "romaji": "koohii",
+  "meaning": "coffee",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "酒",
+  "kana": "さけ",
+  "romaji": "sake",
+  "meaning": "alcohol/sake",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "ビール",
+  "kana": "ビール",
+  "romaji": "biiru",
+  "meaning": "beer",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "料理",
+  "kana": "りょうり",
+  "romaji": "ryouri",
+  "meaning": "cooking/dish",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "朝ご飯",
+  "kana": "あさごはん",
+  "romaji": "asagohan",
+  "meaning": "breakfast",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "昼ご飯",
+  "kana": "ひるごはん",
+  "romaji": "hirugohan",
+  "meaning": "lunch",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "晩ご飯",
+  "kana": "ばんごはん",
+  "romaji": "bangohan",
+  "meaning": "dinner",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "お菓子",
+  "kana": "おかし",
+  "romaji": "okashi",
+  "meaning": "sweets/snacks",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "ケーキ",
+  "kana": "ケーキ",
+  "romaji": "keeki",
+  "meaning": "cake",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "果汁",
+  "kana": "かじゅう",
+  "romaji": "kajuu",
+  "meaning": "fruit juice",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "塩",
+  "kana": "しお",
+  "romaji": "shio",
+  "meaning": "salt",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "砂糖",
+  "kana": "さとう",
+  "romaji": "satou",
+  "meaning": "sugar",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "箸",
+  "kana": "はし",
+  "romaji": "hashi",
+  "meaning": "chopsticks",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "皿",
+  "kana": "さら",
+  "romaji": "sara",
+  "meaning": "plate",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "物",
+  "kana": "もの",
+  "romaji": "mono",
+  "meaning": "thing",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "本",
+  "kana": "ほん",
+  "romaji": "hon",
+  "meaning": "book",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "ペン",
+  "kana": "ペン",
+  "romaji": "pen",
+  "meaning": "pen",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "紙",
+  "kana": "かみ",
+  "romaji": "kami",
+  "meaning": "paper",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "鞄",
+  "kana": "かばん",
+  "romaji": "kaban",
+  "meaning": "bag",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "靴",
+  "kana": "くつ",
+  "romaji": "kutsu",
+  "meaning": "shoes",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "服",
+  "kana": "ふく",
+  "romaji": "fuku",
+  "meaning": "clothes",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "時計",
+  "kana": "とけい",
+  "romaji": "tokei",
+  "meaning": "clock/watch",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "鍵",
+  "kana": "かぎ",
+  "romaji": "kagi",
+  "meaning": "key",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "傘",
+  "kana": "かさ",
+  "romaji": "kasa",
+  "meaning": "umbrella",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "電話",
+  "kana": "でんわ",
+  "romaji": "denwa",
+  "meaning": "telephone",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "携帯",
+  "kana": "けいたい",
+  "romaji": "keitai",
+  "meaning": "mobile phone",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "スマートフォン",
+  "kana": "スマートフォン",
+  "romaji": "sumaatofon",
+  "meaning": "smartphone",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "パソコン",
+  "kana": "パソコン",
+  "romaji": "pasokon",
+  "meaning": "computer",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "テレビ",
+  "kana": "テレビ",
+  "romaji": "terebi",
+  "meaning": "TV",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "写真",
+  "kana": "しゃしん",
+  "romaji": "shashin",
+  "meaning": "photograph",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "映画",
+  "kana": "えいが",
+  "romaji": "eiga",
+  "meaning": "movie",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "音楽",
+  "kana": "おんがく",
+  "romaji": "ongaku",
+  "meaning": "music",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "手紙",
+  "kana": "てがみ",
+  "romaji": "tegami",
+  "meaning": "letter",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "お金",
+  "kana": "おかね",
+  "romaji": "okane",
+  "meaning": "money",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "財布",
+  "kana": "さいふ",
+  "romaji": "saifu",
+  "meaning": "wallet",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "切符",
+  "kana": "きっぷ",
+  "romaji": "kippu",
+  "meaning": "ticket",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "荷物",
+  "kana": "にもつ",
+  "romaji": "nimotsu",
+  "meaning": "luggage",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "電気",
+  "kana": "でんき",
+  "romaji": "denki",
+  "meaning": "electricity/light",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "冷蔵庫",
+  "kana": "れいぞうこ",
+  "romaji": "reizouko",
+  "meaning": "refrigerator",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "机",
+  "kana": "つくえ",
+  "romaji": "tsukue",
+  "meaning": "desk",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "椅子",
+  "kana": "いす",
+  "romaji": "isu",
+  "meaning": "chair",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "ベッド",
+  "kana": "ベッド",
+  "romaji": "beddo",
+  "meaning": "bed",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "窓",
+  "kana": "まど",
+  "romaji": "mado",
+  "meaning": "window",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "体",
+  "kana": "からだ",
+  "romaji": "karada",
+  "meaning": "body",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "頭",
+  "kana": "あたま",
+  "romaji": "atama",
+  "meaning": "head",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "顔",
+  "kana": "かお",
+  "romaji": "kao",
+  "meaning": "face",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "目",
+  "kana": "め",
+  "romaji": "me",
+  "meaning": "eye",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "耳",
+  "kana": "みみ",
+  "romaji": "mimi",
+  "meaning": "ear",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "鼻",
+  "kana": "はな",
+  "romaji": "hana",
+  "meaning": "nose",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "口",
+  "kana": "くち",
+  "romaji": "kuchi",
+  "meaning": "mouth",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "歯",
+  "kana": "は",
+  "romaji": "ha",
+  "meaning": "tooth",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "首",
+  "kana": "くび",
+  "romaji": "kubi",
+  "meaning": "neck",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "肩",
+  "kana": "かた",
+  "romaji": "kata",
+  "meaning": "shoulder",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "腕",
+  "kana": "うで",
+  "romaji": "ude",
+  "meaning": "arm",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "手",
+  "kana": "て",
+  "romaji": "te",
+  "meaning": "hand",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "指",
+  "kana": "ゆび",
+  "romaji": "yubi",
+  "meaning": "finger",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "胸",
+  "kana": "むね",
+  "romaji": "mune",
+  "meaning": "chest",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "背中",
+  "kana": "せなか",
+  "romaji": "senaka",
+  "meaning": "back",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "お腹",
+  "kana": "おなか",
+  "romaji": "onaka",
+  "meaning": "stomach",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "足",
+  "kana": "あし",
+  "romaji": "ashi",
+  "meaning": "leg/foot",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "心",
+  "kana": "こころ",
+  "romaji": "kokoro",
+  "meaning": "heart/mind",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "病気",
+  "kana": "びょうき",
+  "romaji": "byouki",
+  "meaning": "illness",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "痛い",
+  "kana": "いたい",
+  "romaji": "itai",
+  "meaning": "painful",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "元気",
+  "kana": "げんき",
+  "romaji": "genki",
+  "meaning": "healthy/energetic",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "薬",
+  "kana": "くすり",
+  "romaji": "kusuri",
+  "meaning": "medicine",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "熱",
+  "kana": "ねつ",
+  "romaji": "netsu",
+  "meaning": "fever/heat",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "風邪",
+  "kana": "かぜ",
+  "romaji": "kaze",
+  "meaning": "cold/flu",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "医院",
+  "kana": "いいん",
+  "romaji": "iin",
+  "meaning": "clinic",
+  "category": "Body & health",
+  "pos": "noun"
+ },
+ {
+  "jp": "天気",
+  "kana": "てんき",
+  "romaji": "tenki",
+  "meaning": "weather",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "雨",
+  "kana": "あめ",
+  "romaji": "ame",
+  "meaning": "rain",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "雪",
+  "kana": "ゆき",
+  "romaji": "yuki",
+  "meaning": "snow",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "風",
+  "kana": "かぜ",
+  "romaji": "kaze",
+  "meaning": "wind",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "雲",
+  "kana": "くも",
+  "romaji": "kumo",
+  "meaning": "cloud",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "空",
+  "kana": "そら",
+  "romaji": "sora",
+  "meaning": "sky",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "太陽",
+  "kana": "たいよう",
+  "romaji": "taiyou",
+  "meaning": "sun",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "星",
+  "kana": "ほし",
+  "romaji": "hoshi",
+  "meaning": "star",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "春",
+  "kana": "はる",
+  "romaji": "haru",
+  "meaning": "spring",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "夏",
+  "kana": "なつ",
+  "romaji": "natsu",
+  "meaning": "summer",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "秋",
+  "kana": "あき",
+  "romaji": "aki",
+  "meaning": "autumn",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "冬",
+  "kana": "ふゆ",
+  "romaji": "fuyu",
+  "meaning": "winter",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "木",
+  "kana": "き",
+  "romaji": "ki",
+  "meaning": "tree",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "花",
+  "kana": "はな",
+  "romaji": "hana",
+  "meaning": "flower",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "草",
+  "kana": "くさ",
+  "romaji": "kusa",
+  "meaning": "grass",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "森",
+  "kana": "もり",
+  "romaji": "mori",
+  "meaning": "forest",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "動物",
+  "kana": "どうぶつ",
+  "romaji": "doubutsu",
+  "meaning": "animal",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "犬",
+  "kana": "いぬ",
+  "romaji": "inu",
+  "meaning": "dog",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "猫",
+  "kana": "ねこ",
+  "romaji": "neko",
+  "meaning": "cat",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "鳥",
+  "kana": "とり",
+  "romaji": "tori",
+  "meaning": "bird",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "虫",
+  "kana": "むし",
+  "romaji": "mushi",
+  "meaning": "insect",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "地球",
+  "kana": "ちきゅう",
+  "romaji": "chikyuu",
+  "meaning": "Earth",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "自然",
+  "kana": "しぜん",
+  "romaji": "shizen",
+  "meaning": "nature",
+  "category": "Nature & weather",
+  "pos": "noun"
+ },
+ {
+  "jp": "仕事",
+  "kana": "しごと",
+  "romaji": "shigoto",
+  "meaning": "work/job",
+  "category": "School & work",
+  "pos": "noun"
+ },
+ {
+  "jp": "会社員",
+  "kana": "かいしゃいん",
+  "romaji": "kaishain",
+  "meaning": "company employee",
+  "category": "School & work",
+  "pos": "noun"
+ },
+ {
+  "jp": "社長",
+  "kana": "しゃちょう",
+  "romaji": "shachou",
+  "meaning": "company president",
+  "category": "School & work",
+  "pos": "noun"
+ },
+ {
+  "jp": "社員",
+  "kana": "しゃいん",
+  "romaji": "shain",
+  "meaning": "employee",
+  "category": "School & work",
+  "pos": "noun"
+ },
+ {
+  "jp": "教室",
+  "kana": "きょうしつ",
+  "romaji": "kyoushitsu",
+  "meaning": "classroom",
+  "category": "School & work",
+  "pos": "noun"
+ },
+ {
+  "jp": "授業",
+  "kana": "じゅぎょう",
+  "romaji": "jugyou",
+  "meaning": "class/lesson",
+  "category": "School & work",
+  "pos": "noun"
+ },
+ {
+  "jp": "宿題",
+  "kana": "しゅくだい",
+  "romaji": "shukudai",
+  "meaning": "homework",
+  "category": "School & work",
+  "pos": "noun"
+ },
+ {
+  "jp": "試験",
+  "kana": "しけん",
+  "romaji": "shiken",
+  "meaning": "exam",
+  "category": "School & work",
+  "pos": "noun"
+ },
+ {
+  "jp": "質問",
+  "kana": "しつもん",
+  "romaji": "shitsumon",
+  "meaning": "question",
+  "category": "School & work",
+  "pos": "noun"
+ },
+ {
+  "jp": "答え",
+  "kana": "こたえ",
+  "romaji": "kotae",
+  "meaning": "answer",
+  "category": "School & work",
+  "pos": "noun"
+ },
+ {
+  "jp": "問題",
+  "kana": "もんだい",
+  "romaji": "mondai",
+  "meaning": "problem/question",
+  "category": "School & work",
+  "pos": "noun"
+ },
+ {
+  "jp": "日本語",
+  "kana": "にほんご",
+  "romaji": "nihongo",
+  "meaning": "Japanese language",
+  "category": "School & work",
+  "pos": "noun"
+ },
+ {
+  "jp": "英語",
+  "kana": "えいご",
+  "romaji": "eigo",
+  "meaning": "English",
+  "category": "School & work",
+  "pos": "noun"
+ },
+ {
+  "jp": "言葉",
+  "kana": "ことば",
+  "romaji": "kotoba",
+  "meaning": "word/language",
+  "category": "School & work",
+  "pos": "noun"
+ },
+ {
+  "jp": "名前",
+  "kana": "なまえ",
+  "romaji": "namae",
+  "meaning": "name",
+  "category": "School & work",
+  "pos": "noun"
+ },
+ {
+  "jp": "意味",
+  "kana": "いみ",
+  "romaji": "imi",
+  "meaning": "meaning",
+  "category": "School & work",
+  "pos": "noun"
+ },
+ {
+  "jp": "勉強",
+  "kana": "べんきょう",
+  "romaji": "benkyou",
+  "meaning": "study",
+  "category": "School & work",
+  "pos": "noun"
+ },
+ {
+  "jp": "本当",
+  "kana": "ほんとう",
+  "romaji": "hontou",
+  "meaning": "truth/really",
+  "category": "School & work",
+  "pos": "noun"
+ },
+ {
+  "jp": "練習",
+  "kana": "れんしゅう",
+  "romaji": "renshuu",
+  "meaning": "practice",
+  "category": "School & work",
+  "pos": "noun"
+ },
+ {
+  "jp": "一",
+  "kana": "いち",
+  "romaji": "ichi",
+  "meaning": "one",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "二",
+  "kana": "に",
+  "romaji": "ni",
+  "meaning": "two",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "三",
+  "kana": "さん",
+  "romaji": "san",
+  "meaning": "three",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "四",
+  "kana": "よん/し",
+  "romaji": "yon/shi",
+  "meaning": "four",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "五",
+  "kana": "ご",
+  "romaji": "go",
+  "meaning": "five",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "六",
+  "kana": "ろく",
+  "romaji": "roku",
+  "meaning": "six",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "七",
+  "kana": "なな/しち",
+  "romaji": "nana/shichi",
+  "meaning": "seven",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "八",
+  "kana": "はち",
+  "romaji": "hachi",
+  "meaning": "eight",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "九",
+  "kana": "きゅう/く",
+  "romaji": "kyuu/ku",
+  "meaning": "nine",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "十",
+  "kana": "じゅう",
+  "romaji": "juu",
+  "meaning": "ten",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "百",
+  "kana": "ひゃく",
+  "romaji": "hyaku",
+  "meaning": "hundred",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "千",
+  "kana": "せん",
+  "romaji": "sen",
+  "meaning": "thousand",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "万",
+  "kana": "まん",
+  "romaji": "man",
+  "meaning": "ten thousand",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "円",
+  "kana": "えん",
+  "romaji": "en",
+  "meaning": "yen",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "半分",
+  "kana": "はんぶん",
+  "romaji": "hanbun",
+  "meaning": "half",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "全部",
+  "kana": "ぜんぶ",
+  "romaji": "zenbu",
+  "meaning": "all",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "一つ",
+  "kana": "ひとつ",
+  "romaji": "hitotsu",
+  "meaning": "one thing",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "二つ",
+  "kana": "ふたつ",
+  "romaji": "futatsu",
+  "meaning": "two things",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "少し",
+  "kana": "すこし",
+  "romaji": "sukoshi",
+  "meaning": "a little",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "たくさん",
+  "kana": "たくさん",
+  "romaji": "takusan",
+  "meaning": "many/a lot",
+  "category": "Numbers & quantities",
+  "pos": "noun"
+ },
+ {
+  "jp": "とても",
+  "kana": "とても",
+  "romaji": "totemo",
+  "meaning": "very",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "本当に",
+  "kana": "ほんとうに",
+  "romaji": "hontou ni",
+  "meaning": "really",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "すごく",
+  "kana": "すごく",
+  "romaji": "sugoku",
+  "meaning": "very/really",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "もっと",
+  "kana": "もっと",
+  "romaji": "motto",
+  "meaning": "more",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "もう",
+  "kana": "もう",
+  "romaji": "mou",
+  "meaning": "already/more",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "まだ",
+  "kana": "まだ",
+  "romaji": "mada",
+  "meaning": "still/not yet",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "いつも",
+  "kana": "いつも",
+  "romaji": "itsumo",
+  "meaning": "always",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "よく",
+  "kana": "よく",
+  "romaji": "yoku",
+  "meaning": "often/well",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "時々",
+  "kana": "ときどき",
+  "romaji": "tokidoki",
+  "meaning": "sometimes",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "あまり",
+  "kana": "あまり",
+  "romaji": "amari",
+  "meaning": "not very",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "全然",
+  "kana": "ぜんぜん",
+  "romaji": "zenzen",
+  "meaning": "not at all",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "すぐ",
+  "kana": "すぐ",
+  "romaji": "sugu",
+  "meaning": "immediately/soon",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "一緒に",
+  "kana": "いっしょに",
+  "romaji": "issho ni",
+  "meaning": "together",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "初めて",
+  "kana": "はじめて",
+  "romaji": "hajimete",
+  "meaning": "for the first time",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "また",
+  "kana": "また",
+  "romaji": "mata",
+  "meaning": "again",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "もう一度",
+  "kana": "もういちど",
+  "romaji": "mou ichido",
+  "meaning": "one more time",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "例えば",
+  "kana": "たとえば",
+  "romaji": "tatoeba",
+  "meaning": "for example",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "特に",
+  "kana": "とくに",
+  "romaji": "tokuni",
+  "meaning": "especially",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "もちろん",
+  "kana": "もちろん",
+  "romaji": "mochiron",
+  "meaning": "of course",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "気持ち",
+  "kana": "きもち",
+  "romaji": "kimochi",
+  "meaning": "feeling",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "心配",
+  "kana": "しんぱい",
+  "romaji": "shinpai",
+  "meaning": "worry",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "安心",
+  "kana": "あんしん",
+  "romaji": "anshin",
+  "meaning": "relief/peace of mind",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "幸せ",
+  "kana": "しあわせ",
+  "romaji": "shiawase",
+  "meaning": "happiness",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "愛",
+  "kana": "あい",
+  "romaji": "ai",
+  "meaning": "love",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "夢",
+  "kana": "ゆめ",
+  "romaji": "yume",
+  "meaning": "dream",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "希望",
+  "kana": "きぼう",
+  "romaji": "kibou",
+  "meaning": "hope",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "考え",
+  "kana": "かんがえ",
+  "romaji": "kangae",
+  "meaning": "thought/idea",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "理由",
+  "kana": "りゆう",
+  "romaji": "riyuu",
+  "meaning": "reason",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "意見",
+  "kana": "いけん",
+  "romaji": "iken",
+  "meaning": "opinion",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "生活",
+  "kana": "せいかつ",
+  "romaji": "seikatsu",
+  "meaning": "life/daily life",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "人生",
+  "kana": "じんせい",
+  "romaji": "jinsei",
+  "meaning": "life",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "文化",
+  "kana": "ぶんか",
+  "romaji": "bunka",
+  "meaning": "culture",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "歴史",
+  "kana": "れきし",
+  "romaji": "rekishi",
+  "meaning": "history",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "未来",
+  "kana": "みらい",
+  "romaji": "mirai",
+  "meaning": "future",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "過去",
+  "kana": "かこ",
+  "romaji": "kako",
+  "meaning": "past",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "現在",
+  "kana": "げんざい",
+  "romaji": "genzai",
+  "meaning": "present/current",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "可能性",
+  "kana": "かのうせい",
+  "romaji": "kanousei",
+  "meaning": "possibility",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "必要",
+  "kana": "ひつよう",
+  "romaji": "hitsuyou",
+  "meaning": "necessary/need",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "そして",
+  "kana": "そして",
+  "romaji": "soshite",
+  "meaning": "and/then",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "でも",
+  "kana": "でも",
+  "romaji": "demo",
+  "meaning": "but",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "しかし",
+  "kana": "しかし",
+  "romaji": "shikashi",
+  "meaning": "however",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "だから",
+  "kana": "だから",
+  "romaji": "dakara",
+  "meaning": "therefore/so",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "それから",
+  "kana": "それから",
+  "romaji": "sorekara",
+  "meaning": "after that",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "それで",
+  "kana": "それで",
+  "romaji": "sorede",
+  "meaning": "so/therefore",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "または",
+  "kana": "または",
+  "romaji": "matawa",
+  "meaning": "or",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "もし",
+  "kana": "もし",
+  "romaji": "moshi",
+  "meaning": "if",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "けど",
+  "kana": "けど",
+  "romaji": "kedo",
+  "meaning": "but/though",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "ので",
+  "kana": "ので",
+  "romaji": "node",
+  "meaning": "because",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "から",
+  "kana": "から",
+  "romaji": "kara",
+  "meaning": "because/from",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "まで",
+  "kana": "まで",
+  "romaji": "made",
+  "meaning": "until/to",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "だけ",
+  "kana": "だけ",
+  "romaji": "dake",
+  "meaning": "only",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "しか",
+  "kana": "しか",
+  "romaji": "shika",
+  "meaning": "only (with negative)",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "ほど",
+  "kana": "ほど",
+  "romaji": "hodo",
+  "meaning": "about/to the extent",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "くらい",
+  "kana": "くらい",
+  "romaji": "kurai",
+  "meaning": "about/approximately",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "など",
+  "kana": "など",
+  "romaji": "nado",
+  "meaning": "etc.",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "について",
+  "kana": "について",
+  "romaji": "ni tsuite",
+  "meaning": "about/concerning",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "と",
+  "kana": "と",
+  "romaji": "to",
+  "meaning": "and/with/quoting",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "や",
+  "kana": "や",
+  "romaji": "ya",
+  "meaning": "and, things like",
+  "category": "Common conjunctions & particles",
+  "pos": "particle"
+ },
+ {
+  "jp": "はい",
+  "kana": "はい",
+  "romaji": "hai",
+  "meaning": "yes",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "いいえ",
+  "kana": "いいえ",
+  "romaji": "iie",
+  "meaning": "no",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "ありがとう",
+  "kana": "ありがとう",
+  "romaji": "arigatou",
+  "meaning": "thank you",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "どうも",
+  "kana": "どうも",
+  "romaji": "doumo",
+  "meaning": "thanks/very",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "すみません",
+  "kana": "すみません",
+  "romaji": "sumimasen",
+  "meaning": "excuse me/sorry",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "ごめん",
+  "kana": "ごめん",
+  "romaji": "gomen",
+  "meaning": "sorry",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "お願い",
+  "kana": "おねがい",
+  "romaji": "onegai",
+  "meaning": "request/please",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "どうぞ",
+  "kana": "どうぞ",
+  "romaji": "douzo",
+  "meaning": "please/go ahead",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "こんにちは",
+  "kana": "こんにちは",
+  "romaji": "konnichiwa",
+  "meaning": "hello",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "おはよう",
+  "kana": "おはよう",
+  "romaji": "ohayou",
+  "meaning": "good morning",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "こんばんは",
+  "kana": "こんばんは",
+  "romaji": "konbanwa",
+  "meaning": "good evening",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "さようなら",
+  "kana": "さようなら",
+  "romaji": "sayounara",
+  "meaning": "goodbye",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "またね",
+  "kana": "またね",
+  "romaji": "mata ne",
+  "meaning": "see you",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "もしもし",
+  "kana": "もしもし",
+  "romaji": "moshi moshi",
+  "meaning": "hello (phone)",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "大丈夫",
+  "kana": "だいじょうぶ",
+  "romaji": "daijoubu",
+  "meaning": "okay/all right",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "分かった",
+  "kana": "わかった",
+  "romaji": "wakatta",
+  "meaning": "understood/got it",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "分かりません",
+  "kana": "わかりません",
+  "romaji": "wakarimasen",
+  "meaning": "I don't understand/know",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "知りません",
+  "kana": "しりません",
+  "romaji": "shirimasen",
+  "meaning": "I don't know",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "本当？",
+  "kana": "ほんとう？",
+  "romaji": "hontou?",
+  "meaning": "Really?",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "そう",
+  "kana": "そう",
+  "romaji": "sou",
+  "meaning": "that way/so",
+  "category": "Very common conversational words",
+  "pos": "expression"
+ },
+ {
+  "jp": "こと",
+  "kana": "こと",
+  "romaji": "koto",
+  "meaning": "thing/matter",
+  "category": "More high-frequency words",
+  "pos": "noun"
+ },
+ {
+  "jp": "ところ",
+  "kana": "ところ",
+  "romaji": "tokoro",
+  "meaning": "place",
+  "category": "More high-frequency words",
+  "pos": "noun"
+ },
+ {
+  "jp": "ため",
+  "kana": "ため",
+  "romaji": "tame",
+  "meaning": "purpose/reason",
+  "category": "More high-frequency words",
+  "pos": "noun"
+ },
+ {
+  "jp": "よう",
+  "kana": "よう",
+  "romaji": "you",
+  "meaning": "way/kind/appearance",
+  "category": "More high-frequency words",
+  "pos": "noun"
+ },
+ {
+  "jp": "もの",
+  "kana": "もの",
+  "romaji": "mono",
+  "meaning": "thing",
+  "category": "More high-frequency words",
+  "pos": "noun"
+ },
+ {
+  "jp": "方",
+  "kana": "ほう",
+  "romaji": "hou",
+  "meaning": "direction/way",
+  "category": "More high-frequency words",
+  "pos": "noun"
+ },
+ {
+  "jp": "他",
+  "kana": "ほか",
+  "romaji": "hoka",
+  "meaning": "other",
+  "category": "More high-frequency words",
+  "pos": "noun"
+ },
+ {
+  "jp": "前",
+  "kana": "まえ",
+  "romaji": "mae",
+  "meaning": "front/before",
+  "category": "More high-frequency words",
+  "pos": "noun"
+ },
+ {
+  "jp": "後ろ",
+  "kana": "うしろ",
+  "romaji": "ushiro",
+  "meaning": "behind",
+  "category": "More high-frequency words",
+  "pos": "noun"
+ },
+ {
+  "jp": "上",
+  "kana": "うえ",
+  "romaji": "ue",
+  "meaning": "above/on",
+  "category": "More high-frequency words",
+  "pos": "noun"
+ },
+ {
+  "jp": "下",
+  "kana": "した",
+  "romaji": "shita",
+  "meaning": "below/under",
+  "category": "More high-frequency words",
+  "pos": "noun"
+ },
+ {
+  "jp": "中",
+  "kana": "なか",
+  "romaji": "naka",
+  "meaning": "inside/middle",
+  "category": "More high-frequency words",
+  "pos": "noun"
+ },
+ {
+  "jp": "右",
+  "kana": "みぎ",
+  "romaji": "migi",
+  "meaning": "right",
+  "category": "More high-frequency words",
+  "pos": "noun"
+ },
+ {
+  "jp": "左",
+  "kana": "ひだり",
+  "romaji": "hidari",
+  "meaning": "left",
+  "category": "More high-frequency words",
+  "pos": "noun"
+ },
+ {
+  "jp": "北",
+  "kana": "きた",
+  "romaji": "kita",
+  "meaning": "north",
+  "category": "More high-frequency words",
+  "pos": "noun"
+ },
+ {
+  "jp": "南",
+  "kana": "みなみ",
+  "romaji": "minami",
+  "meaning": "south",
+  "category": "More high-frequency words",
+  "pos": "noun"
+ },
+ {
+  "jp": "東",
+  "kana": "ひがし",
+  "romaji": "higashi",
+  "meaning": "east",
+  "category": "More high-frequency words",
+  "pos": "noun"
+ },
+ {
+  "jp": "西",
+  "kana": "にし",
+  "romaji": "nishi",
+  "meaning": "west",
+  "category": "More high-frequency words",
+  "pos": "noun"
+ },
+ {
+  "jp": "必ず",
+  "kana": "かならず",
+  "romaji": "kanarazu",
+  "meaning": "certainly/without fail",
+  "category": "Final 20",
+  "pos": "adverb"
+ },
+ {
+  "jp": "多分",
+  "kana": "たぶん",
+  "romaji": "tabun",
+  "meaning": "probably",
+  "category": "Final 20",
+  "pos": "adverb"
+ },
+ {
+  "jp": "すでに",
+  "kana": "すでに",
+  "romaji": "sudeni",
+  "meaning": "already",
+  "category": "Final 20",
+  "pos": "adverb"
+ },
+ {
+  "jp": "一番",
+  "kana": "いちばん",
+  "romaji": "ichiban",
+  "meaning": "most/best",
+  "category": "Final 20",
+  "pos": "adverb"
+ },
+ {
+  "jp": "初め",
+  "kana": "はじめ",
+  "romaji": "hajime",
+  "meaning": "beginning",
+  "category": "Final 20",
+  "pos": "adverb"
+ },
+ {
+  "jp": "最後",
+  "kana": "さいご",
+  "romaji": "saigo",
+  "meaning": "last/end",
+  "category": "Final 20",
+  "pos": "adverb"
+ },
+ {
+  "jp": "次",
+  "kana": "つぎ",
+  "romaji": "tsugi",
+  "meaning": "next",
+  "category": "Final 20",
+  "pos": "adverb"
+ },
+ {
+  "jp": "後",
+  "kana": "あと",
+  "romaji": "ato",
+  "meaning": "after/behind",
+  "category": "Final 20",
+  "pos": "adverb"
+ },
+ {
+  "jp": "今度",
+  "kana": "こんど",
+  "romaji": "kondo",
+  "meaning": "next time/this time",
+  "category": "Final 20",
+  "pos": "adverb"
+ },
+ {
+  "jp": "場所",
+  "kana": "ばしょ",
+  "romaji": "basho",
+  "meaning": "place",
+  "category": "Final 20",
+  "pos": "adverb"
+ },
+ {
+  "jp": "方法",
+  "kana": "ほうほう",
+  "romaji": "houhou",
+  "meaning": "method/way",
+  "category": "Final 20",
+  "pos": "adverb"
+ },
+ {
+  "jp": "日本人",
+  "kana": "にほんじん",
+  "romaji": "nihonjin",
+  "meaning": "Japanese person",
+  "category": "Final 20",
+  "pos": "adverb"
+ },
+ {
+  "jp": "本屋",
+  "kana": "ほんや",
+  "romaji": "hon'ya",
+  "meaning": "bookstore",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "新聞",
+  "kana": "しんぶん",
+  "romaji": "shinbun",
+  "meaning": "newspaper",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "雑誌",
+  "kana": "ざっし",
+  "romaji": "zasshi",
+  "meaning": "magazine",
+  "category": "Objects & everyday things",
+  "pos": "noun"
+ },
+ {
+  "jp": "図書館",
+  "kana": "としょかん",
+  "romaji": "toshokan",
+  "meaning": "library",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "曜日",
+  "kana": "ようび",
+  "romaji": "youbi",
+  "meaning": "day of the week",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "月曜日",
+  "kana": "げつようび",
+  "romaji": "getsuyoubi",
+  "meaning": "Monday",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "火曜日",
+  "kana": "かようび",
+  "romaji": "kayoubi",
+  "meaning": "Tuesday",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "水曜日",
+  "kana": "すいようび",
+  "romaji": "suiyoubi",
+  "meaning": "Wednesday",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "木曜日",
+  "kana": "もくようび",
+  "romaji": "mokuyoubi",
+  "meaning": "Thursday",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "金曜日",
+  "kana": "きんようび",
+  "romaji": "kin'youbi",
+  "meaning": "Friday",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "土曜日",
+  "kana": "どようび",
+  "romaji": "doyoubi",
+  "meaning": "Saturday",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "日曜日",
+  "kana": "にちようび",
+  "romaji": "nichiyoubi",
+  "meaning": "Sunday",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "トイレ",
+  "kana": "トイレ",
+  "romaji": "toire",
+  "meaning": "toilet/restroom",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "新幹線",
+  "kana": "しんかんせん",
+  "romaji": "shinkansen",
+  "meaning": "bullet train",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "旅行",
+  "kana": "りょこう",
+  "romaji": "ryokou",
+  "meaning": "trip/travel",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "旅館",
+  "kana": "りょかん",
+  "romaji": "ryokan",
+  "meaning": "Japanese inn",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "予約",
+  "kana": "よやく",
+  "romaji": "yoyaku",
+  "meaning": "reservation/booking",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "料理店",
+  "kana": "りょうりてん",
+  "romaji": "ryouriten",
+  "meaning": "restaurant",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "入口",
+  "kana": "いりぐち",
+  "romaji": "iriguchi",
+  "meaning": "entrance",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "出口",
+  "kana": "でぐち",
+  "romaji": "deguchi",
+  "meaning": "exit",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "住所",
+  "kana": "じゅうしょ",
+  "romaji": "juusho",
+  "meaning": "address",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "電話番号",
+  "kana": "でんわばんごう",
+  "romaji": "denwa bangou",
+  "meaning": "phone number",
+  "category": "General",
+  "pos": "noun"
+ },
+ {
+  "jp": "近く",
+  "kana": "ちかく",
+  "romaji": "chikaku",
+  "meaning": "nearby/vicinity",
+  "category": "Places & transportation",
+  "pos": "noun"
+ },
+ {
+  "jp": "一緒",
+  "kana": "いっしょ",
+  "romaji": "issho",
+  "meaning": "together",
+  "category": "Common adverbs & useful words",
+  "pos": "noun"
+ },
+ {
+  "jp": "別々",
+  "kana": "べつべつ",
+  "romaji": "betsubetsu",
+  "meaning": "separately/individually",
+  "category": "Adjectives & descriptions",
+  "pos": "na-adjective"
+ },
+ {
+  "jp": "大切",
+  "kana": "たいせつ",
+  "romaji": "taisetsu",
+  "meaning": "important/precious",
+  "category": "Adjectives & descriptions",
+  "pos": "na-adjective"
+ },
+ {
+  "jp": "有名",
+  "kana": "ゆうめい",
+  "romaji": "yuumei",
+  "meaning": "famous",
+  "category": "Adjectives & descriptions",
+  "pos": "na-adjective"
+ },
+ {
+  "jp": "人気",
+  "kana": "にんき",
+  "romaji": "ninki",
+  "meaning": "popularity",
+  "category": "Feelings & abstract concepts",
+  "pos": "noun"
+ },
+ {
+  "jp": "便利",
+  "kana": "べんり",
+  "romaji": "benri",
+  "meaning": "convenient",
+  "category": "Adjectives & descriptions",
+  "pos": "na-adjective"
+ },
+ {
+  "jp": "簡単",
+  "kana": "かんたん",
+  "romaji": "kantan",
+  "meaning": "simple/easy",
+  "category": "Adjectives & descriptions",
+  "pos": "na-adjective"
+ },
+ {
+  "jp": "上手",
+  "kana": "じょうず",
+  "romaji": "jouzu",
+  "meaning": "skillful/good at",
+  "category": "Adjectives & descriptions",
+  "pos": "na-adjective"
+ },
+ {
+  "jp": "下手",
+  "kana": "へた",
+  "romaji": "heta",
+  "meaning": "unskillful/poor at",
+  "category": "Adjectives & descriptions",
+  "pos": "na-adjective"
+ },
+ {
+  "jp": "嫌い",
+  "kana": "きらい",
+  "romaji": "kirai",
+  "meaning": "dislike",
+  "category": "Feelings & abstract concepts",
+  "pos": "na-adjective"
+ },
+ {
+  "jp": "一度",
+  "kana": "いちど",
+  "romaji": "ichido",
+  "meaning": "once/one time",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "いろいろ",
+  "kana": "いろいろ",
+  "romaji": "iroiro",
+  "meaning": "various",
+  "category": "Adjectives & descriptions",
+  "pos": "na-adjective"
+ },
+ {
+  "jp": "たぶん",
+  "kana": "たぶん",
+  "romaji": "tabun",
+  "meaning": "probably",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "午前",
+  "kana": "ごぜん",
+  "romaji": "gozen",
+  "meaning": "morning/a.m.",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "午後",
+  "kana": "ごご",
+  "romaji": "gogo",
+  "meaning": "afternoon/p.m.",
+  "category": "Time",
+  "pos": "noun"
+ },
+ {
+  "jp": "食事",
+  "kana": "しょくじ",
+  "romaji": "shokuji",
+  "meaning": "meal",
+  "category": "Food & drink",
+  "pos": "noun"
+ },
+ {
+  "jp": "送る",
+  "kana": "おくる",
+  "romaji": "okuru",
+  "meaning": "send",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "ときどき",
+  "kana": "ときどき",
+  "romaji": "tokidoki",
+  "meaning": "sometimes",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "たしかに",
+  "kana": "たしかに",
+  "romaji": "tashikani",
+  "meaning": "certainly/indeed",
+  "category": "Common adverbs & useful words",
+  "pos": "adverb"
+ },
+ {
+  "jp": "皆さん",
+  "kana": "みなさん",
+  "romaji": "minasan",
+  "meaning": "everyone",
+  "category": "People & family",
+  "pos": "noun"
+ },
+ {
+  "jp": "なぜ",
+  "kana": "なぜ",
+  "romaji": "naze",
+  "meaning": "why",
+  "category": "Very common conversational words",
+  "pos": "question"
+ },
+ {
+  "jp": "間違える",
+  "kana": "まちがえる",
+  "romaji": "machigaeru",
+  "meaning": "make a mistake/get wrong",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "答える",
+  "kana": "こたえる",
+  "romaji": "kotaeru",
+  "meaning": "answer",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "選ぶ",
+  "kana": "えらぶ",
+  "romaji": "erabu",
+  "meaning": "choose",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "決める",
+  "kana": "きめる",
+  "romaji": "kimeru",
+  "meaning": "decide",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "変える",
+  "kana": "かえる",
+  "romaji": "kaeru",
+  "meaning": "change",
+  "category": "Common verbs",
+  "pos": "verb"
+ },
+ {
+  "jp": "続ける",
+  "kana": "つづける",
+  "romaji": "tsuzukeru",
+  "meaning": "continue",
+  "category": "Common verbs",
+  "pos": "verb"
+ }
+]

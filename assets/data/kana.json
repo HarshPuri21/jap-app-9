@@ -1,0 +1,2692 @@
+[
+  {
+    "character": "あ",
+    "romaji": "a",
+    "sound": "a",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ア",
+    "notes": null
+  },
+  {
+    "character": "ア",
+    "romaji": "a",
+    "sound": "a",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "あ",
+    "notes": null
+  },
+  {
+    "character": "い",
+    "romaji": "i",
+    "sound": "i",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "イ",
+    "notes": null
+  },
+  {
+    "character": "イ",
+    "romaji": "i",
+    "sound": "i",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "い",
+    "notes": null
+  },
+  {
+    "character": "う",
+    "romaji": "u",
+    "sound": "u",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ウ",
+    "notes": null
+  },
+  {
+    "character": "ウ",
+    "romaji": "u",
+    "sound": "u",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "う",
+    "notes": null
+  },
+  {
+    "character": "え",
+    "romaji": "e",
+    "sound": "e",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "エ",
+    "notes": null
+  },
+  {
+    "character": "エ",
+    "romaji": "e",
+    "sound": "e",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "え",
+    "notes": null
+  },
+  {
+    "character": "お",
+    "romaji": "o",
+    "sound": "o",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "オ",
+    "notes": null
+  },
+  {
+    "character": "オ",
+    "romaji": "o",
+    "sound": "o",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "お",
+    "notes": null
+  },
+  {
+    "character": "か",
+    "romaji": "ka",
+    "sound": "ka",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "カ",
+    "notes": null
+  },
+  {
+    "character": "カ",
+    "romaji": "ka",
+    "sound": "ka",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "か",
+    "notes": null
+  },
+  {
+    "character": "き",
+    "romaji": "ki",
+    "sound": "ki",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "キ",
+    "notes": null
+  },
+  {
+    "character": "キ",
+    "romaji": "ki",
+    "sound": "ki",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "き",
+    "notes": null
+  },
+  {
+    "character": "く",
+    "romaji": "ku",
+    "sound": "ku",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ク",
+    "notes": null
+  },
+  {
+    "character": "ク",
+    "romaji": "ku",
+    "sound": "ku",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "く",
+    "notes": null
+  },
+  {
+    "character": "け",
+    "romaji": "ke",
+    "sound": "ke",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ケ",
+    "notes": null
+  },
+  {
+    "character": "ケ",
+    "romaji": "ke",
+    "sound": "ke",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "け",
+    "notes": null
+  },
+  {
+    "character": "こ",
+    "romaji": "ko",
+    "sound": "ko",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "コ",
+    "notes": null
+  },
+  {
+    "character": "コ",
+    "romaji": "ko",
+    "sound": "ko",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "こ",
+    "notes": null
+  },
+  {
+    "character": "さ",
+    "romaji": "sa",
+    "sound": "sa",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "サ",
+    "notes": null
+  },
+  {
+    "character": "サ",
+    "romaji": "sa",
+    "sound": "sa",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "さ",
+    "notes": null
+  },
+  {
+    "character": "し",
+    "romaji": "shi",
+    "sound": "shi",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "シ",
+    "notes": null
+  },
+  {
+    "character": "シ",
+    "romaji": "shi",
+    "sound": "shi",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "し",
+    "notes": null
+  },
+  {
+    "character": "す",
+    "romaji": "su",
+    "sound": "su",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ス",
+    "notes": null
+  },
+  {
+    "character": "ス",
+    "romaji": "su",
+    "sound": "su",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "す",
+    "notes": null
+  },
+  {
+    "character": "せ",
+    "romaji": "se",
+    "sound": "se",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "セ",
+    "notes": null
+  },
+  {
+    "character": "セ",
+    "romaji": "se",
+    "sound": "se",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "せ",
+    "notes": null
+  },
+  {
+    "character": "そ",
+    "romaji": "so",
+    "sound": "so",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ソ",
+    "notes": null
+  },
+  {
+    "character": "ソ",
+    "romaji": "so",
+    "sound": "so",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "そ",
+    "notes": null
+  },
+  {
+    "character": "た",
+    "romaji": "ta",
+    "sound": "ta",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "タ",
+    "notes": null
+  },
+  {
+    "character": "タ",
+    "romaji": "ta",
+    "sound": "ta",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "た",
+    "notes": null
+  },
+  {
+    "character": "ち",
+    "romaji": "chi",
+    "sound": "chi",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "チ",
+    "notes": null
+  },
+  {
+    "character": "チ",
+    "romaji": "chi",
+    "sound": "chi",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ち",
+    "notes": null
+  },
+  {
+    "character": "つ",
+    "romaji": "tsu",
+    "sound": "tsu",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ツ",
+    "notes": null
+  },
+  {
+    "character": "ツ",
+    "romaji": "tsu",
+    "sound": "tsu",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "つ",
+    "notes": null
+  },
+  {
+    "character": "て",
+    "romaji": "te",
+    "sound": "te",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "テ",
+    "notes": null
+  },
+  {
+    "character": "テ",
+    "romaji": "te",
+    "sound": "te",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "て",
+    "notes": null
+  },
+  {
+    "character": "と",
+    "romaji": "to",
+    "sound": "to",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ト",
+    "notes": null
+  },
+  {
+    "character": "ト",
+    "romaji": "to",
+    "sound": "to",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "と",
+    "notes": null
+  },
+  {
+    "character": "な",
+    "romaji": "na",
+    "sound": "na",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ナ",
+    "notes": null
+  },
+  {
+    "character": "ナ",
+    "romaji": "na",
+    "sound": "na",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "な",
+    "notes": null
+  },
+  {
+    "character": "に",
+    "romaji": "ni",
+    "sound": "ni",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ニ",
+    "notes": null
+  },
+  {
+    "character": "ニ",
+    "romaji": "ni",
+    "sound": "ni",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "に",
+    "notes": null
+  },
+  {
+    "character": "ぬ",
+    "romaji": "nu",
+    "sound": "nu",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ヌ",
+    "notes": null
+  },
+  {
+    "character": "ヌ",
+    "romaji": "nu",
+    "sound": "nu",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ぬ",
+    "notes": null
+  },
+  {
+    "character": "ね",
+    "romaji": "ne",
+    "sound": "ne",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ネ",
+    "notes": null
+  },
+  {
+    "character": "ネ",
+    "romaji": "ne",
+    "sound": "ne",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ね",
+    "notes": null
+  },
+  {
+    "character": "の",
+    "romaji": "no",
+    "sound": "no",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ノ",
+    "notes": null
+  },
+  {
+    "character": "ノ",
+    "romaji": "no",
+    "sound": "no",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "の",
+    "notes": null
+  },
+  {
+    "character": "は",
+    "romaji": "ha",
+    "sound": "ha",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ハ",
+    "notes": "As the topic particle (usually written は), this is pronounced 'wa' rather than 'ha'."
+  },
+  {
+    "character": "ハ",
+    "romaji": "ha",
+    "sound": "ha",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "は",
+    "notes": "As the topic particle (usually written は), this is pronounced 'wa' rather than 'ha'."
+  },
+  {
+    "character": "ひ",
+    "romaji": "hi",
+    "sound": "hi",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ヒ",
+    "notes": null
+  },
+  {
+    "character": "ヒ",
+    "romaji": "hi",
+    "sound": "hi",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ひ",
+    "notes": null
+  },
+  {
+    "character": "ふ",
+    "romaji": "fu",
+    "sound": "fu",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "フ",
+    "notes": null
+  },
+  {
+    "character": "フ",
+    "romaji": "fu",
+    "sound": "fu",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ふ",
+    "notes": null
+  },
+  {
+    "character": "へ",
+    "romaji": "he",
+    "sound": "he",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ヘ",
+    "notes": "As the direction/target particle, this is pronounced 'e' rather than 'he'."
+  },
+  {
+    "character": "ヘ",
+    "romaji": "he",
+    "sound": "he",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "へ",
+    "notes": "As the direction/target particle, this is pronounced 'e' rather than 'he'."
+  },
+  {
+    "character": "ほ",
+    "romaji": "ho",
+    "sound": "ho",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ホ",
+    "notes": null
+  },
+  {
+    "character": "ホ",
+    "romaji": "ho",
+    "sound": "ho",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ほ",
+    "notes": null
+  },
+  {
+    "character": "ま",
+    "romaji": "ma",
+    "sound": "ma",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "マ",
+    "notes": null
+  },
+  {
+    "character": "マ",
+    "romaji": "ma",
+    "sound": "ma",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ま",
+    "notes": null
+  },
+  {
+    "character": "み",
+    "romaji": "mi",
+    "sound": "mi",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ミ",
+    "notes": null
+  },
+  {
+    "character": "ミ",
+    "romaji": "mi",
+    "sound": "mi",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "み",
+    "notes": null
+  },
+  {
+    "character": "む",
+    "romaji": "mu",
+    "sound": "mu",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ム",
+    "notes": null
+  },
+  {
+    "character": "ム",
+    "romaji": "mu",
+    "sound": "mu",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "む",
+    "notes": null
+  },
+  {
+    "character": "め",
+    "romaji": "me",
+    "sound": "me",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "メ",
+    "notes": null
+  },
+  {
+    "character": "メ",
+    "romaji": "me",
+    "sound": "me",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "め",
+    "notes": null
+  },
+  {
+    "character": "も",
+    "romaji": "mo",
+    "sound": "mo",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "モ",
+    "notes": null
+  },
+  {
+    "character": "モ",
+    "romaji": "mo",
+    "sound": "mo",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "も",
+    "notes": null
+  },
+  {
+    "character": "や",
+    "romaji": "ya",
+    "sound": "ya",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ヤ",
+    "notes": null
+  },
+  {
+    "character": "ヤ",
+    "romaji": "ya",
+    "sound": "ya",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "や",
+    "notes": null
+  },
+  {
+    "character": "ゆ",
+    "romaji": "yu",
+    "sound": "yu",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ユ",
+    "notes": null
+  },
+  {
+    "character": "ユ",
+    "romaji": "yu",
+    "sound": "yu",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ゆ",
+    "notes": null
+  },
+  {
+    "character": "よ",
+    "romaji": "yo",
+    "sound": "yo",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ヨ",
+    "notes": null
+  },
+  {
+    "character": "ヨ",
+    "romaji": "yo",
+    "sound": "yo",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "よ",
+    "notes": null
+  },
+  {
+    "character": "ら",
+    "romaji": "ra",
+    "sound": "ra",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ラ",
+    "notes": null
+  },
+  {
+    "character": "ラ",
+    "romaji": "ra",
+    "sound": "ra",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ら",
+    "notes": null
+  },
+  {
+    "character": "り",
+    "romaji": "ri",
+    "sound": "ri",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "リ",
+    "notes": null
+  },
+  {
+    "character": "リ",
+    "romaji": "ri",
+    "sound": "ri",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "り",
+    "notes": null
+  },
+  {
+    "character": "る",
+    "romaji": "ru",
+    "sound": "ru",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ル",
+    "notes": null
+  },
+  {
+    "character": "ル",
+    "romaji": "ru",
+    "sound": "ru",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "る",
+    "notes": null
+  },
+  {
+    "character": "れ",
+    "romaji": "re",
+    "sound": "re",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "レ",
+    "notes": null
+  },
+  {
+    "character": "レ",
+    "romaji": "re",
+    "sound": "re",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "れ",
+    "notes": null
+  },
+  {
+    "character": "ろ",
+    "romaji": "ro",
+    "sound": "ro",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ロ",
+    "notes": null
+  },
+  {
+    "character": "ロ",
+    "romaji": "ro",
+    "sound": "ro",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ろ",
+    "notes": null
+  },
+  {
+    "character": "わ",
+    "romaji": "wa",
+    "sound": "wa",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ワ",
+    "notes": null
+  },
+  {
+    "character": "ワ",
+    "romaji": "wa",
+    "sound": "wa",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "わ",
+    "notes": null
+  },
+  {
+    "character": "を",
+    "romaji": "wo",
+    "sound": "wo",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ヲ",
+    "notes": "Usually pronounced 'o' when used as the object particle. The romaji is kept as 'wo' here to preserve a 1:1 character-to-romaji mapping."
+  },
+  {
+    "character": "ヲ",
+    "romaji": "wo",
+    "sound": "wo",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "を",
+    "notes": "Usually pronounced 'o' when used as the object particle. The romaji is kept as 'wo' here to preserve a 1:1 character-to-romaji mapping."
+  },
+  {
+    "character": "ん",
+    "romaji": "n",
+    "sound": "moraic nasal (n)",
+    "type": "hiragana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ン",
+    "notes": "The moraic nasal. Commonly romanized as 'n'; its exact pronunciation can vary depending on the sound that follows it."
+  },
+  {
+    "character": "ン",
+    "romaji": "n",
+    "sound": "moraic nasal (n)",
+    "type": "katakana",
+    "group": "basic",
+    "isSmall": false,
+    "pairedKana": "ん",
+    "notes": "The moraic nasal. Commonly romanized as 'n'; its exact pronunciation can vary depending on the sound that follows it."
+  },
+  {
+    "character": "が",
+    "romaji": "ga",
+    "sound": "ga",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ガ",
+    "notes": null
+  },
+  {
+    "character": "ガ",
+    "romaji": "ga",
+    "sound": "ga",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "が",
+    "notes": null
+  },
+  {
+    "character": "ぎ",
+    "romaji": "gi",
+    "sound": "gi",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ギ",
+    "notes": null
+  },
+  {
+    "character": "ギ",
+    "romaji": "gi",
+    "sound": "gi",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ぎ",
+    "notes": null
+  },
+  {
+    "character": "ぐ",
+    "romaji": "gu",
+    "sound": "gu",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "グ",
+    "notes": null
+  },
+  {
+    "character": "グ",
+    "romaji": "gu",
+    "sound": "gu",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ぐ",
+    "notes": null
+  },
+  {
+    "character": "げ",
+    "romaji": "ge",
+    "sound": "ge",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ゲ",
+    "notes": null
+  },
+  {
+    "character": "ゲ",
+    "romaji": "ge",
+    "sound": "ge",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "げ",
+    "notes": null
+  },
+  {
+    "character": "ご",
+    "romaji": "go",
+    "sound": "go",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ゴ",
+    "notes": null
+  },
+  {
+    "character": "ゴ",
+    "romaji": "go",
+    "sound": "go",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ご",
+    "notes": null
+  },
+  {
+    "character": "ざ",
+    "romaji": "za",
+    "sound": "za",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ザ",
+    "notes": null
+  },
+  {
+    "character": "ザ",
+    "romaji": "za",
+    "sound": "za",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ざ",
+    "notes": null
+  },
+  {
+    "character": "じ",
+    "romaji": "ji",
+    "sound": "ji",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ジ",
+    "notes": null
+  },
+  {
+    "character": "ジ",
+    "romaji": "ji",
+    "sound": "ji",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "じ",
+    "notes": null
+  },
+  {
+    "character": "ず",
+    "romaji": "zu",
+    "sound": "zu",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ズ",
+    "notes": null
+  },
+  {
+    "character": "ズ",
+    "romaji": "zu",
+    "sound": "zu",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ず",
+    "notes": null
+  },
+  {
+    "character": "ぜ",
+    "romaji": "ze",
+    "sound": "ze",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ゼ",
+    "notes": null
+  },
+  {
+    "character": "ゼ",
+    "romaji": "ze",
+    "sound": "ze",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ぜ",
+    "notes": null
+  },
+  {
+    "character": "ぞ",
+    "romaji": "zo",
+    "sound": "zo",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ゾ",
+    "notes": null
+  },
+  {
+    "character": "ゾ",
+    "romaji": "zo",
+    "sound": "zo",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ぞ",
+    "notes": null
+  },
+  {
+    "character": "だ",
+    "romaji": "da",
+    "sound": "da",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ダ",
+    "notes": null
+  },
+  {
+    "character": "ダ",
+    "romaji": "da",
+    "sound": "da",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "だ",
+    "notes": null
+  },
+  {
+    "character": "ぢ",
+    "romaji": "ji",
+    "sound": "ji",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ヂ",
+    "notes": "Modern pronunciation is usually identical to じ (ji). Kept as a separate character because it follows different spelling/usage rules (mainly rendaku on ち)."
+  },
+  {
+    "character": "ヂ",
+    "romaji": "ji",
+    "sound": "ji",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ぢ",
+    "notes": "Modern pronunciation is usually identical to じ (ji). Kept as a separate character because it follows different spelling/usage rules (mainly rendaku on ち)."
+  },
+  {
+    "character": "づ",
+    "romaji": "zu",
+    "sound": "zu",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ヅ",
+    "notes": "Modern pronunciation is usually identical to ず (zu). Kept as a separate character because it follows different spelling/usage rules (mainly rendaku on つ)."
+  },
+  {
+    "character": "ヅ",
+    "romaji": "zu",
+    "sound": "zu",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "づ",
+    "notes": "Modern pronunciation is usually identical to ず (zu). Kept as a separate character because it follows different spelling/usage rules (mainly rendaku on つ)."
+  },
+  {
+    "character": "で",
+    "romaji": "de",
+    "sound": "de",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "デ",
+    "notes": null
+  },
+  {
+    "character": "デ",
+    "romaji": "de",
+    "sound": "de",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "で",
+    "notes": null
+  },
+  {
+    "character": "ど",
+    "romaji": "do",
+    "sound": "do",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ド",
+    "notes": null
+  },
+  {
+    "character": "ド",
+    "romaji": "do",
+    "sound": "do",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ど",
+    "notes": null
+  },
+  {
+    "character": "ば",
+    "romaji": "ba",
+    "sound": "ba",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "バ",
+    "notes": null
+  },
+  {
+    "character": "バ",
+    "romaji": "ba",
+    "sound": "ba",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ば",
+    "notes": null
+  },
+  {
+    "character": "び",
+    "romaji": "bi",
+    "sound": "bi",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ビ",
+    "notes": null
+  },
+  {
+    "character": "ビ",
+    "romaji": "bi",
+    "sound": "bi",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "び",
+    "notes": null
+  },
+  {
+    "character": "ぶ",
+    "romaji": "bu",
+    "sound": "bu",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ブ",
+    "notes": null
+  },
+  {
+    "character": "ブ",
+    "romaji": "bu",
+    "sound": "bu",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ぶ",
+    "notes": null
+  },
+  {
+    "character": "べ",
+    "romaji": "be",
+    "sound": "be",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ベ",
+    "notes": null
+  },
+  {
+    "character": "ベ",
+    "romaji": "be",
+    "sound": "be",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "べ",
+    "notes": null
+  },
+  {
+    "character": "ぼ",
+    "romaji": "bo",
+    "sound": "bo",
+    "type": "hiragana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ボ",
+    "notes": null
+  },
+  {
+    "character": "ボ",
+    "romaji": "bo",
+    "sound": "bo",
+    "type": "katakana",
+    "group": "dakuten",
+    "isSmall": false,
+    "pairedKana": "ぼ",
+    "notes": null
+  },
+  {
+    "character": "ぱ",
+    "romaji": "pa",
+    "sound": "pa",
+    "type": "hiragana",
+    "group": "handakuten",
+    "isSmall": false,
+    "pairedKana": "パ",
+    "notes": null
+  },
+  {
+    "character": "パ",
+    "romaji": "pa",
+    "sound": "pa",
+    "type": "katakana",
+    "group": "handakuten",
+    "isSmall": false,
+    "pairedKana": "ぱ",
+    "notes": null
+  },
+  {
+    "character": "ぴ",
+    "romaji": "pi",
+    "sound": "pi",
+    "type": "hiragana",
+    "group": "handakuten",
+    "isSmall": false,
+    "pairedKana": "ピ",
+    "notes": null
+  },
+  {
+    "character": "ピ",
+    "romaji": "pi",
+    "sound": "pi",
+    "type": "katakana",
+    "group": "handakuten",
+    "isSmall": false,
+    "pairedKana": "ぴ",
+    "notes": null
+  },
+  {
+    "character": "ぷ",
+    "romaji": "pu",
+    "sound": "pu",
+    "type": "hiragana",
+    "group": "handakuten",
+    "isSmall": false,
+    "pairedKana": "プ",
+    "notes": null
+  },
+  {
+    "character": "プ",
+    "romaji": "pu",
+    "sound": "pu",
+    "type": "katakana",
+    "group": "handakuten",
+    "isSmall": false,
+    "pairedKana": "ぷ",
+    "notes": null
+  },
+  {
+    "character": "ぺ",
+    "romaji": "pe",
+    "sound": "pe",
+    "type": "hiragana",
+    "group": "handakuten",
+    "isSmall": false,
+    "pairedKana": "ペ",
+    "notes": null
+  },
+  {
+    "character": "ペ",
+    "romaji": "pe",
+    "sound": "pe",
+    "type": "katakana",
+    "group": "handakuten",
+    "isSmall": false,
+    "pairedKana": "ぺ",
+    "notes": null
+  },
+  {
+    "character": "ぽ",
+    "romaji": "po",
+    "sound": "po",
+    "type": "hiragana",
+    "group": "handakuten",
+    "isSmall": false,
+    "pairedKana": "ポ",
+    "notes": null
+  },
+  {
+    "character": "ポ",
+    "romaji": "po",
+    "sound": "po",
+    "type": "katakana",
+    "group": "handakuten",
+    "isSmall": false,
+    "pairedKana": "ぽ",
+    "notes": null
+  },
+  {
+    "character": "きゃ",
+    "romaji": "kya",
+    "sound": "kya",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "キャ",
+    "notes": null
+  },
+  {
+    "character": "キャ",
+    "romaji": "kya",
+    "sound": "kya",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "きゃ",
+    "notes": null
+  },
+  {
+    "character": "きゅ",
+    "romaji": "kyu",
+    "sound": "kyu",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "キュ",
+    "notes": null
+  },
+  {
+    "character": "キュ",
+    "romaji": "kyu",
+    "sound": "kyu",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "きゅ",
+    "notes": null
+  },
+  {
+    "character": "きょ",
+    "romaji": "kyo",
+    "sound": "kyo",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "キョ",
+    "notes": null
+  },
+  {
+    "character": "キョ",
+    "romaji": "kyo",
+    "sound": "kyo",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "きょ",
+    "notes": null
+  },
+  {
+    "character": "しゃ",
+    "romaji": "sha",
+    "sound": "sha",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "シャ",
+    "notes": null
+  },
+  {
+    "character": "シャ",
+    "romaji": "sha",
+    "sound": "sha",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "しゃ",
+    "notes": null
+  },
+  {
+    "character": "しゅ",
+    "romaji": "shu",
+    "sound": "shu",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "シュ",
+    "notes": null
+  },
+  {
+    "character": "シュ",
+    "romaji": "shu",
+    "sound": "shu",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "しゅ",
+    "notes": null
+  },
+  {
+    "character": "しょ",
+    "romaji": "sho",
+    "sound": "sho",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ショ",
+    "notes": null
+  },
+  {
+    "character": "ショ",
+    "romaji": "sho",
+    "sound": "sho",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "しょ",
+    "notes": null
+  },
+  {
+    "character": "ちゃ",
+    "romaji": "cha",
+    "sound": "cha",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "チャ",
+    "notes": null
+  },
+  {
+    "character": "チャ",
+    "romaji": "cha",
+    "sound": "cha",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ちゃ",
+    "notes": null
+  },
+  {
+    "character": "ちゅ",
+    "romaji": "chu",
+    "sound": "chu",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "チュ",
+    "notes": null
+  },
+  {
+    "character": "チュ",
+    "romaji": "chu",
+    "sound": "chu",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ちゅ",
+    "notes": null
+  },
+  {
+    "character": "ちょ",
+    "romaji": "cho",
+    "sound": "cho",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "チョ",
+    "notes": null
+  },
+  {
+    "character": "チョ",
+    "romaji": "cho",
+    "sound": "cho",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ちょ",
+    "notes": null
+  },
+  {
+    "character": "にゃ",
+    "romaji": "nya",
+    "sound": "nya",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ニャ",
+    "notes": null
+  },
+  {
+    "character": "ニャ",
+    "romaji": "nya",
+    "sound": "nya",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "にゃ",
+    "notes": null
+  },
+  {
+    "character": "にゅ",
+    "romaji": "nyu",
+    "sound": "nyu",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ニュ",
+    "notes": null
+  },
+  {
+    "character": "ニュ",
+    "romaji": "nyu",
+    "sound": "nyu",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "にゅ",
+    "notes": null
+  },
+  {
+    "character": "にょ",
+    "romaji": "nyo",
+    "sound": "nyo",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ニョ",
+    "notes": null
+  },
+  {
+    "character": "ニョ",
+    "romaji": "nyo",
+    "sound": "nyo",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "にょ",
+    "notes": null
+  },
+  {
+    "character": "ひゃ",
+    "romaji": "hya",
+    "sound": "hya",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ヒャ",
+    "notes": null
+  },
+  {
+    "character": "ヒャ",
+    "romaji": "hya",
+    "sound": "hya",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ひゃ",
+    "notes": null
+  },
+  {
+    "character": "ひゅ",
+    "romaji": "hyu",
+    "sound": "hyu",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ヒュ",
+    "notes": null
+  },
+  {
+    "character": "ヒュ",
+    "romaji": "hyu",
+    "sound": "hyu",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ひゅ",
+    "notes": null
+  },
+  {
+    "character": "ひょ",
+    "romaji": "hyo",
+    "sound": "hyo",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ヒョ",
+    "notes": null
+  },
+  {
+    "character": "ヒョ",
+    "romaji": "hyo",
+    "sound": "hyo",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ひょ",
+    "notes": null
+  },
+  {
+    "character": "みゃ",
+    "romaji": "mya",
+    "sound": "mya",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ミャ",
+    "notes": null
+  },
+  {
+    "character": "ミャ",
+    "romaji": "mya",
+    "sound": "mya",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "みゃ",
+    "notes": null
+  },
+  {
+    "character": "みゅ",
+    "romaji": "myu",
+    "sound": "myu",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ミュ",
+    "notes": null
+  },
+  {
+    "character": "ミュ",
+    "romaji": "myu",
+    "sound": "myu",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "みゅ",
+    "notes": null
+  },
+  {
+    "character": "みょ",
+    "romaji": "myo",
+    "sound": "myo",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ミョ",
+    "notes": null
+  },
+  {
+    "character": "ミョ",
+    "romaji": "myo",
+    "sound": "myo",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "みょ",
+    "notes": null
+  },
+  {
+    "character": "りゃ",
+    "romaji": "rya",
+    "sound": "rya",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "リャ",
+    "notes": null
+  },
+  {
+    "character": "リャ",
+    "romaji": "rya",
+    "sound": "rya",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "りゃ",
+    "notes": null
+  },
+  {
+    "character": "りゅ",
+    "romaji": "ryu",
+    "sound": "ryu",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "リュ",
+    "notes": null
+  },
+  {
+    "character": "リュ",
+    "romaji": "ryu",
+    "sound": "ryu",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "りゅ",
+    "notes": null
+  },
+  {
+    "character": "りょ",
+    "romaji": "ryo",
+    "sound": "ryo",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "リョ",
+    "notes": null
+  },
+  {
+    "character": "リョ",
+    "romaji": "ryo",
+    "sound": "ryo",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "りょ",
+    "notes": null
+  },
+  {
+    "character": "ぎゃ",
+    "romaji": "gya",
+    "sound": "gya",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ギャ",
+    "notes": null
+  },
+  {
+    "character": "ギャ",
+    "romaji": "gya",
+    "sound": "gya",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ぎゃ",
+    "notes": null
+  },
+  {
+    "character": "ぎゅ",
+    "romaji": "gyu",
+    "sound": "gyu",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ギュ",
+    "notes": null
+  },
+  {
+    "character": "ギュ",
+    "romaji": "gyu",
+    "sound": "gyu",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ぎゅ",
+    "notes": null
+  },
+  {
+    "character": "ぎょ",
+    "romaji": "gyo",
+    "sound": "gyo",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ギョ",
+    "notes": null
+  },
+  {
+    "character": "ギョ",
+    "romaji": "gyo",
+    "sound": "gyo",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ぎょ",
+    "notes": null
+  },
+  {
+    "character": "じゃ",
+    "romaji": "ja",
+    "sound": "ja",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ジャ",
+    "notes": null
+  },
+  {
+    "character": "ジャ",
+    "romaji": "ja",
+    "sound": "ja",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "じゃ",
+    "notes": null
+  },
+  {
+    "character": "じゅ",
+    "romaji": "ju",
+    "sound": "ju",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ジュ",
+    "notes": null
+  },
+  {
+    "character": "ジュ",
+    "romaji": "ju",
+    "sound": "ju",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "じゅ",
+    "notes": null
+  },
+  {
+    "character": "じょ",
+    "romaji": "jo",
+    "sound": "jo",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ジョ",
+    "notes": null
+  },
+  {
+    "character": "ジョ",
+    "romaji": "jo",
+    "sound": "jo",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "じょ",
+    "notes": null
+  },
+  {
+    "character": "ぢゃ",
+    "romaji": "ja",
+    "sound": "ja",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ヂャ",
+    "notes": "Modern pronunciation is usually identical to じゃ (ja). Kept separate for spelling/usage rules."
+  },
+  {
+    "character": "ヂャ",
+    "romaji": "ja",
+    "sound": "ja",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ぢゃ",
+    "notes": "Modern pronunciation is usually identical to じゃ (ja). Kept separate for spelling/usage rules."
+  },
+  {
+    "character": "ぢゅ",
+    "romaji": "ju",
+    "sound": "ju",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ヂュ",
+    "notes": "Modern pronunciation is usually identical to じゅ (ju). Kept separate for spelling/usage rules."
+  },
+  {
+    "character": "ヂュ",
+    "romaji": "ju",
+    "sound": "ju",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ぢゅ",
+    "notes": "Modern pronunciation is usually identical to じゅ (ju). Kept separate for spelling/usage rules."
+  },
+  {
+    "character": "ぢょ",
+    "romaji": "jo",
+    "sound": "jo",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ヂョ",
+    "notes": "Modern pronunciation is usually identical to じょ (jo). Kept separate for spelling/usage rules."
+  },
+  {
+    "character": "ヂョ",
+    "romaji": "jo",
+    "sound": "jo",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ぢょ",
+    "notes": "Modern pronunciation is usually identical to じょ (jo). Kept separate for spelling/usage rules."
+  },
+  {
+    "character": "びゃ",
+    "romaji": "bya",
+    "sound": "bya",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ビャ",
+    "notes": null
+  },
+  {
+    "character": "ビャ",
+    "romaji": "bya",
+    "sound": "bya",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "びゃ",
+    "notes": null
+  },
+  {
+    "character": "びゅ",
+    "romaji": "byu",
+    "sound": "byu",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ビュ",
+    "notes": null
+  },
+  {
+    "character": "ビュ",
+    "romaji": "byu",
+    "sound": "byu",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "びゅ",
+    "notes": null
+  },
+  {
+    "character": "びょ",
+    "romaji": "byo",
+    "sound": "byo",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ビョ",
+    "notes": null
+  },
+  {
+    "character": "ビョ",
+    "romaji": "byo",
+    "sound": "byo",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "びょ",
+    "notes": null
+  },
+  {
+    "character": "ぴゃ",
+    "romaji": "pya",
+    "sound": "pya",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ピャ",
+    "notes": null
+  },
+  {
+    "character": "ピャ",
+    "romaji": "pya",
+    "sound": "pya",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ぴゃ",
+    "notes": null
+  },
+  {
+    "character": "ぴゅ",
+    "romaji": "pyu",
+    "sound": "pyu",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ピュ",
+    "notes": null
+  },
+  {
+    "character": "ピュ",
+    "romaji": "pyu",
+    "sound": "pyu",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ぴゅ",
+    "notes": null
+  },
+  {
+    "character": "ぴょ",
+    "romaji": "pyo",
+    "sound": "pyo",
+    "type": "hiragana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ピョ",
+    "notes": null
+  },
+  {
+    "character": "ピョ",
+    "romaji": "pyo",
+    "sound": "pyo",
+    "type": "katakana",
+    "group": "yoon",
+    "isSmall": false,
+    "pairedKana": "ぴょ",
+    "notes": null
+  },
+  {
+    "character": "ぁ",
+    "romaji": "a",
+    "sound": "a",
+    "type": "hiragana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "ァ",
+    "notes": "A small vowel/glide kana, used to spell foreign sounds or as part of a contracted (yōon) sound."
+  },
+  {
+    "character": "ァ",
+    "romaji": "a",
+    "sound": "a",
+    "type": "katakana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "ぁ",
+    "notes": "A small vowel/glide kana, used to spell foreign sounds or as part of a contracted (yōon) sound."
+  },
+  {
+    "character": "ぃ",
+    "romaji": "i",
+    "sound": "i",
+    "type": "hiragana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "ィ",
+    "notes": "A small vowel/glide kana, used to spell foreign sounds or as part of a contracted (yōon) sound."
+  },
+  {
+    "character": "ィ",
+    "romaji": "i",
+    "sound": "i",
+    "type": "katakana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "ぃ",
+    "notes": "A small vowel/glide kana, used to spell foreign sounds or as part of a contracted (yōon) sound."
+  },
+  {
+    "character": "ぅ",
+    "romaji": "u",
+    "sound": "u",
+    "type": "hiragana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "ゥ",
+    "notes": "A small vowel/glide kana, used to spell foreign sounds or as part of a contracted (yōon) sound."
+  },
+  {
+    "character": "ゥ",
+    "romaji": "u",
+    "sound": "u",
+    "type": "katakana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "ぅ",
+    "notes": "A small vowel/glide kana, used to spell foreign sounds or as part of a contracted (yōon) sound."
+  },
+  {
+    "character": "ぇ",
+    "romaji": "e",
+    "sound": "e",
+    "type": "hiragana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "ェ",
+    "notes": "A small vowel/glide kana, used to spell foreign sounds or as part of a contracted (yōon) sound."
+  },
+  {
+    "character": "ェ",
+    "romaji": "e",
+    "sound": "e",
+    "type": "katakana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "ぇ",
+    "notes": "A small vowel/glide kana, used to spell foreign sounds or as part of a contracted (yōon) sound."
+  },
+  {
+    "character": "ぉ",
+    "romaji": "o",
+    "sound": "o",
+    "type": "hiragana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "ォ",
+    "notes": "A small vowel/glide kana, used to spell foreign sounds or as part of a contracted (yōon) sound."
+  },
+  {
+    "character": "ォ",
+    "romaji": "o",
+    "sound": "o",
+    "type": "katakana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "ぉ",
+    "notes": "A small vowel/glide kana, used to spell foreign sounds or as part of a contracted (yōon) sound."
+  },
+  {
+    "character": "ゃ",
+    "romaji": "ya",
+    "sound": "ya",
+    "type": "hiragana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "ャ",
+    "notes": "A small vowel/glide kana, used to spell foreign sounds or as part of a contracted (yōon) sound."
+  },
+  {
+    "character": "ャ",
+    "romaji": "ya",
+    "sound": "ya",
+    "type": "katakana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "ゃ",
+    "notes": "A small vowel/glide kana, used to spell foreign sounds or as part of a contracted (yōon) sound."
+  },
+  {
+    "character": "ゅ",
+    "romaji": "yu",
+    "sound": "yu",
+    "type": "hiragana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "ュ",
+    "notes": "A small vowel/glide kana, used to spell foreign sounds or as part of a contracted (yōon) sound."
+  },
+  {
+    "character": "ュ",
+    "romaji": "yu",
+    "sound": "yu",
+    "type": "katakana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "ゅ",
+    "notes": "A small vowel/glide kana, used to spell foreign sounds or as part of a contracted (yōon) sound."
+  },
+  {
+    "character": "ょ",
+    "romaji": "yo",
+    "sound": "yo",
+    "type": "hiragana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "ョ",
+    "notes": "A small vowel/glide kana, used to spell foreign sounds or as part of a contracted (yōon) sound."
+  },
+  {
+    "character": "ョ",
+    "romaji": "yo",
+    "sound": "yo",
+    "type": "katakana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "ょ",
+    "notes": "A small vowel/glide kana, used to spell foreign sounds or as part of a contracted (yōon) sound."
+  },
+  {
+    "character": "ゎ",
+    "romaji": "wa",
+    "sound": "wa",
+    "type": "hiragana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "ヮ",
+    "notes": "A small vowel/glide kana, used to spell foreign sounds or as part of a contracted (yōon) sound."
+  },
+  {
+    "character": "ヮ",
+    "romaji": "wa",
+    "sound": "wa",
+    "type": "katakana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "ゎ",
+    "notes": "A small vowel/glide kana, used to spell foreign sounds or as part of a contracted (yōon) sound."
+  },
+  {
+    "character": "っ",
+    "romaji": "",
+    "sound": "sokuon — doubles the following consonant",
+    "type": "hiragana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "ッ",
+    "notes": "Indicates a doubled consonant or a brief pause before the next sound, e.g. がっこう = gakkou."
+  },
+  {
+    "character": "ッ",
+    "romaji": "",
+    "sound": "sokuon — doubles the following consonant",
+    "type": "katakana",
+    "group": "small",
+    "isSmall": true,
+    "pairedKana": "っ",
+    "notes": "Indicates a doubled consonant or a brief pause before the next sound, e.g. キット = kitto."
+  },
+  {
+    "character": "ゔ",
+    "romaji": "vu",
+    "sound": "vu",
+    "type": "hiragana",
+    "group": "special",
+    "isSmall": false,
+    "pairedKana": "ヴ",
+    "notes": "The dakuten form of う, used to write the 'vu' sound in loanwords. ヴ (katakana) is far more common in practice than ゔ."
+  },
+  {
+    "character": "ヴ",
+    "romaji": "vu",
+    "sound": "vu",
+    "type": "katakana",
+    "group": "special",
+    "isSmall": false,
+    "pairedKana": "ゔ",
+    "notes": "The dakuten form of う, used to write the 'vu' sound in loanwords. ヴ (katakana) is far more common in practice than ゔ."
+  },
+  {
+    "character": "ウィ",
+    "romaji": "wi",
+    "sound": "wi",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "ウェ",
+    "romaji": "we",
+    "sound": "we",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "ウォ",
+    "romaji": "wo",
+    "sound": "wo",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "シェ",
+    "romaji": "she",
+    "sound": "she",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "ジェ",
+    "romaji": "je",
+    "sound": "je",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "チェ",
+    "romaji": "che",
+    "sound": "che",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "ティ",
+    "romaji": "ti",
+    "sound": "ti",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "ディ",
+    "romaji": "di",
+    "sound": "di",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "トゥ",
+    "romaji": "tu",
+    "sound": "tu",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "ドゥ",
+    "romaji": "du",
+    "sound": "du",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "ファ",
+    "romaji": "fa",
+    "sound": "fa",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "フィ",
+    "romaji": "fi",
+    "sound": "fi",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "フェ",
+    "romaji": "fe",
+    "sound": "fe",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "フォ",
+    "romaji": "fo",
+    "sound": "fo",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "フャ",
+    "romaji": "fya",
+    "sound": "fya",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "フュ",
+    "romaji": "fyu",
+    "sound": "fyu",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "フョ",
+    "romaji": "fyo",
+    "sound": "fyo",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "ヴァ",
+    "romaji": "va",
+    "sound": "va",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "ヴィ",
+    "romaji": "vi",
+    "sound": "vi",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "ヴェ",
+    "romaji": "ve",
+    "sound": "ve",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "ヴォ",
+    "romaji": "vo",
+    "sound": "vo",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "ヴャ",
+    "romaji": "vya",
+    "sound": "vya",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "ヴュ",
+    "romaji": "vyu",
+    "sound": "vyu",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "ヴョ",
+    "romaji": "vyo",
+    "sound": "vyo",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "イェ",
+    "romaji": "ye",
+    "sound": "ye",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "クァ",
+    "romaji": "kwa",
+    "sound": "kwa",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "クィ",
+    "romaji": "kwi",
+    "sound": "kwi",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "クェ",
+    "romaji": "kwe",
+    "sound": "kwe",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "クォ",
+    "romaji": "kwo",
+    "sound": "kwo",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "グァ",
+    "romaji": "gwa",
+    "sound": "gwa",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "グィ",
+    "romaji": "gwi",
+    "sound": "gwi",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "グェ",
+    "romaji": "gwe",
+    "sound": "gwe",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  },
+  {
+    "character": "グォ",
+    "romaji": "gwo",
+    "sound": "gwo",
+    "type": "katakana",
+    "group": "extended_katakana",
+    "isSmall": false,
+    "pairedKana": null,
+    "notes": "An extended katakana combination used mainly to spell foreign names and loanwords."
+  }
+]

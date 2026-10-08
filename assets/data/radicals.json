@@ -1,0 +1,6432 @@
+[
+ {
+  "id": "001",
+  "char": "一",
+  "meaning": "one; horizontal line",
+  "name": "いち",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "三",
+    "reading": "さん",
+    "meaning": "three"
+   },
+   {
+    "kanji": "上",
+    "reading": "うえ",
+    "meaning": "up"
+   },
+   {
+    "kanji": "下",
+    "reading": "した",
+    "meaning": "down"
+   },
+   {
+    "kanji": "百",
+    "reading": "ひゃく",
+    "meaning": "hundred"
+   },
+   {
+    "kanji": "正",
+    "reading": "ただしい",
+    "meaning": "correct"
+   },
+   {
+    "kanji": "天",
+    "reading": "てん",
+    "meaning": "heaven"
+   }
+  ]
+ },
+ {
+  "id": "002",
+  "char": "丨",
+  "meaning": "vertical line",
+  "name": "ぼう",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "中",
+    "reading": "なか",
+    "meaning": "middle"
+   },
+   {
+    "kanji": "旧",
+    "reading": "きゅう",
+    "meaning": "old"
+   }
+  ]
+ },
+ {
+  "id": "003",
+  "char": "丶",
+  "meaning": "dot",
+  "name": "てん",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "丸",
+    "reading": "まる",
+    "meaning": "circle"
+   },
+   {
+    "kanji": "主",
+    "reading": "しゅ",
+    "meaning": "main"
+   }
+  ]
+ },
+ {
+  "id": "004",
+  "char": "丿",
+  "meaning": "slash",
+  "name": "の",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "久",
+    "reading": "ひさしい",
+    "meaning": "long time"
+   },
+   {
+    "kanji": "乗",
+    "reading": "のる",
+    "meaning": "ride"
+   }
+  ]
+ },
+ {
+  "id": "005",
+  "char": "乙",
+  "meaning": "second; fish-hook",
+  "name": "おつ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "九",
+    "reading": "きゅう",
+    "meaning": "nine"
+   },
+   {
+    "kanji": "乱",
+    "reading": "みだれる",
+    "meaning": "disorder"
+   },
+   {
+    "kanji": "乳",
+    "reading": "ちち",
+    "meaning": "milk"
+   }
+  ]
+ },
+ {
+  "id": "006",
+  "char": "亅",
+  "meaning": "hook",
+  "name": "はねぼう",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "了",
+    "reading": "りょう",
+    "meaning": "finish"
+   },
+   {
+    "kanji": "事",
+    "reading": "こと",
+    "meaning": "thing"
+   }
+  ]
+ },
+ {
+  "id": "007",
+  "char": "二",
+  "meaning": "two",
+  "name": "に",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "二",
+    "reading": "に",
+    "meaning": "two"
+   },
+   {
+    "kanji": "五",
+    "reading": "ご",
+    "meaning": "five"
+   },
+   {
+    "kanji": "井",
+    "reading": "い",
+    "meaning": "well"
+   }
+  ]
+ },
+ {
+  "id": "008",
+  "char": "亠",
+  "meaning": "lid",
+  "name": "なべぶた",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "京",
+    "reading": "きょう",
+    "meaning": "capital"
+   },
+   {
+    "kanji": "交",
+    "reading": "こう",
+    "meaning": "exchange"
+   },
+   {
+    "kanji": "夜",
+    "reading": "よる",
+    "meaning": "night"
+   }
+  ]
+ },
+ {
+  "id": "009",
+  "char": "人",
+  "meaning": "person",
+  "name": "ひと / にんべん",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "休",
+    "reading": "やすむ",
+    "meaning": "rest"
+   },
+   {
+    "kanji": "体",
+    "reading": "からだ",
+    "meaning": "body"
+   },
+   {
+    "kanji": "何",
+    "reading": "なに",
+    "meaning": "what"
+   },
+   {
+    "kanji": "今",
+    "reading": "いま",
+    "meaning": "now"
+   },
+   {
+    "kanji": "以",
+    "reading": "い",
+    "meaning": "by means of"
+   },
+   {
+    "kanji": "仕",
+    "reading": "つかえる",
+    "meaning": "serve"
+   }
+  ]
+ },
+ {
+  "id": "010",
+  "char": "儿",
+  "meaning": "legs",
+  "name": "ひとあし",
+  "usage": "Usually appears at the bottom (あし).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "先",
+    "reading": "さき",
+    "meaning": "before"
+   },
+   {
+    "kanji": "兄",
+    "reading": "あに",
+    "meaning": "older brother"
+   },
+   {
+    "kanji": "光",
+    "reading": "ひかり",
+    "meaning": "light"
+   }
+  ]
+ },
+ {
+  "id": "011",
+  "char": "入",
+  "meaning": "enter",
+  "name": "いる",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "入",
+    "reading": "はいる",
+    "meaning": "enter"
+   },
+   {
+    "kanji": "全",
+    "reading": "ぜん",
+    "meaning": "whole"
+   }
+  ]
+ },
+ {
+  "id": "012",
+  "char": "八",
+  "meaning": "eight; divide",
+  "name": "はち / はちがしら",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "八",
+    "reading": "はち",
+    "meaning": "eight"
+   },
+   {
+    "kanji": "公",
+    "reading": "こう",
+    "meaning": "public"
+   },
+   {
+    "kanji": "共",
+    "reading": "とも",
+    "meaning": "together"
+   }
+  ]
+ },
+ {
+  "id": "013",
+  "char": "冂",
+  "meaning": "open country; down-box",
+  "name": "けいがまえ",
+  "usage": "Usually forms an enclosing frame (かまえ).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "円",
+    "reading": "えん",
+    "meaning": "circle/yen"
+   },
+   {
+    "kanji": "再",
+    "reading": "さい",
+    "meaning": "again"
+   }
+  ]
+ },
+ {
+  "id": "014",
+  "char": "冖",
+  "meaning": "cover",
+  "name": "わかんむり",
+  "usage": "Usually a top component (かんむり).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "写",
+    "reading": "うつす",
+    "meaning": "copy"
+   },
+   {
+    "kanji": "冠",
+    "reading": "かんむり",
+    "meaning": "crown"
+   }
+  ]
+ },
+ {
+  "id": "015",
+  "char": "冫",
+  "meaning": "ice",
+  "name": "にすい",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "冬",
+    "reading": "ふゆ",
+    "meaning": "winter"
+   },
+   {
+    "kanji": "冷",
+    "reading": "つめたい",
+    "meaning": "cold"
+   },
+   {
+    "kanji": "凍",
+    "reading": "こおる",
+    "meaning": "freeze"
+   }
+  ]
+ },
+ {
+  "id": "016",
+  "char": "几",
+  "meaning": "table",
+  "name": "つくえ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "処",
+    "reading": "ところ",
+    "meaning": "place"
+   },
+   {
+    "kanji": "凡",
+    "reading": "ぼん",
+    "meaning": "ordinary"
+   }
+  ]
+ },
+ {
+  "id": "017",
+  "char": "凵",
+  "meaning": "open box; container",
+  "name": "うけばこ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "出",
+    "reading": "でる",
+    "meaning": "exit"
+   },
+   {
+    "kanji": "凶",
+    "reading": "きょう",
+    "meaning": "evil"
+   }
+  ]
+ },
+ {
+  "id": "018",
+  "char": "刀",
+  "meaning": "knife; sword",
+  "name": "かたな / りっとう",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "切",
+    "reading": "きる",
+    "meaning": "cut"
+   },
+   {
+    "kanji": "前",
+    "reading": "まえ",
+    "meaning": "before"
+   },
+   {
+    "kanji": "別",
+    "reading": "わかれる",
+    "meaning": "separate"
+   }
+  ]
+ },
+ {
+  "id": "019",
+  "char": "力",
+  "meaning": "power; strength",
+  "name": "ちから",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "助",
+    "reading": "たすける",
+    "meaning": "help"
+   },
+   {
+    "kanji": "動",
+    "reading": "うごく",
+    "meaning": "move"
+   },
+   {
+    "kanji": "勉",
+    "reading": "べん",
+    "meaning": "study"
+   }
+  ]
+ },
+ {
+  "id": "020",
+  "char": "勹",
+  "meaning": "wrap",
+  "name": "つつみがまえ",
+  "usage": "Usually forms an enclosing frame (かまえ).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "包",
+    "reading": "つつむ",
+    "meaning": "wrap"
+   },
+   {
+    "kanji": "勺",
+    "reading": "しゃく",
+    "meaning": "ladle"
+   }
+  ]
+ },
+ {
+  "id": "021",
+  "char": "匕",
+  "meaning": "spoon",
+  "name": "さじ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "化",
+    "reading": "か",
+    "meaning": "change"
+   },
+   {
+    "kanji": "北",
+    "reading": "きた",
+    "meaning": "north"
+   }
+  ]
+ },
+ {
+  "id": "022",
+  "char": "匚",
+  "meaning": "right-open box",
+  "name": "はこがまえ",
+  "usage": "Usually forms an enclosing frame (かまえ).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "区",
+    "reading": "く",
+    "meaning": "district"
+   },
+   {
+    "kanji": "医",
+    "reading": "い",
+    "meaning": "medicine"
+   },
+   {
+    "kanji": "匠",
+    "reading": "たくみ",
+    "meaning": "artisan"
+   }
+  ]
+ },
+ {
+  "id": "C-04",
+  "char": "匸",
+  "meaning": "Kangxi radical 23; hiding enclosure",
+  "name": "かくしがまえ",
+  "usage": "Usually forms an enclosing frame (かまえ).",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "匹",
+    "reading": "ひき",
+    "meaning": "animal counter"
+   },
+   {
+    "kanji": "匿",
+    "reading": "とく",
+    "meaning": "hide"
+   }
+  ]
+ },
+ {
+  "id": "024",
+  "char": "十",
+  "meaning": "ten",
+  "name": "じゅう",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "十",
+    "reading": "じゅう",
+    "meaning": "ten"
+   },
+   {
+    "kanji": "千",
+    "reading": "せん",
+    "meaning": "thousand"
+   },
+   {
+    "kanji": "半",
+    "reading": "はん",
+    "meaning": "half"
+   }
+  ]
+ },
+ {
+  "id": "025",
+  "char": "卜",
+  "meaning": "divination",
+  "name": "ぼく",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "占",
+    "reading": "うらなう",
+    "meaning": "divine"
+   },
+   {
+    "kanji": "卦",
+    "reading": "け",
+    "meaning": "divination sign"
+   }
+  ]
+ },
+ {
+  "id": "026",
+  "char": "卩",
+  "meaning": "seal; kneeling person",
+  "name": "ふしづくり",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "印",
+    "reading": "しるし",
+    "meaning": "seal/mark"
+   },
+   {
+    "kanji": "危",
+    "reading": "あぶない",
+    "meaning": "dangerous"
+   },
+   {
+    "kanji": "卵",
+    "reading": "たまご",
+    "meaning": "egg"
+   }
+  ]
+ },
+ {
+  "id": "027",
+  "char": "厂",
+  "meaning": "cliff",
+  "name": "がんだれ",
+  "usage": "Usually wraps from the upper-left (たれ).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "原",
+    "reading": "はら",
+    "meaning": "field/origin"
+   },
+   {
+    "kanji": "厚",
+    "reading": "あつい",
+    "meaning": "thick"
+   },
+   {
+    "kanji": "厨",
+    "reading": "くりや",
+    "meaning": "kitchen"
+   }
+  ]
+ },
+ {
+  "id": "028",
+  "char": "厶",
+  "meaning": "private; self",
+  "name": "む",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "去",
+    "reading": "さる",
+    "meaning": "leave"
+   },
+   {
+    "kanji": "参",
+    "reading": "さん",
+    "meaning": "participate"
+   }
+  ]
+ },
+ {
+  "id": "029",
+  "char": "又",
+  "meaning": "again; right hand",
+  "name": "また",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "友",
+    "reading": "とも",
+    "meaning": "friend"
+   },
+   {
+    "kanji": "取",
+    "reading": "とる",
+    "meaning": "take"
+   },
+   {
+    "kanji": "反",
+    "reading": "はん",
+    "meaning": "oppose"
+   }
+  ]
+ },
+ {
+  "id": "030",
+  "char": "口",
+  "meaning": "mouth",
+  "name": "くち / くちへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "味",
+    "reading": "あじ",
+    "meaning": "taste"
+   },
+   {
+    "kanji": "呼",
+    "reading": "よぶ",
+    "meaning": "call"
+   },
+   {
+    "kanji": "品",
+    "reading": "しな",
+    "meaning": "goods"
+   },
+   {
+    "kanji": "名",
+    "reading": "な",
+    "meaning": "name"
+   },
+   {
+    "kanji": "同",
+    "reading": "おなじ",
+    "meaning": "same"
+   },
+   {
+    "kanji": "回",
+    "reading": "まわる",
+    "meaning": "turn"
+   }
+  ]
+ },
+ {
+  "id": "031",
+  "char": "囗",
+  "meaning": "enclosure",
+  "name": "くにがまえ",
+  "usage": "Usually forms an enclosing frame (かまえ).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "国",
+    "reading": "くに",
+    "meaning": "country"
+   },
+   {
+    "kanji": "四",
+    "reading": "よん",
+    "meaning": "four"
+   },
+   {
+    "kanji": "園",
+    "reading": "その",
+    "meaning": "garden"
+   }
+  ]
+ },
+ {
+  "id": "032",
+  "char": "土",
+  "meaning": "earth; soil",
+  "name": "つち / つちへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "地",
+    "reading": "ち",
+    "meaning": "earth"
+   },
+   {
+    "kanji": "場",
+    "reading": "ば",
+    "meaning": "place"
+   },
+   {
+    "kanji": "坂",
+    "reading": "さか",
+    "meaning": "slope"
+   },
+   {
+    "kanji": "在",
+    "reading": "ある",
+    "meaning": "exist"
+   }
+  ]
+ },
+ {
+  "id": "033",
+  "char": "士",
+  "meaning": "scholar; samurai",
+  "name": "さむらい",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "声",
+    "reading": "こえ",
+    "meaning": "voice"
+   },
+   {
+    "kanji": "売",
+    "reading": "うる",
+    "meaning": "sell"
+   },
+   {
+    "kanji": "壱",
+    "reading": "いち",
+    "meaning": "one"
+   }
+  ]
+ },
+ {
+  "id": "034",
+  "char": "夂",
+  "meaning": "go; winter top",
+  "name": "ふゆがしら",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "冬",
+    "reading": "ふゆ",
+    "meaning": "winter"
+   },
+   {
+    "kanji": "各",
+    "reading": "かく",
+    "meaning": "each"
+   }
+  ]
+ },
+ {
+  "id": "C-03",
+  "char": "夊",
+  "meaning": "Kangxi radical 35; go slowly",
+  "name": "すい / なつあし",
+  "usage": "Usually appears at the bottom (あし).",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "夏",
+    "reading": "なつ",
+    "meaning": "summer"
+   }
+  ]
+ },
+ {
+  "id": "036",
+  "char": "夕",
+  "meaning": "evening",
+  "name": "ゆうべ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "夜",
+    "reading": "よる",
+    "meaning": "night"
+   },
+   {
+    "kanji": "多",
+    "reading": "おおい",
+    "meaning": "many"
+   },
+   {
+    "kanji": "夢",
+    "reading": "ゆめ",
+    "meaning": "dream"
+   }
+  ]
+ },
+ {
+  "id": "037",
+  "char": "大",
+  "meaning": "big",
+  "name": "だい",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "天",
+    "reading": "てん",
+    "meaning": "heaven"
+   },
+   {
+    "kanji": "太",
+    "reading": "ふとい",
+    "meaning": "thick"
+   },
+   {
+    "kanji": "奇",
+    "reading": "き",
+    "meaning": "strange"
+   }
+  ]
+ },
+ {
+  "id": "038",
+  "char": "女",
+  "meaning": "woman",
+  "name": "おんな / おんなへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "好",
+    "reading": "すき",
+    "meaning": "like"
+   },
+   {
+    "kanji": "姉",
+    "reading": "あね",
+    "meaning": "older sister"
+   },
+   {
+    "kanji": "妹",
+    "reading": "いもうと",
+    "meaning": "younger sister"
+   }
+  ]
+ },
+ {
+  "id": "039",
+  "char": "子",
+  "meaning": "child",
+  "name": "こ / こへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "字",
+    "reading": "じ",
+    "meaning": "character"
+   },
+   {
+    "kanji": "孝",
+    "reading": "こう",
+    "meaning": "filial piety"
+   },
+   {
+    "kanji": "孫",
+    "reading": "まご",
+    "meaning": "grandchild"
+   },
+   {
+    "kanji": "学",
+    "reading": "まなぶ",
+    "meaning": "learn"
+   }
+  ]
+ },
+ {
+  "id": "040",
+  "char": "宀",
+  "meaning": "roof",
+  "name": "うかんむり",
+  "usage": "Usually a top component (かんむり).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "家",
+    "reading": "いえ",
+    "meaning": "house"
+   },
+   {
+    "kanji": "安",
+    "reading": "やすい",
+    "meaning": "cheap"
+   },
+   {
+    "kanji": "室",
+    "reading": "しつ",
+    "meaning": "room"
+   }
+  ]
+ },
+ {
+  "id": "041",
+  "char": "寸",
+  "meaning": "inch; measure",
+  "name": "すん",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "寺",
+    "reading": "てら",
+    "meaning": "temple"
+   },
+   {
+    "kanji": "対",
+    "reading": "たい",
+    "meaning": "opposite"
+   },
+   {
+    "kanji": "封",
+    "reading": "ふう",
+    "meaning": "seal"
+   }
+  ]
+ },
+ {
+  "id": "042",
+  "char": "小",
+  "meaning": "small",
+  "name": "しょう",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "少",
+    "reading": "すこし",
+    "meaning": "a little"
+   },
+   {
+    "kanji": "尚",
+    "reading": "なお",
+    "meaning": "still"
+   },
+   {
+    "kanji": "当",
+    "reading": "あたる",
+    "meaning": "hit"
+   }
+  ]
+ },
+ {
+  "id": "043",
+  "char": "尢",
+  "meaning": "lame; crooked leg",
+  "name": "まげあし",
+  "usage": "Usually appears at the bottom (あし).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "就",
+    "reading": "つく",
+    "meaning": "take up; be employed"
+   }
+  ]
+ },
+ {
+  "id": "044",
+  "char": "尸",
+  "meaning": "corpse; body",
+  "name": "しかばね",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "局",
+    "reading": "きょく",
+    "meaning": "bureau"
+   },
+   {
+    "kanji": "屋",
+    "reading": "や",
+    "meaning": "roof/shop"
+   },
+   {
+    "kanji": "尾",
+    "reading": "お",
+    "meaning": "tail"
+   }
+  ]
+ },
+ {
+  "id": "045",
+  "char": "屮",
+  "meaning": "sprout",
+  "name": "てつ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "屯",
+    "reading": "とん",
+    "meaning": "station; camp"
+   }
+  ]
+ },
+ {
+  "id": "046",
+  "char": "山",
+  "meaning": "mountain",
+  "name": "やま / やまへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "岩",
+    "reading": "いわ",
+    "meaning": "rock"
+   },
+   {
+    "kanji": "岸",
+    "reading": "きし",
+    "meaning": "shore"
+   },
+   {
+    "kanji": "島",
+    "reading": "しま",
+    "meaning": "island"
+   }
+  ]
+ },
+ {
+  "id": "047",
+  "char": "川",
+  "meaning": "river",
+  "name": "かわ / まがりかわ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "川",
+    "reading": "かわ",
+    "meaning": "river"
+   },
+   {
+    "kanji": "州",
+    "reading": "しゅう",
+    "meaning": "state"
+   },
+   {
+    "kanji": "巡",
+    "reading": "めぐる",
+    "meaning": "巡"
+   }
+  ]
+ },
+ {
+  "id": "048",
+  "char": "工",
+  "meaning": "work; craft",
+  "name": "こう / たくみへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "左",
+    "reading": "ひだり",
+    "meaning": "left"
+   },
+   {
+    "kanji": "巧",
+    "reading": "たくみ",
+    "meaning": "skillful"
+   },
+   {
+    "kanji": "差",
+    "reading": "さ",
+    "meaning": "difference"
+   }
+  ]
+ },
+ {
+  "id": "049",
+  "char": "己",
+  "meaning": "self",
+  "name": "おのれ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "記",
+    "reading": "き",
+    "meaning": "record"
+   },
+   {
+    "kanji": "起",
+    "reading": "おきる",
+    "meaning": "rise"
+   }
+  ]
+ },
+ {
+  "id": "050",
+  "char": "巾",
+  "meaning": "cloth; towel",
+  "name": "はば / はばへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "布",
+    "reading": "ぬの",
+    "meaning": "cloth"
+   },
+   {
+    "kanji": "帰",
+    "reading": "かえる",
+    "meaning": "return"
+   },
+   {
+    "kanji": "帳",
+    "reading": "ちょう",
+    "meaning": "notebook"
+   }
+  ]
+ },
+ {
+  "id": "051",
+  "char": "干",
+  "meaning": "dry; shield",
+  "name": "かん",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "平",
+    "reading": "たいら",
+    "meaning": "flat"
+   },
+   {
+    "kanji": "年",
+    "reading": "とし",
+    "meaning": "year"
+   },
+   {
+    "kanji": "幹",
+    "reading": "みき",
+    "meaning": "trunk"
+   }
+  ]
+ },
+ {
+  "id": "052",
+  "char": "幺",
+  "meaning": "short thread",
+  "name": "いとがしら",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "幼",
+    "reading": "おさない",
+    "meaning": "young"
+   },
+   {
+    "kanji": "幾",
+    "reading": "いくつ",
+    "meaning": "how many"
+   }
+  ]
+ },
+ {
+  "id": "053",
+  "char": "广",
+  "meaning": "building; dotted cliff",
+  "name": "まだれ",
+  "usage": "Usually wraps from the upper-left (たれ).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "店",
+    "reading": "みせ",
+    "meaning": "shop"
+   },
+   {
+    "kanji": "広",
+    "reading": "ひろい",
+    "meaning": "wide"
+   },
+   {
+    "kanji": "庭",
+    "reading": "にわ",
+    "meaning": "garden"
+   }
+  ]
+ },
+ {
+  "id": "054",
+  "char": "廴",
+  "meaning": "long stride",
+  "name": "えんにょう",
+  "usage": "Usually forms a wrapping/road-like lower-left component (にょう).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "建",
+    "reading": "たてる",
+    "meaning": "build"
+   },
+   {
+    "kanji": "延",
+    "reading": "のびる",
+    "meaning": "extend"
+   },
+   {
+    "kanji": "廷",
+    "reading": "てい",
+    "meaning": "court"
+   }
+  ]
+ },
+ {
+  "id": "055",
+  "char": "廾",
+  "meaning": "two hands",
+  "name": "にじゅうあし",
+  "usage": "Usually appears at the bottom (あし).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "弁",
+    "reading": "べん",
+    "meaning": "distinguish; speech"
+   }
+  ]
+ },
+ {
+  "id": "056",
+  "char": "弋",
+  "meaning": "shooting stake; ceremony",
+  "name": "しきがまえ",
+  "usage": "Usually forms an enclosing frame (かまえ).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "式",
+    "reading": "しき",
+    "meaning": "ceremony"
+   },
+   {
+    "kanji": "弐",
+    "reading": "に",
+    "meaning": "two"
+   }
+  ]
+ },
+ {
+  "id": "057",
+  "char": "弓",
+  "meaning": "bow",
+  "name": "ゆみ / ゆみへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "引",
+    "reading": "ひく",
+    "meaning": "pull"
+   },
+   {
+    "kanji": "強",
+    "reading": "つよい",
+    "meaning": "strong"
+   },
+   {
+    "kanji": "弱",
+    "reading": "よわい",
+    "meaning": "weak"
+   }
+  ]
+ },
+ {
+  "id": "C-05",
+  "char": "彐",
+  "meaning": "pig-head radical form",
+  "name": "けいがしら",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "雪",
+    "reading": "ゆき",
+    "meaning": "snow"
+   },
+   {
+    "kanji": "帰",
+    "reading": "かえる",
+    "meaning": "return"
+   }
+  ]
+ },
+ {
+  "id": "059",
+  "char": "彡",
+  "meaning": "hair; bristles",
+  "name": "さんづくり",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "形",
+    "reading": "かたち",
+    "meaning": "shape"
+   },
+   {
+    "kanji": "影",
+    "reading": "かげ",
+    "meaning": "shadow"
+   },
+   {
+    "kanji": "彩",
+    "reading": "いろどる",
+    "meaning": "color"
+   }
+  ]
+ },
+ {
+  "id": "060",
+  "char": "彳",
+  "meaning": "step; going",
+  "name": "ぎょうにんべん",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "役",
+    "reading": "やく",
+    "meaning": "duty"
+   },
+   {
+    "kanji": "待",
+    "reading": "まつ",
+    "meaning": "wait"
+   },
+   {
+    "kanji": "後",
+    "reading": "あと",
+    "meaning": "after"
+   },
+   {
+    "kanji": "行",
+    "reading": "いく",
+    "meaning": "go"
+   }
+  ]
+ },
+ {
+  "id": "061",
+  "char": "心",
+  "meaning": "heart",
+  "name": "こころ / りっしんべん",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "思",
+    "reading": "おもう",
+    "meaning": "think"
+   },
+   {
+    "kanji": "急",
+    "reading": "いそぐ",
+    "meaning": "hurry"
+   },
+   {
+    "kanji": "情",
+    "reading": "じょう",
+    "meaning": "feeling"
+   },
+   {
+    "kanji": "念",
+    "reading": "ねん",
+    "meaning": "thought"
+   }
+  ]
+ },
+ {
+  "id": "062",
+  "char": "戈",
+  "meaning": "halberd",
+  "name": "ほこ / ほこづくり",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "成",
+    "reading": "なる",
+    "meaning": "become"
+   },
+   {
+    "kanji": "戦",
+    "reading": "たたかう",
+    "meaning": "fight"
+   },
+   {
+    "kanji": "我",
+    "reading": "われ",
+    "meaning": "I"
+   }
+  ]
+ },
+ {
+  "id": "063",
+  "char": "戸",
+  "meaning": "door",
+  "name": "と / とだれ",
+  "usage": "Usually wraps from the upper-left (たれ).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "所",
+    "reading": "ところ",
+    "meaning": "place"
+   },
+   {
+    "kanji": "戻",
+    "reading": "もどる",
+    "meaning": "return"
+   },
+   {
+    "kanji": "房",
+    "reading": "ふさ",
+    "meaning": "room; tuft"
+   }
+  ]
+ },
+ {
+  "id": "064",
+  "char": "手",
+  "meaning": "hand",
+  "name": "て / てへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "持",
+    "reading": "もつ",
+    "meaning": "hold"
+   },
+   {
+    "kanji": "指",
+    "reading": "ゆび",
+    "meaning": "finger"
+   },
+   {
+    "kanji": "打",
+    "reading": "うつ",
+    "meaning": "hit"
+   },
+   {
+    "kanji": "挙",
+    "reading": "あげる",
+    "meaning": "raise"
+   }
+  ]
+ },
+ {
+  "id": "065",
+  "char": "支",
+  "meaning": "branch",
+  "name": "し",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "支",
+    "reading": "ささえる",
+    "meaning": "support"
+   },
+   {
+    "kanji": "枝",
+    "reading": "えだ",
+    "meaning": "branch"
+   },
+   {
+    "kanji": "技",
+    "reading": "わざ",
+    "meaning": "skill"
+   }
+  ]
+ },
+ {
+  "id": "066",
+  "char": "攴",
+  "meaning": "strike",
+  "name": "ぼくづくり / のぶん",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "教",
+    "reading": "おしえる",
+    "meaning": "teach"
+   },
+   {
+    "kanji": "数",
+    "reading": "かず",
+    "meaning": "number"
+   },
+   {
+    "kanji": "政",
+    "reading": "せい",
+    "meaning": "politics"
+   }
+  ]
+ },
+ {
+  "id": "067",
+  "char": "文",
+  "meaning": "script; literature",
+  "name": "ぶん",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "文",
+    "reading": "ぶん",
+    "meaning": "sentence"
+   },
+   {
+    "kanji": "紋",
+    "reading": "もん",
+    "meaning": "crest"
+   },
+   {
+    "kanji": "蚊",
+    "reading": "か",
+    "meaning": "mosquito"
+   }
+  ]
+ },
+ {
+  "id": "068",
+  "char": "斗",
+  "meaning": "dipper; measure",
+  "name": "とます",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "料",
+    "reading": "りょう",
+    "meaning": "fee"
+   },
+   {
+    "kanji": "斜",
+    "reading": "ななめ",
+    "meaning": "diagonal"
+   }
+  ]
+ },
+ {
+  "id": "069",
+  "char": "斤",
+  "meaning": "axe",
+  "name": "おの",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "新",
+    "reading": "あたらしい",
+    "meaning": "new"
+   },
+   {
+    "kanji": "断",
+    "reading": "たつ",
+    "meaning": "cut off"
+   },
+   {
+    "kanji": "斧",
+    "reading": "おの",
+    "meaning": "axe"
+   }
+  ]
+ },
+ {
+  "id": "070",
+  "char": "方",
+  "meaning": "direction; square",
+  "name": "ほうへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "旅",
+    "reading": "たび",
+    "meaning": "trip"
+   },
+   {
+    "kanji": "族",
+    "reading": "ぞく",
+    "meaning": "tribe"
+   },
+   {
+    "kanji": "施",
+    "reading": "ほどこす",
+    "meaning": "perform"
+   }
+  ]
+ },
+ {
+  "id": "071",
+  "char": "无",
+  "meaning": "not; without",
+  "name": "なし",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "既",
+    "reading": "すでに",
+    "meaning": "already"
+   }
+  ]
+ },
+ {
+  "id": "072",
+  "char": "日",
+  "meaning": "sun; day",
+  "name": "ひ / にちへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "明",
+    "reading": "あかるい",
+    "meaning": "bright"
+   },
+   {
+    "kanji": "時",
+    "reading": "とき",
+    "meaning": "time"
+   },
+   {
+    "kanji": "春",
+    "reading": "はる",
+    "meaning": "spring"
+   }
+  ]
+ },
+ {
+  "id": "073",
+  "char": "曰",
+  "meaning": "say; speech",
+  "name": "ひらび / いわく",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "書",
+    "reading": "かく",
+    "meaning": "write"
+   },
+   {
+    "kanji": "曲",
+    "reading": "まがる",
+    "meaning": "bend"
+   },
+   {
+    "kanji": "更",
+    "reading": "さら",
+    "meaning": "again"
+   }
+  ]
+ },
+ {
+  "id": "074",
+  "char": "月",
+  "meaning": "moon; month",
+  "name": "つき / つきへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "朝",
+    "reading": "あさ",
+    "meaning": "morning"
+   },
+   {
+    "kanji": "期",
+    "reading": "き",
+    "meaning": "period"
+   },
+   {
+    "kanji": "有",
+    "reading": "ある",
+    "meaning": "have"
+   },
+   {
+    "kanji": "服",
+    "reading": "ふく",
+    "meaning": "clothes"
+   }
+  ]
+ },
+ {
+  "id": "075",
+  "char": "木",
+  "meaning": "tree; wood",
+  "name": "き / きへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "林",
+    "reading": "はやし",
+    "meaning": "woods"
+   },
+   {
+    "kanji": "森",
+    "reading": "もり",
+    "meaning": "forest"
+   },
+   {
+    "kanji": "校",
+    "reading": "こう",
+    "meaning": "school"
+   }
+  ]
+ },
+ {
+  "id": "076",
+  "char": "欠",
+  "meaning": "lack; yawn",
+  "name": "あくび",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "次",
+    "reading": "つぎ",
+    "meaning": "next"
+   },
+   {
+    "kanji": "欲",
+    "reading": "ほしい",
+    "meaning": "want"
+   },
+   {
+    "kanji": "歌",
+    "reading": "うた",
+    "meaning": "song"
+   }
+  ]
+ },
+ {
+  "id": "077",
+  "char": "止",
+  "meaning": "stop",
+  "name": "とめる",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "正",
+    "reading": "ただしい",
+    "meaning": "correct"
+   },
+   {
+    "kanji": "歩",
+    "reading": "あるく",
+    "meaning": "walk"
+   },
+   {
+    "kanji": "歳",
+    "reading": "さい",
+    "meaning": "years old"
+   }
+  ]
+ },
+ {
+  "id": "078",
+  "char": "歹",
+  "meaning": "death; bad",
+  "name": "がつへん / かばねへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "死",
+    "reading": "しぬ",
+    "meaning": "die"
+   },
+   {
+    "kanji": "残",
+    "reading": "のこる",
+    "meaning": "remain"
+   },
+   {
+    "kanji": "殖",
+    "reading": "ふえる",
+    "meaning": "increase"
+   }
+  ]
+ },
+ {
+  "id": "079",
+  "char": "殳",
+  "meaning": "lance shaft; weapon",
+  "name": "るまた",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "殺",
+    "reading": "ころす",
+    "meaning": "kill"
+   },
+   {
+    "kanji": "段",
+    "reading": "だん",
+    "meaning": "step"
+   },
+   {
+    "kanji": "殿",
+    "reading": "との",
+    "meaning": "lord"
+   }
+  ]
+ },
+ {
+  "id": "080",
+  "char": "毋",
+  "meaning": "do not; mother",
+  "name": "なかれ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "母",
+    "reading": "はは",
+    "meaning": "mother"
+   },
+   {
+    "kanji": "毎",
+    "reading": "まい",
+    "meaning": "every"
+   },
+   {
+    "kanji": "毒",
+    "reading": "どく",
+    "meaning": "poison"
+   }
+  ]
+ },
+ {
+  "id": "081",
+  "char": "比",
+  "meaning": "compare",
+  "name": "ならびひ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "比",
+    "reading": "くらべる",
+    "meaning": "compare"
+   },
+   {
+    "kanji": "皆",
+    "reading": "みな",
+    "meaning": "everyone"
+   },
+   {
+    "kanji": "批",
+    "reading": "ひ",
+    "meaning": "criticize"
+   }
+  ]
+ },
+ {
+  "id": "082",
+  "char": "毛",
+  "meaning": "fur; hair",
+  "name": "け",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "毛",
+    "reading": "け",
+    "meaning": "hair"
+   },
+   {
+    "kanji": "尾",
+    "reading": "お",
+    "meaning": "tail"
+   }
+  ]
+ },
+ {
+  "id": "083",
+  "char": "氏",
+  "meaning": "clan",
+  "name": "うじ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "民",
+    "reading": "たみ",
+    "meaning": "people"
+   },
+   {
+    "kanji": "紙",
+    "reading": "かみ",
+    "meaning": "paper"
+   }
+  ]
+ },
+ {
+  "id": "084",
+  "char": "气",
+  "meaning": "steam; breath",
+  "name": "きがまえ",
+  "usage": "Usually forms an enclosing frame (かまえ).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "気",
+    "reading": "き",
+    "meaning": "spirit"
+   },
+   {
+    "kanji": "酸",
+    "reading": "さん",
+    "meaning": "acid"
+   }
+  ]
+ },
+ {
+  "id": "085",
+  "char": "水",
+  "meaning": "water",
+  "name": "みず / さんずい",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "海",
+    "reading": "うみ",
+    "meaning": "sea"
+   },
+   {
+    "kanji": "池",
+    "reading": "いけ",
+    "meaning": "pond"
+   },
+   {
+    "kanji": "泉",
+    "reading": "いずみ",
+    "meaning": "spring"
+   },
+   {
+    "kanji": "永",
+    "reading": "えい",
+    "meaning": "eternal"
+   }
+  ]
+ },
+ {
+  "id": "086",
+  "char": "火",
+  "meaning": "fire",
+  "name": "ひ / ひへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "焼",
+    "reading": "やく",
+    "meaning": "burn"
+   },
+   {
+    "kanji": "点",
+    "reading": "てん",
+    "meaning": "point"
+   },
+   {
+    "kanji": "熱",
+    "reading": "あつい",
+    "meaning": "hot"
+   },
+   {
+    "kanji": "灯",
+    "reading": "ひ",
+    "meaning": "lamp"
+   },
+   {
+    "kanji": "炎",
+    "reading": "ほのお",
+    "meaning": "flame"
+   }
+  ]
+ },
+ {
+  "id": "087",
+  "char": "爪",
+  "meaning": "claw; nail",
+  "name": "つめ / つめかんむり",
+  "usage": "Usually a top component (かんむり).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "受",
+    "reading": "うける",
+    "meaning": "receive"
+   },
+   {
+    "kanji": "妥",
+    "reading": "だ",
+    "meaning": "appropriate"
+   },
+   {
+    "kanji": "愛",
+    "reading": "あい",
+    "meaning": "love"
+   }
+  ]
+ },
+ {
+  "id": "088",
+  "char": "父",
+  "meaning": "father",
+  "name": "ちち",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "父",
+    "reading": "ちち",
+    "meaning": "father"
+   }
+  ]
+ },
+ {
+  "id": "089",
+  "char": "爻",
+  "meaning": "crossing lines",
+  "name": "めめ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "爽",
+    "reading": "さわやか",
+    "meaning": "refreshing"
+   }
+  ]
+ },
+ {
+  "id": "090",
+  "char": "爿",
+  "meaning": "split wood (left)",
+  "name": "しょうへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "将",
+    "reading": "しょう",
+    "meaning": "commander"
+   },
+   {
+    "kanji": "状",
+    "reading": "じょう",
+    "meaning": "condition"
+   }
+  ]
+ },
+ {
+  "id": "091",
+  "char": "片",
+  "meaning": "one-sided; slice",
+  "name": "かたへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "版",
+    "reading": "はん",
+    "meaning": "edition"
+   },
+   {
+    "kanji": "片",
+    "reading": "かた",
+    "meaning": "piece"
+   }
+  ]
+ },
+ {
+  "id": "092",
+  "char": "牙",
+  "meaning": "fang",
+  "name": "きば",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "牙",
+    "reading": "きば",
+    "meaning": "fang"
+   },
+   {
+    "kanji": "芽",
+    "reading": "め",
+    "meaning": "bud"
+   },
+   {
+    "kanji": "雅",
+    "reading": "が",
+    "meaning": "elegant"
+   }
+  ]
+ },
+ {
+  "id": "093",
+  "char": "牛",
+  "meaning": "cow",
+  "name": "うし / うしへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "物",
+    "reading": "もの",
+    "meaning": "thing"
+   },
+   {
+    "kanji": "特",
+    "reading": "とく",
+    "meaning": "special"
+   },
+   {
+    "kanji": "牧",
+    "reading": "まき",
+    "meaning": "pasture"
+   }
+  ]
+ },
+ {
+  "id": "094",
+  "char": "犬",
+  "meaning": "dog",
+  "name": "いぬ / けものへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "犯",
+    "reading": "おかす",
+    "meaning": "commit"
+   },
+   {
+    "kanji": "独",
+    "reading": "ひとり",
+    "meaning": "alone"
+   },
+   {
+    "kanji": "猫",
+    "reading": "ねこ",
+    "meaning": "cat"
+   }
+  ]
+ },
+ {
+  "id": "095",
+  "char": "玄",
+  "meaning": "dark; profound",
+  "name": "げん",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "玄",
+    "reading": "げん",
+    "meaning": "profound"
+   },
+   {
+    "kanji": "率",
+    "reading": "りつ",
+    "meaning": "rate"
+   }
+  ]
+ },
+ {
+  "id": "C-06",
+  "char": "玉",
+  "meaning": "jade; jewel",
+  "name": "たま",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "王",
+    "reading": "おう",
+    "meaning": "king"
+   },
+   {
+    "kanji": "球",
+    "reading": "たま",
+    "meaning": "ball"
+   },
+   {
+    "kanji": "理",
+    "reading": "り",
+    "meaning": "reason"
+   }
+  ]
+ },
+ {
+  "id": "097",
+  "char": "瓜",
+  "meaning": "melon",
+  "name": "うり",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "瓜",
+    "reading": "うり",
+    "meaning": "melon"
+   }
+  ]
+ },
+ {
+  "id": "098",
+  "char": "瓦",
+  "meaning": "tile",
+  "name": "かわら",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "瓶",
+    "reading": "びん",
+    "meaning": "bottle"
+   },
+   {
+    "kanji": "瓦",
+    "reading": "かわら",
+    "meaning": "tile"
+   }
+  ]
+ },
+ {
+  "id": "099",
+  "char": "甘",
+  "meaning": "sweet",
+  "name": "あまい",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "甘",
+    "reading": "あまい",
+    "meaning": "sweet"
+   },
+   {
+    "kanji": "甚",
+    "reading": "はなはだ",
+    "meaning": "very"
+   }
+  ]
+ },
+ {
+  "id": "100",
+  "char": "生",
+  "meaning": "life; birth",
+  "name": "うまれる",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "生",
+    "reading": "いきる",
+    "meaning": "live"
+   },
+   {
+    "kanji": "産",
+    "reading": "うむ",
+    "meaning": "give birth"
+   }
+  ]
+ },
+ {
+  "id": "101",
+  "char": "用",
+  "meaning": "use",
+  "name": "もちいる",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "用",
+    "reading": "よう",
+    "meaning": "use"
+   },
+   {
+    "kanji": "用途",
+    "reading": "ようと",
+    "meaning": "use/purpose"
+   }
+  ]
+ },
+ {
+  "id": "102",
+  "char": "田",
+  "meaning": "rice field",
+  "name": "た / たへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "男",
+    "reading": "おとこ",
+    "meaning": "man"
+   },
+   {
+    "kanji": "町",
+    "reading": "まち",
+    "meaning": "town"
+   },
+   {
+    "kanji": "界",
+    "reading": "かい",
+    "meaning": "world"
+   },
+   {
+    "kanji": "画",
+    "reading": "が",
+    "meaning": "picture"
+   }
+  ]
+ },
+ {
+  "id": "103",
+  "char": "疋",
+  "meaning": "bolt of cloth; pair",
+  "name": "ひき",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "疑",
+    "reading": "うたがう",
+    "meaning": "doubt"
+   }
+  ]
+ },
+ {
+  "id": "104",
+  "char": "疒",
+  "meaning": "sickness",
+  "name": "やまいだれ",
+  "usage": "Usually wraps from the upper-left (たれ).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "病",
+    "reading": "びょう",
+    "meaning": "illness"
+   },
+   {
+    "kanji": "痛",
+    "reading": "いたい",
+    "meaning": "pain"
+   },
+   {
+    "kanji": "疲",
+    "reading": "つかれる",
+    "meaning": "tired"
+   }
+  ]
+ },
+ {
+  "id": "105",
+  "char": "癶",
+  "meaning": "footsteps",
+  "name": "はつがしら",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "発",
+    "reading": "はつ",
+    "meaning": "departure"
+   },
+   {
+    "kanji": "登",
+    "reading": "のぼる",
+    "meaning": "climb"
+   }
+  ]
+ },
+ {
+  "id": "106",
+  "char": "白",
+  "meaning": "white",
+  "name": "しろ / しろへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "百",
+    "reading": "ひゃく",
+    "meaning": "hundred"
+   },
+   {
+    "kanji": "的",
+    "reading": "まと",
+    "meaning": "target"
+   },
+   {
+    "kanji": "皆",
+    "reading": "みな",
+    "meaning": "everyone"
+   }
+  ]
+ },
+ {
+  "id": "107",
+  "char": "皮",
+  "meaning": "skin; hide",
+  "name": "けがわ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "皮",
+    "reading": "かわ",
+    "meaning": "skin"
+   },
+   {
+    "kanji": "波",
+    "reading": "なみ",
+    "meaning": "wave"
+   },
+   {
+    "kanji": "彼",
+    "reading": "かれ",
+    "meaning": "he"
+   }
+  ]
+ },
+ {
+  "id": "108",
+  "char": "皿",
+  "meaning": "dish",
+  "name": "さら",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "盆",
+    "reading": "ぼん",
+    "meaning": "tray"
+   },
+   {
+    "kanji": "盛",
+    "reading": "もる",
+    "meaning": "serve/pile"
+   },
+   {
+    "kanji": "益",
+    "reading": "えき",
+    "meaning": "benefit"
+   }
+  ]
+ },
+ {
+  "id": "109",
+  "char": "目",
+  "meaning": "eye",
+  "name": "め / めへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "直",
+    "reading": "なおす",
+    "meaning": "fix"
+   },
+   {
+    "kanji": "相",
+    "reading": "あい",
+    "meaning": "mutual"
+   },
+   {
+    "kanji": "眼",
+    "reading": "め",
+    "meaning": "eye"
+   },
+   {
+    "kanji": "見",
+    "reading": "みる",
+    "meaning": "see"
+   },
+   {
+    "kanji": "県",
+    "reading": "けん",
+    "meaning": "prefecture"
+   }
+  ]
+ },
+ {
+  "id": "110",
+  "char": "矛",
+  "meaning": "spear",
+  "name": "ほこへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "矛",
+    "reading": "ほこ",
+    "meaning": "spear"
+   },
+   {
+    "kanji": "務",
+    "reading": "つとめる",
+    "meaning": "duty"
+   },
+   {
+    "kanji": "柔",
+    "reading": "やわらかい",
+    "meaning": "soft"
+   }
+  ]
+ },
+ {
+  "id": "111",
+  "char": "矢",
+  "meaning": "arrow",
+  "name": "や / やへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "知",
+    "reading": "しる",
+    "meaning": "know"
+   },
+   {
+    "kanji": "短",
+    "reading": "みじかい",
+    "meaning": "short"
+   }
+  ]
+ },
+ {
+  "id": "112",
+  "char": "石",
+  "meaning": "stone",
+  "name": "いし / いしへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "砂",
+    "reading": "すな",
+    "meaning": "sand"
+   },
+   {
+    "kanji": "研",
+    "reading": "とぐ",
+    "meaning": "polish"
+   },
+   {
+    "kanji": "破",
+    "reading": "やぶる",
+    "meaning": "break"
+   }
+  ]
+ },
+ {
+  "id": "113",
+  "char": "示",
+  "meaning": "show; altar",
+  "name": "しめす / しめすへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "神",
+    "reading": "かみ",
+    "meaning": "god"
+   },
+   {
+    "kanji": "礼",
+    "reading": "れい",
+    "meaning": "thanks"
+   },
+   {
+    "kanji": "祭",
+    "reading": "まつり",
+    "meaning": "festival"
+   }
+  ]
+ },
+ {
+  "id": "114",
+  "char": "禸",
+  "meaning": "track; footprint",
+  "name": "ぐうのあし",
+  "usage": "Usually appears at the bottom (あし).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "禽",
+    "reading": "きん",
+    "meaning": "bird"
+   }
+  ]
+ },
+ {
+  "id": "115",
+  "char": "禾",
+  "meaning": "grain; rice plant",
+  "name": "のぎ / のぎへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "私",
+    "reading": "わたし",
+    "meaning": "I"
+   },
+   {
+    "kanji": "秋",
+    "reading": "あき",
+    "meaning": "autumn"
+   },
+   {
+    "kanji": "種",
+    "reading": "たね",
+    "meaning": "seed"
+   }
+  ]
+ },
+ {
+  "id": "116",
+  "char": "穴",
+  "meaning": "cave; hole",
+  "name": "あな / あなかんむり",
+  "usage": "Usually a top component (かんむり).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "空",
+    "reading": "そら",
+    "meaning": "sky"
+   },
+   {
+    "kanji": "究",
+    "reading": "きわめる",
+    "meaning": "research"
+   },
+   {
+    "kanji": "窓",
+    "reading": "まど",
+    "meaning": "window"
+   }
+  ]
+ },
+ {
+  "id": "117",
+  "char": "立",
+  "meaning": "stand",
+  "name": "たつ / たつへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "章",
+    "reading": "しょう",
+    "meaning": "chapter"
+   },
+   {
+    "kanji": "童",
+    "reading": "どう",
+    "meaning": "child"
+   },
+   {
+    "kanji": "端",
+    "reading": "はし",
+    "meaning": "edge"
+   }
+  ]
+ },
+ {
+  "id": "118",
+  "char": "竹",
+  "meaning": "bamboo",
+  "name": "たけ / たけかんむり",
+  "usage": "Usually a top component (かんむり).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "筆",
+    "reading": "ふで",
+    "meaning": "brush"
+   },
+   {
+    "kanji": "箱",
+    "reading": "はこ",
+    "meaning": "box"
+   },
+   {
+    "kanji": "答",
+    "reading": "こたえる",
+    "meaning": "answer"
+   }
+  ]
+ },
+ {
+  "id": "119",
+  "char": "米",
+  "meaning": "rice",
+  "name": "こめ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "粉",
+    "reading": "こな",
+    "meaning": "flour"
+   },
+   {
+    "kanji": "精",
+    "reading": "せい",
+    "meaning": "refinement"
+   },
+   {
+    "kanji": "糖",
+    "reading": "とう",
+    "meaning": "sugar"
+   }
+  ]
+ },
+ {
+  "id": "120",
+  "char": "糸",
+  "meaning": "thread",
+  "name": "いと / いとへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "紙",
+    "reading": "かみ",
+    "meaning": "paper"
+   },
+   {
+    "kanji": "細",
+    "reading": "ほそい",
+    "meaning": "thin"
+   },
+   {
+    "kanji": "線",
+    "reading": "せん",
+    "meaning": "line"
+   },
+   {
+    "kanji": "約",
+    "reading": "やく",
+    "meaning": "approximately"
+   },
+   {
+    "kanji": "終",
+    "reading": "おわる",
+    "meaning": "end"
+   },
+   {
+    "kanji": "組",
+    "reading": "くむ",
+    "meaning": "group"
+   }
+  ]
+ },
+ {
+  "id": "121",
+  "char": "缶",
+  "meaning": "jar; tin",
+  "name": "ほとぎ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "缶",
+    "reading": "かん",
+    "meaning": "can"
+   }
+  ]
+ },
+ {
+  "id": "122",
+  "char": "网",
+  "meaning": "net",
+  "name": "あみがしら",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "罪",
+    "reading": "つみ",
+    "meaning": "crime"
+   },
+   {
+    "kanji": "置",
+    "reading": "おく",
+    "meaning": "put"
+   },
+   {
+    "kanji": "署",
+    "reading": "しょ",
+    "meaning": "office"
+   }
+  ]
+ },
+ {
+  "id": "123",
+  "char": "羊",
+  "meaning": "sheep",
+  "name": "ひつじ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "美",
+    "reading": "うつくしい",
+    "meaning": "beautiful"
+   },
+   {
+    "kanji": "着",
+    "reading": "きる",
+    "meaning": "wear"
+   },
+   {
+    "kanji": "群",
+    "reading": "むれる",
+    "meaning": "flock"
+   }
+  ]
+ },
+ {
+  "id": "124",
+  "char": "羽",
+  "meaning": "feather; wing",
+  "name": "はね",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "習",
+    "reading": "ならう",
+    "meaning": "learn"
+   },
+   {
+    "kanji": "翌",
+    "reading": "よく",
+    "meaning": "next"
+   },
+   {
+    "kanji": "翼",
+    "reading": "つばさ",
+    "meaning": "wing"
+   }
+  ]
+ },
+ {
+  "id": "125",
+  "char": "老",
+  "meaning": "old",
+  "name": "おいがしら",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "老",
+    "reading": "おいる",
+    "meaning": "grow old"
+   },
+   {
+    "kanji": "考",
+    "reading": "かんがえる",
+    "meaning": "think"
+   },
+   {
+    "kanji": "者",
+    "reading": "もの",
+    "meaning": "person"
+   }
+  ]
+ },
+ {
+  "id": "126",
+  "char": "而",
+  "meaning": "and; whiskers",
+  "name": "しかして",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "耐",
+    "reading": "たえる",
+    "meaning": "endure"
+   }
+  ]
+ },
+ {
+  "id": "127",
+  "char": "耒",
+  "meaning": "plow",
+  "name": "すきへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "耕",
+    "reading": "たがやす",
+    "meaning": "cultivate"
+   }
+  ]
+ },
+ {
+  "id": "128",
+  "char": "耳",
+  "meaning": "ear",
+  "name": "みみ / みみへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "聞",
+    "reading": "きく",
+    "meaning": "hear"
+   },
+   {
+    "kanji": "職",
+    "reading": "しょく",
+    "meaning": "job"
+   },
+   {
+    "kanji": "聴",
+    "reading": "きく",
+    "meaning": "listen"
+   }
+  ]
+ },
+ {
+  "id": "129",
+  "char": "聿",
+  "meaning": "writing brush",
+  "name": "ふでづくり",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "筆",
+    "reading": "ふで",
+    "meaning": "brush"
+   },
+   {
+    "kanji": "建",
+    "reading": "たてる",
+    "meaning": "build"
+   }
+  ]
+ },
+ {
+  "id": "130",
+  "char": "肉",
+  "meaning": "meat; flesh",
+  "name": "にく / にくづき",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "肌",
+    "reading": "はだ",
+    "meaning": "skin"
+   },
+   {
+    "kanji": "胸",
+    "reading": "むね",
+    "meaning": "chest"
+   },
+   {
+    "kanji": "腹",
+    "reading": "はら",
+    "meaning": "belly"
+   }
+  ]
+ },
+ {
+  "id": "131",
+  "char": "臣",
+  "meaning": "minister; retainer",
+  "name": "しん",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "臨",
+    "reading": "のぞむ",
+    "meaning": "face"
+   },
+   {
+    "kanji": "覧",
+    "reading": "らん",
+    "meaning": "look at"
+   }
+  ]
+ },
+ {
+  "id": "132",
+  "char": "自",
+  "meaning": "self",
+  "name": "みずから",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "自",
+    "reading": "じ",
+    "meaning": "self"
+   },
+   {
+    "kanji": "臭",
+    "reading": "くさい",
+    "meaning": "stink"
+   }
+  ]
+ },
+ {
+  "id": "133",
+  "char": "至",
+  "meaning": "arrive",
+  "name": "いたる",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "至",
+    "reading": "いたる",
+    "meaning": "arrive"
+   },
+   {
+    "kanji": "致",
+    "reading": "いたす",
+    "meaning": "do"
+   }
+  ]
+ },
+ {
+  "id": "134",
+  "char": "臼",
+  "meaning": "mortar",
+  "name": "うす",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "興",
+    "reading": "きょう",
+    "meaning": "interest"
+   }
+  ]
+ },
+ {
+  "id": "135",
+  "char": "舌",
+  "meaning": "tongue",
+  "name": "した",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "舌",
+    "reading": "した",
+    "meaning": "tongue"
+   },
+   {
+    "kanji": "舎",
+    "reading": "しゃ",
+    "meaning": "lodge"
+   }
+  ]
+ },
+ {
+  "id": "136",
+  "char": "舛",
+  "meaning": "opposite; dancing feet",
+  "name": "まいあし",
+  "usage": "Usually appears at the bottom (あし).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "舞",
+    "reading": "まう",
+    "meaning": "dance"
+   }
+  ]
+ },
+ {
+  "id": "137",
+  "char": "舟",
+  "meaning": "boat",
+  "name": "ふね / ふねへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "船",
+    "reading": "ふね",
+    "meaning": "ship"
+   },
+   {
+    "kanji": "航",
+    "reading": "こう",
+    "meaning": "navigate"
+   },
+   {
+    "kanji": "般",
+    "reading": "はん",
+    "meaning": "sort"
+   }
+  ]
+ },
+ {
+  "id": "138",
+  "char": "艮",
+  "meaning": "stopping",
+  "name": "こん / うしとら",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "良",
+    "reading": "よい",
+    "meaning": "good"
+   },
+   {
+    "kanji": "限",
+    "reading": "かぎる",
+    "meaning": "limit"
+   },
+   {
+    "kanji": "恨",
+    "reading": "うらむ",
+    "meaning": "resent"
+   }
+  ]
+ },
+ {
+  "id": "139",
+  "char": "色",
+  "meaning": "color",
+  "name": "いろ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "色",
+    "reading": "いろ",
+    "meaning": "color"
+   },
+   {
+    "kanji": "絶",
+    "reading": "たえる",
+    "meaning": "cut off"
+   }
+  ]
+ },
+ {
+  "id": "140",
+  "char": "艸",
+  "meaning": "grass",
+  "name": "くさ / くさかんむり",
+  "usage": "Usually a top component (かんむり).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "花",
+    "reading": "はな",
+    "meaning": "flower"
+   },
+   {
+    "kanji": "草",
+    "reading": "くさ",
+    "meaning": "grass"
+   },
+   {
+    "kanji": "茶",
+    "reading": "ちゃ",
+    "meaning": "tea"
+   }
+  ]
+ },
+ {
+  "id": "141",
+  "char": "虍",
+  "meaning": "tiger stripes",
+  "name": "とらがしら",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "虚",
+    "reading": "きょ",
+    "meaning": "empty"
+   },
+   {
+    "kanji": "虜",
+    "reading": "りょ",
+    "meaning": "captive"
+   }
+  ]
+ },
+ {
+  "id": "142",
+  "char": "虫",
+  "meaning": "insect",
+  "name": "むし / むしへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "蚊",
+    "reading": "か",
+    "meaning": "mosquito"
+   },
+   {
+    "kanji": "蛇",
+    "reading": "へび",
+    "meaning": "snake"
+   },
+   {
+    "kanji": "蝶",
+    "reading": "ちょう",
+    "meaning": "butterfly"
+   }
+  ]
+ },
+ {
+  "id": "143",
+  "char": "血",
+  "meaning": "blood",
+  "name": "ち",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "血",
+    "reading": "ち",
+    "meaning": "blood"
+   },
+   {
+    "kanji": "衆",
+    "reading": "しゅう",
+    "meaning": "multitude"
+   }
+  ]
+ },
+ {
+  "id": "144",
+  "char": "行",
+  "meaning": "go; road enclosure",
+  "name": "ぎょうがまえ",
+  "usage": "Usually forms an enclosing frame (かまえ).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "街",
+    "reading": "まち",
+    "meaning": "street"
+   },
+   {
+    "kanji": "術",
+    "reading": "じゅつ",
+    "meaning": "technique"
+   },
+   {
+    "kanji": "衛",
+    "reading": "えい",
+    "meaning": "defense"
+   }
+  ]
+ },
+ {
+  "id": "145",
+  "char": "衣",
+  "meaning": "clothes",
+  "name": "ころも / ころもへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "装",
+    "reading": "そう",
+    "meaning": "dress"
+   },
+   {
+    "kanji": "裏",
+    "reading": "うら",
+    "meaning": "inside"
+   },
+   {
+    "kanji": "補",
+    "reading": "ほ",
+    "meaning": "repair"
+   }
+  ]
+ },
+ {
+  "id": "146",
+  "char": "襾",
+  "meaning": "cover; west",
+  "name": "おおいかんむり",
+  "usage": "Usually a top component (かんむり).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "西",
+    "reading": "にし",
+    "meaning": "west"
+   },
+   {
+    "kanji": "要",
+    "reading": "よう",
+    "meaning": "need"
+   },
+   {
+    "kanji": "覆",
+    "reading": "おおう",
+    "meaning": "cover"
+   }
+  ]
+ },
+ {
+  "id": "147",
+  "char": "見",
+  "meaning": "see",
+  "name": "みる",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "親",
+    "reading": "おや",
+    "meaning": "parent"
+   },
+   {
+    "kanji": "覚",
+    "reading": "おぼえる",
+    "meaning": "remember"
+   },
+   {
+    "kanji": "視",
+    "reading": "し",
+    "meaning": "see"
+   }
+  ]
+ },
+ {
+  "id": "148",
+  "char": "角",
+  "meaning": "horn",
+  "name": "つの / つのへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "解",
+    "reading": "とく",
+    "meaning": "solve"
+   },
+   {
+    "kanji": "触",
+    "reading": "ふれる",
+    "meaning": "touch"
+   }
+  ]
+ },
+ {
+  "id": "149",
+  "char": "言",
+  "meaning": "speech; words",
+  "name": "ことば / ごんべん",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "話",
+    "reading": "はなす",
+    "meaning": "speak"
+   },
+   {
+    "kanji": "語",
+    "reading": "ご",
+    "meaning": "language"
+   },
+   {
+    "kanji": "読",
+    "reading": "よむ",
+    "meaning": "read"
+   }
+  ]
+ },
+ {
+  "id": "150",
+  "char": "谷",
+  "meaning": "valley",
+  "name": "たに",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "谷",
+    "reading": "たに",
+    "meaning": "valley"
+   },
+   {
+    "kanji": "欲",
+    "reading": "ほしい",
+    "meaning": "want"
+   },
+   {
+    "kanji": "浴",
+    "reading": "あびる",
+    "meaning": "bath"
+   }
+  ]
+ },
+ {
+  "id": "151",
+  "char": "豆",
+  "meaning": "bean",
+  "name": "まめ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "豊",
+    "reading": "ゆたか",
+    "meaning": "abundant"
+   },
+   {
+    "kanji": "頭",
+    "reading": "あたま",
+    "meaning": "head"
+   },
+   {
+    "kanji": "短",
+    "reading": "みじかい",
+    "meaning": "short"
+   }
+  ]
+ },
+ {
+  "id": "152",
+  "char": "豕",
+  "meaning": "pig",
+  "name": "いのこ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "豚",
+    "reading": "ぶた",
+    "meaning": "pig"
+   },
+   {
+    "kanji": "象",
+    "reading": "ぞう",
+    "meaning": "elephant"
+   }
+  ]
+ },
+ {
+  "id": "153",
+  "char": "豸",
+  "meaning": "badger; cat-like beast",
+  "name": "むじなへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "貌",
+    "reading": "ぼう",
+    "meaning": "appearance"
+   }
+  ]
+ },
+ {
+  "id": "154",
+  "char": "貝",
+  "meaning": "shell; money",
+  "name": "かい / かいへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "買",
+    "reading": "かう",
+    "meaning": "buy"
+   },
+   {
+    "kanji": "貨",
+    "reading": "か",
+    "meaning": "goods"
+   },
+   {
+    "kanji": "財",
+    "reading": "ざい",
+    "meaning": "wealth"
+   },
+   {
+    "kanji": "貧",
+    "reading": "まずしい",
+    "meaning": "poor"
+   }
+  ]
+ },
+ {
+  "id": "155",
+  "char": "赤",
+  "meaning": "red",
+  "name": "あか",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "赤",
+    "reading": "あか",
+    "meaning": "red"
+   },
+   {
+    "kanji": "赦",
+    "reading": "ゆるす",
+    "meaning": "pardon"
+   }
+  ]
+ },
+ {
+  "id": "156",
+  "char": "走",
+  "meaning": "run",
+  "name": "はしる / そうにょう",
+  "usage": "Usually forms a wrapping/road-like lower-left component (にょう).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "起",
+    "reading": "おきる",
+    "meaning": "rise"
+   },
+   {
+    "kanji": "超",
+    "reading": "こえる",
+    "meaning": "exceed"
+   },
+   {
+    "kanji": "越",
+    "reading": "こえる",
+    "meaning": "cross"
+   }
+  ]
+ },
+ {
+  "id": "157",
+  "char": "足",
+  "meaning": "foot; leg",
+  "name": "あし / あしへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "路",
+    "reading": "みち",
+    "meaning": "road"
+   },
+   {
+    "kanji": "跳",
+    "reading": "とぶ",
+    "meaning": "jump"
+   },
+   {
+    "kanji": "距",
+    "reading": "きょ",
+    "meaning": "distance"
+   }
+  ]
+ },
+ {
+  "id": "158",
+  "char": "身",
+  "meaning": "body",
+  "name": "み / みへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "身",
+    "reading": "み",
+    "meaning": "body"
+   },
+   {
+    "kanji": "射",
+    "reading": "いる",
+    "meaning": "shoot"
+   }
+  ]
+ },
+ {
+  "id": "159",
+  "char": "車",
+  "meaning": "cart; car",
+  "name": "くるま",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "軍",
+    "reading": "ぐん",
+    "meaning": "army"
+   },
+   {
+    "kanji": "転",
+    "reading": "ころぶ",
+    "meaning": "turn"
+   },
+   {
+    "kanji": "輪",
+    "reading": "わ",
+    "meaning": "ring"
+   }
+  ]
+ },
+ {
+  "id": "160",
+  "char": "辛",
+  "meaning": "bitter; spicy",
+  "name": "からい",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "辞",
+    "reading": "やめる",
+    "meaning": "resign"
+   },
+   {
+    "kanji": "辛",
+    "reading": "からい",
+    "meaning": "spicy"
+   }
+  ]
+ },
+ {
+  "id": "161",
+  "char": "辰",
+  "meaning": "dragon; morning",
+  "name": "しんのたつ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "農",
+    "reading": "のう",
+    "meaning": "farming"
+   },
+   {
+    "kanji": "辱",
+    "reading": "はずかしめる",
+    "meaning": "humiliate"
+   }
+  ]
+ },
+ {
+  "id": "162",
+  "char": "辵",
+  "meaning": "walk; road",
+  "name": "しんにょう",
+  "usage": "Usually forms a wrapping/road-like lower-left component (にょう).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "道",
+    "reading": "みち",
+    "meaning": "road"
+   },
+   {
+    "kanji": "近",
+    "reading": "ちかい",
+    "meaning": "near"
+   },
+   {
+    "kanji": "週",
+    "reading": "しゅう",
+    "meaning": "week"
+   }
+  ]
+ },
+ {
+  "id": "163",
+  "char": "邑",
+  "meaning": "town; village",
+  "name": "おおざと",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "都",
+    "reading": "と",
+    "meaning": "metropolis"
+   },
+   {
+    "kanji": "部",
+    "reading": "ぶ",
+    "meaning": "section"
+   },
+   {
+    "kanji": "郡",
+    "reading": "ぐん",
+    "meaning": "district"
+   }
+  ]
+ },
+ {
+  "id": "164",
+  "char": "酉",
+  "meaning": "sake jar; zodiac bird",
+  "name": "ひよみのとり",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "酒",
+    "reading": "さけ",
+    "meaning": "sake"
+   },
+   {
+    "kanji": "配",
+    "reading": "くばる",
+    "meaning": "distribute"
+   },
+   {
+    "kanji": "酸",
+    "reading": "すっぱい",
+    "meaning": "sour"
+   }
+  ]
+ },
+ {
+  "id": "165",
+  "char": "釆",
+  "meaning": "distinguish",
+  "name": "のごめ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "釈",
+    "reading": "しゃく",
+    "meaning": "explain"
+   }
+  ]
+ },
+ {
+  "id": "166",
+  "char": "里",
+  "meaning": "village; unit",
+  "name": "さと",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "野",
+    "reading": "の",
+    "meaning": "field"
+   },
+   {
+    "kanji": "重",
+    "reading": "おもい",
+    "meaning": "heavy"
+   },
+   {
+    "kanji": "量",
+    "reading": "はかる",
+    "meaning": "measure"
+   }
+  ]
+ },
+ {
+  "id": "167",
+  "char": "金",
+  "meaning": "metal; gold",
+  "name": "かね / かねへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "鉄",
+    "reading": "てつ",
+    "meaning": "iron"
+   },
+   {
+    "kanji": "銀",
+    "reading": "ぎん",
+    "meaning": "silver"
+   },
+   {
+    "kanji": "鏡",
+    "reading": "かがみ",
+    "meaning": "mirror"
+   },
+   {
+    "kanji": "針",
+    "reading": "はり",
+    "meaning": "needle"
+   }
+  ]
+ },
+ {
+  "id": "168",
+  "char": "長",
+  "meaning": "long",
+  "name": "ながい",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "長",
+    "reading": "ながい",
+    "meaning": "long"
+   },
+   {
+    "kanji": "張",
+    "reading": "はる",
+    "meaning": "stretch"
+   },
+   {
+    "kanji": "帳",
+    "reading": "ちょう",
+    "meaning": "notebook"
+   }
+  ]
+ },
+ {
+  "id": "169",
+  "char": "門",
+  "meaning": "gate",
+  "name": "もんがまえ",
+  "usage": "Usually forms an enclosing frame (かまえ).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "間",
+    "reading": "あいだ",
+    "meaning": "between"
+   },
+   {
+    "kanji": "開",
+    "reading": "ひらく",
+    "meaning": "open"
+   },
+   {
+    "kanji": "関",
+    "reading": "せき",
+    "meaning": "barrier"
+   }
+  ]
+ },
+ {
+  "id": "170",
+  "char": "阜",
+  "meaning": "mound; hill",
+  "name": "こざとへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "陽",
+    "reading": "よう",
+    "meaning": "sunshine"
+   },
+   {
+    "kanji": "階",
+    "reading": "かい",
+    "meaning": "floor"
+   },
+   {
+    "kanji": "防",
+    "reading": "ふせぐ",
+    "meaning": "defend"
+   }
+  ]
+ },
+ {
+  "id": "171",
+  "char": "隶",
+  "meaning": "slave; reach",
+  "name": "れいづくり",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "隷",
+    "reading": "れい",
+    "meaning": "slave"
+   }
+  ]
+ },
+ {
+  "id": "172",
+  "char": "隹",
+  "meaning": "short-tailed bird",
+  "name": "ふるとり",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "集",
+    "reading": "あつめる",
+    "meaning": "collect"
+   },
+   {
+    "kanji": "雑",
+    "reading": "ざつ",
+    "meaning": "miscellaneous"
+   },
+   {
+    "kanji": "難",
+    "reading": "むずかしい",
+    "meaning": "difficult"
+   }
+  ]
+ },
+ {
+  "id": "173",
+  "char": "雨",
+  "meaning": "rain",
+  "name": "あめ / あめかんむり",
+  "usage": "Usually a top component (かんむり).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "雪",
+    "reading": "ゆき",
+    "meaning": "snow"
+   },
+   {
+    "kanji": "雲",
+    "reading": "くも",
+    "meaning": "cloud"
+   },
+   {
+    "kanji": "電",
+    "reading": "でん",
+    "meaning": "electricity"
+   }
+  ]
+ },
+ {
+  "id": "174",
+  "char": "青",
+  "meaning": "blue; green",
+  "name": "あお",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "静",
+    "reading": "しずか",
+    "meaning": "quiet"
+   },
+   {
+    "kanji": "晴",
+    "reading": "はれる",
+    "meaning": "clear"
+   },
+   {
+    "kanji": "精",
+    "reading": "せい",
+    "meaning": "spirit"
+   }
+  ]
+ },
+ {
+  "id": "175",
+  "char": "非",
+  "meaning": "wrong; not",
+  "name": "あらず",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "非",
+    "reading": "ひ",
+    "meaning": "not"
+   },
+   {
+    "kanji": "悲",
+    "reading": "かなしい",
+    "meaning": "sad"
+   },
+   {
+    "kanji": "輩",
+    "reading": "はい",
+    "meaning": "comrade"
+   }
+  ]
+ },
+ {
+  "id": "176",
+  "char": "面",
+  "meaning": "face; surface",
+  "name": "めん",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "面",
+    "reading": "おもて",
+    "meaning": "face"
+   },
+   {
+    "kanji": "面接",
+    "reading": "めんせつ",
+    "meaning": "interview"
+   }
+  ]
+ },
+ {
+  "id": "177",
+  "char": "革",
+  "meaning": "leather; hide",
+  "name": "つくりがわ / かわへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "靴",
+    "reading": "くつ",
+    "meaning": "shoes"
+   },
+   {
+    "kanji": "革",
+    "reading": "かわ",
+    "meaning": "leather"
+   }
+  ]
+ },
+ {
+  "id": "178",
+  "char": "韋",
+  "meaning": "tanned leather",
+  "name": "なめしがわ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "偉",
+    "reading": "えらい",
+    "meaning": "great"
+   },
+   {
+    "kanji": "韓",
+    "reading": "かん",
+    "meaning": "Korea"
+   },
+   {
+    "kanji": "衛",
+    "reading": "えい",
+    "meaning": "defense"
+   }
+  ]
+ },
+ {
+  "id": "179",
+  "char": "韭",
+  "meaning": "leek",
+  "name": "にら",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "韭",
+    "reading": "にら",
+    "meaning": "leek"
+   }
+  ]
+ },
+ {
+  "id": "180",
+  "char": "音",
+  "meaning": "sound",
+  "name": "おと",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "音",
+    "reading": "おと",
+    "meaning": "sound"
+   },
+   {
+    "kanji": "響",
+    "reading": "ひびく",
+    "meaning": "resound"
+   },
+   {
+    "kanji": "韻",
+    "reading": "いん",
+    "meaning": "rhyme"
+   }
+  ]
+ },
+ {
+  "id": "181",
+  "char": "頁",
+  "meaning": "head; page",
+  "name": "おおがい",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "頭",
+    "reading": "あたま",
+    "meaning": "head"
+   },
+   {
+    "kanji": "顔",
+    "reading": "かお",
+    "meaning": "face"
+   },
+   {
+    "kanji": "題",
+    "reading": "だい",
+    "meaning": "topic"
+   }
+  ]
+ },
+ {
+  "id": "182",
+  "char": "風",
+  "meaning": "wind",
+  "name": "かぜ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "風",
+    "reading": "かぜ",
+    "meaning": "wind"
+   },
+   {
+    "kanji": "嵐",
+    "reading": "あらし",
+    "meaning": "storm"
+   }
+  ]
+ },
+ {
+  "id": "183",
+  "char": "飛",
+  "meaning": "fly",
+  "name": "とぶ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "飛",
+    "reading": "とぶ",
+    "meaning": "fly"
+   }
+  ]
+ },
+ {
+  "id": "184",
+  "char": "食",
+  "meaning": "eat; food",
+  "name": "しょく / しょくへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "飯",
+    "reading": "めし",
+    "meaning": "meal"
+   },
+   {
+    "kanji": "飲",
+    "reading": "のむ",
+    "meaning": "drink"
+   },
+   {
+    "kanji": "館",
+    "reading": "かん",
+    "meaning": "building"
+   }
+  ]
+ },
+ {
+  "id": "185",
+  "char": "首",
+  "meaning": "neck; head",
+  "name": "くび",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "首",
+    "reading": "くび",
+    "meaning": "neck"
+   },
+   {
+    "kanji": "道",
+    "reading": "みち",
+    "meaning": "road"
+   }
+  ]
+ },
+ {
+  "id": "186",
+  "char": "香",
+  "meaning": "fragrance",
+  "name": "かおり",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "香",
+    "reading": "かおり",
+    "meaning": "fragrance"
+   }
+  ]
+ },
+ {
+  "id": "187",
+  "char": "馬",
+  "meaning": "horse",
+  "name": "うま / うまへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "駅",
+    "reading": "えき",
+    "meaning": "station"
+   },
+   {
+    "kanji": "験",
+    "reading": "けん",
+    "meaning": "test"
+   },
+   {
+    "kanji": "駐",
+    "reading": "ちゅう",
+    "meaning": "park"
+   }
+  ]
+ },
+ {
+  "id": "188",
+  "char": "骨",
+  "meaning": "bone",
+  "name": "ほね",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "骨",
+    "reading": "ほね",
+    "meaning": "bone"
+   },
+   {
+    "kanji": "髄",
+    "reading": "ずい",
+    "meaning": "marrow"
+   }
+  ]
+ },
+ {
+  "id": "189",
+  "char": "高",
+  "meaning": "tall; high",
+  "name": "たかい",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "高",
+    "reading": "たかい",
+    "meaning": "high"
+   }
+  ]
+ },
+ {
+  "id": "190",
+  "char": "髟",
+  "meaning": "long hair",
+  "name": "かみがしら",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "髪",
+    "reading": "かみ",
+    "meaning": "hair"
+   }
+  ]
+ },
+ {
+  "id": "191",
+  "char": "鬥",
+  "meaning": "fight",
+  "name": "たたかいがまえ",
+  "usage": "Usually forms an enclosing frame (かまえ).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "闘",
+    "reading": "たたかう",
+    "meaning": "fight"
+   }
+  ]
+ },
+ {
+  "id": "192",
+  "char": "鬯",
+  "meaning": "sacrificial wine; herbs",
+  "name": "においざけ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "鬱",
+    "reading": "うつ",
+    "meaning": "gloom/depression"
+   }
+  ]
+ },
+ {
+  "id": "193",
+  "char": "鬲",
+  "meaning": "cauldron; tripod",
+  "name": "れき",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "隔",
+    "reading": "へだてる",
+    "meaning": "separate"
+   }
+  ]
+ },
+ {
+  "id": "194",
+  "char": "鬼",
+  "meaning": "ghost; demon",
+  "name": "おに",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "鬼",
+    "reading": "おに",
+    "meaning": "ogre"
+   },
+   {
+    "kanji": "魂",
+    "reading": "たましい",
+    "meaning": "soul"
+   },
+   {
+    "kanji": "魔",
+    "reading": "ま",
+    "meaning": "devil"
+   }
+  ]
+ },
+ {
+  "id": "195",
+  "char": "魚",
+  "meaning": "fish",
+  "name": "うお / うおへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "鮮",
+    "reading": "せん",
+    "meaning": "fresh"
+   },
+   {
+    "kanji": "鯨",
+    "reading": "くじら",
+    "meaning": "whale"
+   },
+   {
+    "kanji": "鮭",
+    "reading": "さけ",
+    "meaning": "salmon"
+   }
+  ]
+ },
+ {
+  "id": "196",
+  "char": "鳥",
+  "meaning": "bird",
+  "name": "とり / とりへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "鳴",
+    "reading": "なく",
+    "meaning": "chirp"
+   },
+   {
+    "kanji": "鶏",
+    "reading": "にわとり",
+    "meaning": "chicken"
+   },
+   {
+    "kanji": "鶴",
+    "reading": "つる",
+    "meaning": "crane"
+   }
+  ]
+ },
+ {
+  "id": "197",
+  "char": "鹵",
+  "meaning": "salt",
+  "name": "ろ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "鹵",
+    "reading": "ろ",
+    "meaning": "salt"
+   }
+  ]
+ },
+ {
+  "id": "198",
+  "char": "鹿",
+  "meaning": "deer",
+  "name": "しか",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "鹿",
+    "reading": "しか",
+    "meaning": "deer"
+   },
+   {
+    "kanji": "麗",
+    "reading": "れい",
+    "meaning": "beautiful"
+   }
+  ]
+ },
+ {
+  "id": "199",
+  "char": "麥",
+  "meaning": "wheat",
+  "name": "むぎ / ばくにょう",
+  "usage": "Usually forms a wrapping/road-like lower-left component (にょう).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "麦",
+    "reading": "むぎ",
+    "meaning": "wheat"
+   },
+   {
+    "kanji": "麺",
+    "reading": "めん",
+    "meaning": "noodles"
+   }
+  ]
+ },
+ {
+  "id": "200",
+  "char": "麻",
+  "meaning": "hemp",
+  "name": "あさ / あさかんむり",
+  "usage": "Usually a top component (かんむり).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "麻",
+    "reading": "あさ",
+    "meaning": "hemp"
+   },
+   {
+    "kanji": "磨",
+    "reading": "みがく",
+    "meaning": "polish"
+   },
+   {
+    "kanji": "摩",
+    "reading": "ま",
+    "meaning": "rub"
+   }
+  ]
+ },
+ {
+  "id": "B-42",
+  "char": "黃",
+  "meaning": "yellow",
+  "name": "き / おう",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "黄",
+    "reading": "き",
+    "meaning": "yellow"
+   },
+   {
+    "kanji": "横",
+    "reading": "よこ",
+    "meaning": "sideways"
+   }
+  ]
+ },
+ {
+  "id": "202",
+  "char": "黍",
+  "meaning": "millet",
+  "name": "きび",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "黎",
+    "reading": "れい",
+    "meaning": "dawn"
+   }
+  ]
+ },
+ {
+  "id": "203",
+  "char": "黑",
+  "meaning": "black",
+  "name": "くろ / くろへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "黒",
+    "reading": "くろ",
+    "meaning": "black"
+   },
+   {
+    "kanji": "黙",
+    "reading": "だまる",
+    "meaning": "silent"
+   }
+  ]
+ },
+ {
+  "id": "204",
+  "char": "黹",
+  "meaning": "embroidery",
+  "name": "ぬいとり",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "黹",
+    "reading": "ぬいとり",
+    "meaning": "embroidery"
+   }
+  ]
+ },
+ {
+  "id": "205",
+  "char": "黽",
+  "meaning": "frog",
+  "name": "べん / かえる",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "黽",
+    "reading": "べん",
+    "meaning": "frog (rare)"
+   }
+  ]
+ },
+ {
+  "id": "206",
+  "char": "鼎",
+  "meaning": "tripod cauldron",
+  "name": "かなえ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "鼎",
+    "reading": "かなえ",
+    "meaning": "tripod cauldron"
+   }
+  ]
+ },
+ {
+  "id": "207",
+  "char": "鼓",
+  "meaning": "drum",
+  "name": "つづみ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "鼓",
+    "reading": "つづみ",
+    "meaning": "drum"
+   }
+  ]
+ },
+ {
+  "id": "208",
+  "char": "鼠",
+  "meaning": "rat; mouse",
+  "name": "ねずみ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "鼠",
+    "reading": "ねずみ",
+    "meaning": "mouse"
+   }
+  ]
+ },
+ {
+  "id": "209",
+  "char": "鼻",
+  "meaning": "nose",
+  "name": "はな",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "鼻",
+    "reading": "はな",
+    "meaning": "nose"
+   }
+  ]
+ },
+ {
+  "id": "B-46",
+  "char": "齊",
+  "meaning": "even; uniform",
+  "name": "せい",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "斉",
+    "reading": "せい",
+    "meaning": "equal"
+   },
+   {
+    "kanji": "済",
+    "reading": "すむ",
+    "meaning": "finish"
+   },
+   {
+    "kanji": "剤",
+    "reading": "ざい",
+    "meaning": "agent"
+   }
+  ]
+ },
+ {
+  "id": "211",
+  "char": "齒",
+  "meaning": "tooth",
+  "name": "は / はへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "歯",
+    "reading": "は",
+    "meaning": "tooth"
+   },
+   {
+    "kanji": "齢",
+    "reading": "れい",
+    "meaning": "age"
+   }
+  ]
+ },
+ {
+  "id": "212",
+  "char": "龍",
+  "meaning": "dragon",
+  "name": "りゅう / たつ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "竜",
+    "reading": "りゅう",
+    "meaning": "dragon"
+   },
+   {
+    "kanji": "滝",
+    "reading": "たき",
+    "meaning": "waterfall"
+   },
+   {
+    "kanji": "襲",
+    "reading": "おそう",
+    "meaning": "attack"
+   }
+  ]
+ },
+ {
+  "id": "213",
+  "char": "龜",
+  "meaning": "turtle",
+  "name": "かめ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "亀",
+    "reading": "かめ",
+    "meaning": "turtle"
+   }
+  ]
+ },
+ {
+  "id": "214",
+  "char": "龠",
+  "meaning": "flute",
+  "name": "やく",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "easy",
+  "examples": [
+   {
+    "kanji": "龠",
+    "reading": "やく",
+    "meaning": "flute (rare)"
+   }
+  ]
+ },
+ {
+  "id": "B-01",
+  "char": "𠆢",
+  "meaning": "person-top component",
+  "name": "ひとがしら系",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "今",
+    "reading": "いま",
+    "meaning": "now"
+   },
+   {
+    "kanji": "全",
+    "reading": "ぜん",
+    "meaning": "whole"
+   },
+   {
+    "kanji": "会",
+    "reading": "かい",
+    "meaning": "meeting"
+   }
+  ]
+ },
+ {
+  "id": "B-02",
+  "char": "⺅",
+  "meaning": "person side form of 人",
+  "name": "にんべん",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "休",
+    "reading": "やすむ",
+    "meaning": "rest"
+   },
+   {
+    "kanji": "体",
+    "reading": "からだ",
+    "meaning": "body"
+   },
+   {
+    "kanji": "何",
+    "reading": "なに",
+    "meaning": "what"
+   },
+   {
+    "kanji": "作",
+    "reading": "つくる",
+    "meaning": "make"
+   },
+   {
+    "kanji": "使",
+    "reading": "つかう",
+    "meaning": "use"
+   },
+   {
+    "kanji": "住",
+    "reading": "すむ",
+    "meaning": "live"
+   }
+  ]
+ },
+ {
+  "id": "B-03",
+  "char": "ハ",
+  "meaning": "eight-like component",
+  "name": "はちがしら系",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "公",
+    "reading": "こう",
+    "meaning": "public"
+   },
+   {
+    "kanji": "分",
+    "reading": "わける",
+    "meaning": "divide"
+   },
+   {
+    "kanji": "谷",
+    "reading": "たに",
+    "meaning": "valley"
+   }
+  ]
+ },
+ {
+  "id": "B-04",
+  "char": "丷",
+  "meaning": "eight-top component",
+  "name": "はちがしら系",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "学",
+    "reading": "まなぶ",
+    "meaning": "learn"
+   },
+   {
+    "kanji": "半",
+    "reading": "はん",
+    "meaning": "half"
+   },
+   {
+    "kanji": "前",
+    "reading": "まえ",
+    "meaning": "before"
+   }
+  ]
+ },
+ {
+  "id": "B-05",
+  "char": "⺉",
+  "meaning": "side form of 刀",
+  "name": "りっとう",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "別",
+    "reading": "わかれる",
+    "meaning": "separate"
+   },
+   {
+    "kanji": "利",
+    "reading": "り",
+    "meaning": "advantage"
+   },
+   {
+    "kanji": "列",
+    "reading": "れつ",
+    "meaning": "row"
+   }
+  ]
+ },
+ {
+  "id": "B-06",
+  "char": "マ",
+  "meaning": "katakana-like component",
+  "name": "component shape",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "務",
+    "reading": "つとめる",
+    "meaning": "duty"
+   },
+   {
+    "kanji": "参",
+    "reading": "さん",
+    "meaning": "participate"
+   }
+  ]
+ },
+ {
+  "id": "B-07",
+  "char": "ユ",
+  "meaning": "katakana-like component",
+  "name": "component shape",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "急",
+    "reading": "きゅう",
+    "meaning": "hurry"
+   },
+   {
+    "kanji": "帰",
+    "reading": "かえる",
+    "meaning": "return"
+   }
+  ]
+ },
+ {
+  "id": "B-08",
+  "char": "𠂉",
+  "meaning": "top-sweeping component",
+  "name": "component shape",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "年",
+    "reading": "とし",
+    "meaning": "year"
+   },
+   {
+    "kanji": "毎",
+    "reading": "まい",
+    "meaning": "every"
+   }
+  ]
+ },
+ {
+  "id": "B-09",
+  "char": "⻌",
+  "meaning": "side form of 辵",
+  "name": "しんにょう",
+  "usage": "Usually forms a wrapping/road-like lower-left component (にょう).",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "道",
+    "reading": "みち",
+    "meaning": "road"
+   },
+   {
+    "kanji": "近",
+    "reading": "ちかい",
+    "meaning": "near"
+   },
+   {
+    "kanji": "週",
+    "reading": "しゅう",
+    "meaning": "week"
+   }
+  ]
+ },
+ {
+  "id": "B-10",
+  "char": "⺌",
+  "meaning": "top form of 小",
+  "name": "しょうがしら",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "当",
+    "reading": "あたる",
+    "meaning": "hit"
+   },
+   {
+    "kanji": "尚",
+    "reading": "なお",
+    "meaning": "still"
+   },
+   {
+    "kanji": "少",
+    "reading": "すこし",
+    "meaning": "a little"
+   }
+  ]
+ },
+ {
+  "id": "B-11",
+  "char": "ヨ",
+  "meaning": "component shape",
+  "name": "component shape",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "帰",
+    "reading": "かえる",
+    "meaning": "return"
+   },
+   {
+    "kanji": "建",
+    "reading": "たてる",
+    "meaning": "build"
+   }
+  ]
+ },
+ {
+  "id": "B-12",
+  "char": "⺖",
+  "meaning": "side form of 心",
+  "name": "りっしんべん",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "情",
+    "reading": "じょう",
+    "meaning": "feeling"
+   },
+   {
+    "kanji": "怒",
+    "reading": "おこる",
+    "meaning": "get angry"
+   },
+   {
+    "kanji": "怖",
+    "reading": "こわい",
+    "meaning": "scary"
+   }
+  ]
+ },
+ {
+  "id": "B-13",
+  "char": "⺘",
+  "meaning": "side hand component",
+  "name": "てへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "持",
+    "reading": "もつ",
+    "meaning": "hold"
+   },
+   {
+    "kanji": "打",
+    "reading": "うつ",
+    "meaning": "hit"
+   },
+   {
+    "kanji": "指",
+    "reading": "ゆび",
+    "meaning": "finger"
+   }
+  ]
+ },
+ {
+  "id": "B-14",
+  "char": "⺡",
+  "meaning": "side form of 水",
+  "name": "さんずい",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "海",
+    "reading": "うみ",
+    "meaning": "sea"
+   },
+   {
+    "kanji": "池",
+    "reading": "いけ",
+    "meaning": "pond"
+   },
+   {
+    "kanji": "洗",
+    "reading": "あらう",
+    "meaning": "wash"
+   }
+  ]
+ },
+ {
+  "id": "B-15",
+  "char": "⺨",
+  "meaning": "side form of 犬",
+  "name": "けものへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "猫",
+    "reading": "ねこ",
+    "meaning": "cat"
+   },
+   {
+    "kanji": "独",
+    "reading": "ひとり",
+    "meaning": "alone"
+   },
+   {
+    "kanji": "犯",
+    "reading": "おかす",
+    "meaning": "commit"
+   }
+  ]
+ },
+ {
+  "id": "B-16",
+  "char": "⺾",
+  "meaning": "top form of 艸",
+  "name": "くさかんむり",
+  "usage": "Usually a top component (かんむり).",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "花",
+    "reading": "はな",
+    "meaning": "flower"
+   },
+   {
+    "kanji": "草",
+    "reading": "くさ",
+    "meaning": "grass"
+   },
+   {
+    "kanji": "茶",
+    "reading": "ちゃ",
+    "meaning": "tea"
+   }
+  ]
+ },
+ {
+  "id": "B-17",
+  "char": "⻏",
+  "meaning": "right-side form of 邑",
+  "name": "おおざと",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "都",
+    "reading": "と",
+    "meaning": "metropolis"
+   },
+   {
+    "kanji": "部",
+    "reading": "ぶ",
+    "meaning": "section"
+   },
+   {
+    "kanji": "郡",
+    "reading": "ぐん",
+    "meaning": "district"
+   }
+  ]
+ },
+ {
+  "id": "B-18",
+  "char": "⻖",
+  "meaning": "left-side form of 阜",
+  "name": "こざとへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "院",
+    "reading": "いん",
+    "meaning": "institution"
+   },
+   {
+    "kanji": "階",
+    "reading": "かい",
+    "meaning": "floor"
+   },
+   {
+    "kanji": "陽",
+    "reading": "よう",
+    "meaning": "sunshine"
+   }
+  ]
+ },
+ {
+  "id": "B-19",
+  "char": "也",
+  "meaning": "also; component",
+  "name": "や",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "地",
+    "reading": "ち",
+    "meaning": "earth"
+   },
+   {
+    "kanji": "池",
+    "reading": "いけ",
+    "meaning": "pond"
+   }
+  ]
+ },
+ {
+  "id": "B-20",
+  "char": "亡",
+  "meaning": "die; lost",
+  "name": "ぼう",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "忘",
+    "reading": "わすれる",
+    "meaning": "forget"
+   },
+   {
+    "kanji": "忙",
+    "reading": "いそがしい",
+    "meaning": "busy"
+   },
+   {
+    "kanji": "望",
+    "reading": "のぞむ",
+    "meaning": "hope"
+   }
+  ]
+ },
+ {
+  "id": "B-21",
+  "char": "及",
+  "meaning": "reach; extend",
+  "name": "およぶ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "吸",
+    "reading": "すう",
+    "meaning": "inhale"
+   },
+   {
+    "kanji": "級",
+    "reading": "きゅう",
+    "meaning": "grade"
+   },
+   {
+    "kanji": "及",
+    "reading": "およぶ",
+    "meaning": "reach"
+   }
+  ]
+ },
+ {
+  "id": "B-22",
+  "char": "久",
+  "meaning": "long time",
+  "name": "きゅう / ひさしい",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "久",
+    "reading": "ひさしい",
+    "meaning": "long time"
+   }
+  ]
+ },
+ {
+  "id": "B-23",
+  "char": "⺹",
+  "meaning": "old component form",
+  "name": "おいがしら",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "考",
+    "reading": "かんがえる",
+    "meaning": "think"
+   },
+   {
+    "kanji": "者",
+    "reading": "もの",
+    "meaning": "person"
+   },
+   {
+    "kanji": "老",
+    "reading": "おいる",
+    "meaning": "grow old"
+   }
+  ]
+ },
+ {
+  "id": "B-24",
+  "char": "⺭",
+  "meaning": "side form of 示",
+  "name": "しめすへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "神",
+    "reading": "かみ",
+    "meaning": "god"
+   },
+   {
+    "kanji": "社",
+    "reading": "しゃ",
+    "meaning": "company/shrine"
+   },
+   {
+    "kanji": "礼",
+    "reading": "れい",
+    "meaning": "thanks"
+   }
+  ]
+ },
+ {
+  "id": "B-25",
+  "char": "元",
+  "meaning": "origin; beginning",
+  "name": "げん / もと",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "元",
+    "reading": "もと",
+    "meaning": "origin"
+   },
+   {
+    "kanji": "完",
+    "reading": "かん",
+    "meaning": "complete"
+   }
+  ]
+ },
+ {
+  "id": "B-26",
+  "char": "井",
+  "meaning": "well",
+  "name": "せい / い",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "井",
+    "reading": "い",
+    "meaning": "well"
+   },
+   {
+    "kanji": "囲",
+    "reading": "かこむ",
+    "meaning": "surround"
+   }
+  ]
+ },
+ {
+  "id": "B-27",
+  "char": "勿",
+  "meaning": "do not",
+  "name": "なかれ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "物",
+    "reading": "もの",
+    "meaning": "thing"
+   },
+   {
+    "kanji": "勿",
+    "reading": "なかれ",
+    "meaning": "do not"
+   }
+  ]
+ },
+ {
+  "id": "B-28",
+  "char": "尤",
+  "meaning": "especially; fault",
+  "name": "もっとも",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "就",
+    "reading": "つく",
+    "meaning": "take up"
+   },
+   {
+    "kanji": "尤",
+    "reading": "もっとも",
+    "meaning": "especially"
+   }
+  ]
+ },
+ {
+  "id": "B-29",
+  "char": "五",
+  "meaning": "five",
+  "name": "ご",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "五",
+    "reading": "ご",
+    "meaning": "five"
+   },
+   {
+    "kanji": "語",
+    "reading": "ご",
+    "meaning": "language"
+   }
+  ]
+ },
+ {
+  "id": "B-30",
+  "char": "屯",
+  "meaning": "station; camp",
+  "name": "とん",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "屯",
+    "reading": "とん",
+    "meaning": "camp"
+   },
+   {
+    "kanji": "純",
+    "reading": "じゅん",
+    "meaning": "pure"
+   }
+  ]
+ },
+ {
+  "id": "B-31",
+  "char": "巴",
+  "meaning": "circle; tail-like component",
+  "name": "ともえ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "肥",
+    "reading": "こえる",
+    "meaning": "fertile"
+   },
+   {
+    "kanji": "把",
+    "reading": "は",
+    "meaning": "grasp"
+   }
+  ]
+ },
+ {
+  "id": "B-32",
+  "char": "世",
+  "meaning": "world; generation",
+  "name": "せい / よ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "世",
+    "reading": "よ",
+    "meaning": "world"
+   },
+   {
+    "kanji": "葉",
+    "reading": "は",
+    "meaning": "leaf"
+   },
+   {
+    "kanji": "退",
+    "reading": "たい",
+    "meaning": "retreat"
+   }
+  ]
+ },
+ {
+  "id": "B-33",
+  "char": "巨",
+  "meaning": "huge",
+  "name": "きょ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "巨",
+    "reading": "きょ",
+    "meaning": "huge"
+   },
+   {
+    "kanji": "拒",
+    "reading": "こばむ",
+    "meaning": "refuse"
+   },
+   {
+    "kanji": "距",
+    "reading": "きょ",
+    "meaning": "distance"
+   }
+  ]
+ },
+ {
+  "id": "B-34",
+  "char": "冊",
+  "meaning": "volume; book",
+  "name": "さつ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "冊",
+    "reading": "さつ",
+    "meaning": "volume"
+   },
+   {
+    "kanji": "柵",
+    "reading": "さく",
+    "meaning": "fence"
+   }
+  ]
+ },
+ {
+  "id": "B-35",
+  "char": "⺲",
+  "meaning": "net component form",
+  "name": "あみがしら",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "罪",
+    "reading": "つみ",
+    "meaning": "crime"
+   },
+   {
+    "kanji": "置",
+    "reading": "おく",
+    "meaning": "put"
+   },
+   {
+    "kanji": "署",
+    "reading": "しょ",
+    "meaning": "office"
+   }
+  ]
+ },
+ {
+  "id": "B-36",
+  "char": "啇",
+  "meaning": "component associated with 適/滴",
+  "name": "てき",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "適",
+    "reading": "てき",
+    "meaning": "appropriate"
+   },
+   {
+    "kanji": "滴",
+    "reading": "しずく",
+    "meaning": "drop"
+   },
+   {
+    "kanji": "敵",
+    "reading": "てき",
+    "meaning": "enemy"
+   }
+  ]
+ },
+ {
+  "id": "B-37",
+  "char": "奄",
+  "meaning": "cover; suddenly",
+  "name": "えん",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "庵",
+    "reading": "あん",
+    "meaning": "hermitage"
+   },
+   {
+    "kanji": "掩",
+    "reading": "えん",
+    "meaning": "cover"
+   }
+  ]
+ },
+ {
+  "id": "B-38",
+  "char": "岡",
+  "meaning": "hill",
+  "name": "おか",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "岡",
+    "reading": "おか",
+    "meaning": "hill"
+   },
+   {
+    "kanji": "鋼",
+    "reading": "はがね",
+    "meaning": "steel"
+   },
+   {
+    "kanji": "剛",
+    "reading": "ごう",
+    "meaning": "strong"
+   }
+  ]
+ },
+ {
+  "id": "B-39",
+  "char": "免",
+  "meaning": "escape; excuse",
+  "name": "まぬかれる",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "免",
+    "reading": "まぬかれる",
+    "meaning": "escape"
+   },
+   {
+    "kanji": "勉",
+    "reading": "べん",
+    "meaning": "study"
+   },
+   {
+    "kanji": "晩",
+    "reading": "ばん",
+    "meaning": "evening"
+   }
+  ]
+ },
+ {
+  "id": "B-40",
+  "char": "斉",
+  "meaning": "equal; together",
+  "name": "せい",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "斉",
+    "reading": "せい",
+    "meaning": "equal"
+   },
+   {
+    "kanji": "済",
+    "reading": "すむ",
+    "meaning": "finish"
+   },
+   {
+    "kanji": "剤",
+    "reading": "ざい",
+    "meaning": "agent"
+   }
+  ]
+ },
+ {
+  "id": "B-41",
+  "char": "品",
+  "meaning": "goods; article",
+  "name": "ひん",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "品",
+    "reading": "しな",
+    "meaning": "goods"
+   },
+   {
+    "kanji": "晶",
+    "reading": "しょう",
+    "meaning": "crystal"
+   },
+   {
+    "kanji": "器",
+    "reading": "うつわ",
+    "meaning": "container"
+   }
+  ]
+ },
+ {
+  "id": "B-43",
+  "char": "黒",
+  "meaning": "black",
+  "name": "くろ",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "黒",
+    "reading": "くろ",
+    "meaning": "black"
+   },
+   {
+    "kanji": "墨",
+    "reading": "すみ",
+    "meaning": "ink"
+   },
+   {
+    "kanji": "黙",
+    "reading": "だまる",
+    "meaning": "silent"
+   }
+  ]
+ },
+ {
+  "id": "B-44",
+  "char": "無",
+  "meaning": "nothing; without",
+  "name": "む / な:ない",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "無",
+    "reading": "ない",
+    "meaning": "none"
+   },
+   {
+    "kanji": "舞",
+    "reading": "まう",
+    "meaning": "dance"
+   }
+  ]
+ },
+ {
+  "id": "B-45",
+  "char": "歯",
+  "meaning": "tooth",
+  "name": "は",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "normal",
+  "examples": [
+   {
+    "kanji": "歯",
+    "reading": "は",
+    "meaning": "tooth"
+   },
+   {
+    "kanji": "齢",
+    "reading": "れい",
+    "meaning": "age"
+   }
+  ]
+ },
+ {
+  "id": "C-01",
+  "char": "乚",
+  "meaning": "variant of 乙",
+  "name": "おつ系",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "九",
+    "reading": "きゅう",
+    "meaning": "nine"
+   },
+   {
+    "kanji": "乱",
+    "reading": "みだれる",
+    "meaning": "disorder"
+   }
+  ]
+ },
+ {
+  "id": "C-02",
+  "char": "乛",
+  "meaning": "hooked stroke component",
+  "name": "component shape",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "乳",
+    "reading": "ちち",
+    "meaning": "milk"
+   }
+  ]
+ },
+ {
+  "id": "C-07",
+  "char": "旡",
+  "meaning": "variant associated with 无",
+  "name": "なし",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "既",
+    "reading": "すでに",
+    "meaning": "already"
+   }
+  ]
+ },
+ {
+  "id": "C-08",
+  "char": "爫",
+  "meaning": "top form of 爪",
+  "name": "つめかんむり",
+  "usage": "Usually a top component (かんむり).",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "受",
+    "reading": "うける",
+    "meaning": "receive"
+   },
+   {
+    "kanji": "妥",
+    "reading": "だ",
+    "meaning": "appropriate"
+   },
+   {
+    "kanji": "愛",
+    "reading": "あい",
+    "meaning": "love"
+   }
+  ]
+ },
+ {
+  "id": "C-09",
+  "char": "牜",
+  "meaning": "side form of 牛",
+  "name": "うしへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "物",
+    "reading": "もの",
+    "meaning": "thing"
+   },
+   {
+    "kanji": "特",
+    "reading": "とく",
+    "meaning": "special"
+   },
+   {
+    "kanji": "牧",
+    "reading": "まき",
+    "meaning": "pasture"
+   }
+  ]
+ },
+ {
+  "id": "C-10",
+  "char": "灬",
+  "meaning": "bottom form of 火",
+  "name": "れっか / れんが",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "熱",
+    "reading": "あつい",
+    "meaning": "hot"
+   },
+   {
+    "kanji": "焼",
+    "reading": "やく",
+    "meaning": "burn"
+   },
+   {
+    "kanji": "点",
+    "reading": "てん",
+    "meaning": "point"
+   }
+  ]
+ },
+ {
+  "id": "C-11",
+  "char": "罒",
+  "meaning": "top form of 网",
+  "name": "あみがしら",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "罪",
+    "reading": "つみ",
+    "meaning": "crime"
+   },
+   {
+    "kanji": "置",
+    "reading": "おく",
+    "meaning": "put"
+   },
+   {
+    "kanji": "署",
+    "reading": "しょ",
+    "meaning": "office"
+   }
+  ]
+ },
+ {
+  "id": "C-12",
+  "char": "⺮",
+  "meaning": "top form of 竹",
+  "name": "たけかんむり",
+  "usage": "Usually a top component (かんむり).",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "筆",
+    "reading": "ふで",
+    "meaning": "brush"
+   },
+   {
+    "kanji": "箱",
+    "reading": "はこ",
+    "meaning": "box"
+   },
+   {
+    "kanji": "答",
+    "reading": "こたえる",
+    "meaning": "answer"
+   }
+  ]
+ },
+ {
+  "id": "C-13",
+  "char": "⻊",
+  "meaning": "form of 足",
+  "name": "あしへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "路",
+    "reading": "みち",
+    "meaning": "road"
+   },
+   {
+    "kanji": "跳",
+    "reading": "とぶ",
+    "meaning": "jump"
+   },
+   {
+    "kanji": "距",
+    "reading": "きょ",
+    "meaning": "distance"
+   }
+  ]
+ },
+ {
+  "id": "C-14",
+  "char": "衤",
+  "meaning": "side form of 衣",
+  "name": "ころもへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "初",
+    "reading": "はじめ",
+    "meaning": "first"
+   },
+   {
+    "kanji": "補",
+    "reading": "ほ",
+    "meaning": "repair"
+   },
+   {
+    "kanji": "装",
+    "reading": "そう",
+    "meaning": "dress"
+   }
+  ]
+ },
+ {
+  "id": "C-15",
+  "char": "釒",
+  "meaning": "variant form of 金",
+  "name": "かねへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "鉄",
+    "reading": "てつ",
+    "meaning": "iron"
+   },
+   {
+    "kanji": "銀",
+    "reading": "ぎん",
+    "meaning": "silver"
+   },
+   {
+    "kanji": "鏡",
+    "reading": "かがみ",
+    "meaning": "mirror"
+   }
+  ]
+ },
+ {
+  "id": "C-16",
+  "char": "飠",
+  "meaning": "side form of 食",
+  "name": "しょくへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "飯",
+    "reading": "めし",
+    "meaning": "meal"
+   },
+   {
+    "kanji": "飲",
+    "reading": "のむ",
+    "meaning": "drink"
+   },
+   {
+    "kanji": "館",
+    "reading": "かん",
+    "meaning": "building"
+   }
+  ]
+ },
+ {
+  "id": "C-17",
+  "char": "⺶",
+  "meaning": "sheep component form",
+  "name": "ひつじ系",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "美",
+    "reading": "うつくしい",
+    "meaning": "beautiful"
+   },
+   {
+    "kanji": "着",
+    "reading": "きる",
+    "meaning": "wear"
+   },
+   {
+    "kanji": "群",
+    "reading": "むれる",
+    "meaning": "flock"
+   }
+  ]
+ },
+ {
+  "id": "C-18",
+  "char": "糹",
+  "meaning": "side form of 糸",
+  "name": "いとへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "紙",
+    "reading": "かみ",
+    "meaning": "paper"
+   },
+   {
+    "kanji": "細",
+    "reading": "ほそい",
+    "meaning": "thin"
+   },
+   {
+    "kanji": "線",
+    "reading": "せん",
+    "meaning": "line"
+   }
+  ]
+ },
+ {
+  "id": "C-19",
+  "char": "忄",
+  "meaning": "side form of 心",
+  "name": "りっしんべん",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "情",
+    "reading": "じょう",
+    "meaning": "feeling"
+   },
+   {
+    "kanji": "怒",
+    "reading": "おこる",
+    "meaning": "get angry"
+   },
+   {
+    "kanji": "怖",
+    "reading": "こわい",
+    "meaning": "scary"
+   },
+   {
+    "kanji": "快",
+    "reading": "こころよい",
+    "meaning": "pleasant"
+   },
+   {
+    "kanji": "性",
+    "reading": "せい",
+    "meaning": "nature"
+   }
+  ]
+ },
+ {
+  "id": "C-20",
+  "char": "扌",
+  "meaning": "side form of 手",
+  "name": "てへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "持",
+    "reading": "もつ",
+    "meaning": "hold"
+   },
+   {
+    "kanji": "指",
+    "reading": "ゆび",
+    "meaning": "finger"
+   },
+   {
+    "kanji": "打",
+    "reading": "うつ",
+    "meaning": "hit"
+   },
+   {
+    "kanji": "押",
+    "reading": "おす",
+    "meaning": "push"
+   },
+   {
+    "kanji": "投",
+    "reading": "なげる",
+    "meaning": "throw"
+   },
+   {
+    "kanji": "払",
+    "reading": "はらう",
+    "meaning": "pay"
+   }
+  ]
+ },
+ {
+  "id": "C-21",
+  "char": "氵",
+  "meaning": "side form of 水",
+  "name": "さんずい",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "海",
+    "reading": "うみ",
+    "meaning": "sea"
+   },
+   {
+    "kanji": "池",
+    "reading": "いけ",
+    "meaning": "pond"
+   },
+   {
+    "kanji": "洗",
+    "reading": "あらう",
+    "meaning": "wash"
+   },
+   {
+    "kanji": "活",
+    "reading": "かつ",
+    "meaning": "lively"
+   },
+   {
+    "kanji": "流",
+    "reading": "ながれる",
+    "meaning": "flow"
+   },
+   {
+    "kanji": "酒",
+    "reading": "さけ",
+    "meaning": "sake"
+   }
+  ]
+ },
+ {
+  "id": "C-22",
+  "char": "犭",
+  "meaning": "side form of 犬",
+  "name": "けものへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "猫",
+    "reading": "ねこ",
+    "meaning": "cat"
+   },
+   {
+    "kanji": "独",
+    "reading": "ひとり",
+    "meaning": "alone"
+   },
+   {
+    "kanji": "犯",
+    "reading": "おかす",
+    "meaning": "commit"
+   }
+  ]
+ },
+ {
+  "id": "C-23",
+  "char": "艹",
+  "meaning": "top form of 艸",
+  "name": "くさかんむり",
+  "usage": "Usually a top component (かんむり).",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "花",
+    "reading": "はな",
+    "meaning": "flower"
+   },
+   {
+    "kanji": "草",
+    "reading": "くさ",
+    "meaning": "grass"
+   },
+   {
+    "kanji": "茶",
+    "reading": "ちゃ",
+    "meaning": "tea"
+   },
+   {
+    "kanji": "葉",
+    "reading": "は",
+    "meaning": "leaf"
+   },
+   {
+    "kanji": "苦",
+    "reading": "にがい",
+    "meaning": "bitter"
+   },
+   {
+    "kanji": "英",
+    "reading": "えい",
+    "meaning": "England/excel"
+   }
+  ]
+ },
+ {
+  "id": "C-24",
+  "char": "礻",
+  "meaning": "side form of 示",
+  "name": "しめすへん",
+  "usage": "Usually a left-side component (へん).",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "神",
+    "reading": "かみ",
+    "meaning": "god"
+   },
+   {
+    "kanji": "社",
+    "reading": "しゃ",
+    "meaning": "company/shrine"
+   },
+   {
+    "kanji": "礼",
+    "reading": "れい",
+    "meaning": "thanks"
+   }
+  ]
+ },
+ {
+  "id": "C-25",
+  "char": "⺪",
+  "meaning": "variant of 疋",
+  "name": "ひき",
+  "usage": "Used as a kanji component; its meaning can act as a semantic hint, but not every occurrence is semantically literal.",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "疑",
+    "reading": "うたがう",
+    "meaning": "doubt"
+   }
+  ]
+ },
+ {
+  "id": "C-26",
+  "char": "⺈",
+  "meaning": "knife-like top component",
+  "name": "つつみがまえ系",
+  "usage": "Usually forms an enclosing frame (かまえ).",
+  "difficulty": "hard",
+  "examples": [
+   {
+    "kanji": "色",
+    "reading": "いろ",
+    "meaning": "color"
+   },
+   {
+    "kanji": "角",
+    "reading": "つの",
+    "meaning": "horn"
+   }
+  ]
+ }
+]

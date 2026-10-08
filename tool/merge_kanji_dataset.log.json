@@ -1,0 +1,6615 @@
+{
+  "一": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "イチ",
+      "イツ"
+    ],
+    "new_onyomi": [
+      "イチ",
+      "イツ"
+    ],
+    "old_kunyomi": [
+      "ひと(つ)"
+    ],
+    "new_kunyomi": [
+      "ひと",
+      "ひとつ"
+    ]
+  },
+  "七": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "シチ"
+    ],
+    "new_onyomi": [
+      "シチ"
+    ],
+    "old_kunyomi": [
+      "なな",
+      "なの"
+    ],
+    "new_kunyomi": [
+      "なな",
+      "ななつ",
+      "なの"
+    ]
+  },
+  "万": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "マン",
+      "バン"
+    ],
+    "new_onyomi": [
+      "マン",
+      "バン"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "よろず"
+    ]
+  },
+  "三": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "サン"
+    ],
+    "new_onyomi": [
+      "サン",
+      "ゾウ"
+    ],
+    "old_kunyomi": [
+      "み",
+      "みっ(つ)"
+    ],
+    "new_kunyomi": [
+      "み",
+      "みつ",
+      "みっつ"
+    ]
+  },
+  "上": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ジョウ"
+    ],
+    "new_onyomi": [
+      "ジョウ",
+      "ショウ",
+      "シャン"
+    ],
+    "old_kunyomi": [
+      "うえ",
+      "あ(げる)",
+      "のぼ(る)"
+    ],
+    "new_kunyomi": [
+      "うえ",
+      "うわ",
+      "かみ",
+      "あげる",
+      "あがる",
+      "あがり",
+      "のぼる",
+      "のぼり",
+      "のぼせる",
+      "のぼす",
+      "たてまつる"
+    ]
+  },
+  "下": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "カ",
+      "ゲ"
+    ],
+    "new_onyomi": [
+      "カ",
+      "ゲ"
+    ],
+    "old_kunyomi": [
+      "した",
+      "さ(げる)",
+      "くだ(る)"
+    ],
+    "new_kunyomi": [
+      "した",
+      "しも",
+      "もと",
+      "さげる",
+      "さがる",
+      "くだる",
+      "くだり",
+      "くだす",
+      "くださる",
+      "おろす",
+      "おりる"
+    ]
+  },
+  "中": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "チュウ"
+    ],
+    "new_onyomi": [
+      "チュウ"
+    ],
+    "old_kunyomi": [
+      "なか"
+    ],
+    "new_kunyomi": [
+      "なか",
+      "うち",
+      "あたる"
+    ]
+  },
+  "九": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "キュウ",
+      "ク"
+    ],
+    "new_onyomi": [
+      "キュウ",
+      "ク"
+    ],
+    "old_kunyomi": [
+      "ここの(つ)"
+    ],
+    "new_kunyomi": [
+      "ここの",
+      "ここのつ"
+    ]
+  },
+  "二": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ニ"
+    ],
+    "new_onyomi": [
+      "ニ",
+      "ジ"
+    ],
+    "old_kunyomi": [
+      "ふた(つ)"
+    ],
+    "new_kunyomi": [
+      "ふた",
+      "ふたつ",
+      "ふたたび"
+    ]
+  },
+  "五": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ゴ"
+    ],
+    "new_onyomi": [
+      "ゴ"
+    ],
+    "old_kunyomi": [
+      "いつ(つ)"
+    ],
+    "new_kunyomi": [
+      "いつ",
+      "いつつ"
+    ]
+  },
+  "人": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ジン",
+      "ニン"
+    ],
+    "new_onyomi": [
+      "ジン",
+      "ニン"
+    ],
+    "old_kunyomi": [
+      "ひと"
+    ],
+    "new_kunyomi": [
+      "ひと",
+      "り",
+      "と"
+    ]
+  },
+  "体": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "タイ"
+    ],
+    "new_onyomi": [
+      "タイ",
+      "テイ"
+    ],
+    "old_kunyomi": [
+      "からだ"
+    ],
+    "new_kunyomi": [
+      "からだ",
+      "かたち"
+    ]
+  },
+  "作": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "サク",
+      "サ"
+    ],
+    "new_onyomi": [
+      "サク",
+      "サ"
+    ],
+    "old_kunyomi": [
+      "つく(る)"
+    ],
+    "new_kunyomi": [
+      "つくる",
+      "つくり",
+      "づくり"
+    ]
+  },
+  "使": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シ"
+    ],
+    "new_onyomi": [
+      "シ"
+    ],
+    "old_kunyomi": [
+      "つか(う)"
+    ],
+    "new_kunyomi": [
+      "つかう",
+      "つかい",
+      "づかい"
+    ]
+  },
+  "先": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "セン"
+    ],
+    "new_onyomi": [
+      "セン"
+    ],
+    "old_kunyomi": [
+      "さき"
+    ],
+    "new_kunyomi": [
+      "さき",
+      "まず"
+    ]
+  },
+  "入": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ニュウ"
+    ],
+    "new_onyomi": [
+      "ニュウ",
+      "ジュ"
+    ],
+    "old_kunyomi": [
+      "い(る)",
+      "はい(る)"
+    ],
+    "new_kunyomi": [
+      "いる",
+      "いり",
+      "いれる",
+      "いれ",
+      "はいる"
+    ]
+  },
+  "全": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ゼン"
+    ],
+    "new_onyomi": [
+      "ゼン"
+    ],
+    "old_kunyomi": [
+      "すべ(て)"
+    ],
+    "new_kunyomi": [
+      "まったく",
+      "すべて"
+    ]
+  },
+  "八": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ハチ"
+    ],
+    "new_onyomi": [
+      "ハチ"
+    ],
+    "old_kunyomi": [
+      "や(つ)"
+    ],
+    "new_kunyomi": [
+      "や",
+      "やつ",
+      "やっつ",
+      "よう"
+    ]
+  },
+  "六": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ロク"
+    ],
+    "new_onyomi": [
+      "ロク",
+      "リク"
+    ],
+    "old_kunyomi": [
+      "む(つ)"
+    ],
+    "new_kunyomi": [
+      "む",
+      "むつ",
+      "むっつ",
+      "むい"
+    ]
+  },
+  "円": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "エン"
+    ],
+    "new_onyomi": [
+      "エン"
+    ],
+    "old_kunyomi": [
+      "まる(い)"
+    ],
+    "new_kunyomi": [
+      "まるい",
+      "まる",
+      "まど",
+      "まどか",
+      "まろやか"
+    ]
+  },
+  "出": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "シュツ",
+      "スイ"
+    ],
+    "new_onyomi": [
+      "シュツ",
+      "スイ"
+    ],
+    "old_kunyomi": [
+      "で(る)",
+      "だ(す)"
+    ],
+    "new_kunyomi": [
+      "でる",
+      "で",
+      "だす",
+      "いでる",
+      "いだす"
+    ]
+  },
+  "分": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ブン",
+      "フン",
+      "ブ"
+    ],
+    "new_onyomi": [
+      "ブン",
+      "フン",
+      "ブ"
+    ],
+    "old_kunyomi": [
+      "わ(ける)",
+      "わ(かる)"
+    ],
+    "new_kunyomi": [
+      "わける",
+      "わけ",
+      "わかれる",
+      "わかる",
+      "わかつ"
+    ]
+  },
+  "力": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "リョク",
+      "リキ"
+    ],
+    "new_onyomi": [
+      "リョク",
+      "リキ",
+      "リイ"
+    ],
+    "old_kunyomi": [
+      "ちから"
+    ],
+    "new_kunyomi": [
+      "ちから"
+    ]
+  },
+  "十": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ジュウ"
+    ],
+    "new_onyomi": [
+      "ジュウ",
+      "ジッ",
+      "ジュッ"
+    ],
+    "old_kunyomi": [
+      "とお",
+      "と"
+    ],
+    "new_kunyomi": [
+      "とお",
+      "と",
+      "そ"
+    ]
+  },
+  "午": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ゴ"
+    ],
+    "new_onyomi": [
+      "ゴ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "うま"
+    ]
+  },
+  "半": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ハン"
+    ],
+    "new_onyomi": [
+      "ハン"
+    ],
+    "old_kunyomi": [
+      "なか(ば)"
+    ],
+    "new_kunyomi": [
+      "なかば"
+    ]
+  },
+  "南": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ナン"
+    ],
+    "new_onyomi": [
+      "ナン",
+      "ナ"
+    ],
+    "old_kunyomi": [
+      "みなみ"
+    ],
+    "new_kunyomi": [
+      "みなみ"
+    ]
+  },
+  "古": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "コ"
+    ],
+    "new_onyomi": [
+      "コ"
+    ],
+    "old_kunyomi": [
+      "ふる(い)"
+    ],
+    "new_kunyomi": [
+      "ふるい",
+      "ふる",
+      "ふるす"
+    ]
+  },
+  "同": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ドウ"
+    ],
+    "new_onyomi": [
+      "ドウ"
+    ],
+    "old_kunyomi": [
+      "おな(じ)"
+    ],
+    "new_kunyomi": [
+      "おなじ"
+    ]
+  },
+  "四": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "シ"
+    ],
+    "new_onyomi": [
+      "シ"
+    ],
+    "old_kunyomi": [
+      "よん",
+      "よ(つ)"
+    ],
+    "new_kunyomi": [
+      "よ",
+      "よつ",
+      "よっつ",
+      "よん"
+    ]
+  },
+  "売": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "バイ"
+    ],
+    "new_onyomi": [
+      "バイ"
+    ],
+    "old_kunyomi": [
+      "う(る)"
+    ],
+    "new_kunyomi": [
+      "うる",
+      "うれる"
+    ]
+  },
+  "夏": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "カ"
+    ],
+    "new_onyomi": [
+      "カ",
+      "ガ",
+      "ゲ"
+    ],
+    "old_kunyomi": [
+      "なつ"
+    ],
+    "new_kunyomi": [
+      "なつ"
+    ]
+  },
+  "外": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ガイ",
+      "ゲ"
+    ],
+    "new_onyomi": [
+      "ガイ",
+      "ゲ"
+    ],
+    "old_kunyomi": [
+      "そと",
+      "ほか"
+    ],
+    "new_kunyomi": [
+      "そと",
+      "ほか",
+      "はずす",
+      "はずれる",
+      "と"
+    ]
+  },
+  "多": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "タ"
+    ],
+    "new_onyomi": [
+      "タ"
+    ],
+    "old_kunyomi": [
+      "おお(い)"
+    ],
+    "new_kunyomi": [
+      "おおい",
+      "まさに",
+      "まさる"
+    ]
+  },
+  "夜": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ヤ"
+    ],
+    "new_onyomi": [
+      "ヤ"
+    ],
+    "old_kunyomi": [
+      "よる",
+      "よ"
+    ],
+    "new_kunyomi": [
+      "よ",
+      "よる"
+    ]
+  },
+  "夢": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ム"
+    ],
+    "new_onyomi": [
+      "ム",
+      "ボウ"
+    ],
+    "old_kunyomi": [
+      "ゆめ"
+    ],
+    "new_kunyomi": [
+      "ゆめ",
+      "ゆめみる",
+      "くらい"
+    ]
+  },
+  "大": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "new_onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "old_kunyomi": [
+      "おお(きい)"
+    ],
+    "new_kunyomi": [
+      "おお",
+      "おおきい",
+      "おおいに"
+    ]
+  },
+  "天": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "テン"
+    ],
+    "new_onyomi": [
+      "テン"
+    ],
+    "old_kunyomi": [
+      "あめ",
+      "あま"
+    ],
+    "new_kunyomi": [
+      "あまつ",
+      "あめ",
+      "あま"
+    ]
+  },
+  "夫": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "フ"
+    ],
+    "new_onyomi": [
+      "フ",
+      "フウ",
+      "ブ"
+    ],
+    "old_kunyomi": [
+      "おっと"
+    ],
+    "new_kunyomi": [
+      "おっと",
+      "それ"
+    ]
+  },
+  "女": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ジョ",
+      "ニョ"
+    ],
+    "new_onyomi": [
+      "ジョ",
+      "ニョ",
+      "ニョウ"
+    ],
+    "old_kunyomi": [
+      "おんな"
+    ],
+    "new_kunyomi": [
+      "おんな",
+      "め"
+    ]
+  },
+  "好": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "コウ"
+    ],
+    "new_onyomi": [
+      "コウ"
+    ],
+    "old_kunyomi": [
+      "す(き)",
+      "この(む)"
+    ],
+    "new_kunyomi": [
+      "このむ",
+      "すく",
+      "よい",
+      "いい"
+    ]
+  },
+  "姉": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シ"
+    ],
+    "new_onyomi": [
+      "シ"
+    ],
+    "old_kunyomi": [
+      "あね"
+    ],
+    "new_kunyomi": [
+      "あね",
+      "はは"
+    ]
+  },
+  "娘": {
+    "jlpt_level": "N3",
+    "old_onyomi": [],
+    "new_onyomi": [
+      "ジョウ"
+    ],
+    "old_kunyomi": [
+      "むすめ"
+    ],
+    "new_kunyomi": [
+      "むすめ",
+      "こ"
+    ]
+  },
+  "子": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "シ",
+      "ス"
+    ],
+    "new_onyomi": [
+      "シ",
+      "ス",
+      "ツ"
+    ],
+    "old_kunyomi": [
+      "こ"
+    ],
+    "new_kunyomi": [
+      "こ",
+      "ね"
+    ]
+  },
+  "学": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ガク"
+    ],
+    "new_onyomi": [
+      "ガク"
+    ],
+    "old_kunyomi": [
+      "まな(ぶ)"
+    ],
+    "new_kunyomi": [
+      "まなぶ"
+    ]
+  },
+  "家": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "new_onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "old_kunyomi": [
+      "いえ",
+      "や"
+    ],
+    "new_kunyomi": [
+      "いえ",
+      "や",
+      "うち"
+    ]
+  },
+  "小": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ショウ"
+    ],
+    "new_onyomi": [
+      "ショウ"
+    ],
+    "old_kunyomi": [
+      "ちい(さい)",
+      "こ"
+    ],
+    "new_kunyomi": [
+      "ちいさい",
+      "こ",
+      "お",
+      "さ"
+    ]
+  },
+  "少": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ショウ"
+    ],
+    "new_onyomi": [
+      "ショウ"
+    ],
+    "old_kunyomi": [
+      "すく(ない)",
+      "すこ(し)"
+    ],
+    "new_kunyomi": [
+      "すくない",
+      "すこし"
+    ]
+  },
+  "山": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "サン"
+    ],
+    "new_onyomi": [
+      "サン",
+      "セン"
+    ],
+    "old_kunyomi": [
+      "やま"
+    ],
+    "new_kunyomi": [
+      "やま"
+    ]
+  },
+  "左": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "サ"
+    ],
+    "new_onyomi": [
+      "サ",
+      "シャ"
+    ],
+    "old_kunyomi": [
+      "ひだり"
+    ],
+    "new_kunyomi": [
+      "ひだり"
+    ]
+  },
+  "店": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "テン"
+    ],
+    "new_onyomi": [
+      "テン"
+    ],
+    "old_kunyomi": [
+      "みせ"
+    ],
+    "new_kunyomi": [
+      "みせ",
+      "たな"
+    ]
+  },
+  "弟": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "テイ",
+      "ダイ"
+    ],
+    "new_onyomi": [
+      "テイ",
+      "ダイ",
+      "デ"
+    ],
+    "old_kunyomi": [
+      "おとうと"
+    ],
+    "new_kunyomi": [
+      "おとうと"
+    ]
+  },
+  "彼": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ヒ"
+    ],
+    "new_onyomi": [
+      "ヒ"
+    ],
+    "old_kunyomi": [
+      "かれ"
+    ],
+    "new_kunyomi": [
+      "かれ",
+      "かの"
+    ]
+  },
+  "後": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ゴ",
+      "コウ"
+    ],
+    "new_onyomi": [
+      "ゴ",
+      "コウ"
+    ],
+    "old_kunyomi": [
+      "あと",
+      "うし(ろ)",
+      "のち"
+    ],
+    "new_kunyomi": [
+      "のち",
+      "うしろ",
+      "あと",
+      "おくれる"
+    ]
+  },
+  "心": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シン"
+    ],
+    "new_onyomi": [
+      "シン"
+    ],
+    "old_kunyomi": [
+      "こころ"
+    ],
+    "new_kunyomi": [
+      "こころ",
+      "ごころ"
+    ]
+  },
+  "思": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シ"
+    ],
+    "new_onyomi": [
+      "シ"
+    ],
+    "old_kunyomi": [
+      "おも(う)"
+    ],
+    "new_kunyomi": [
+      "おもう",
+      "おもえらく",
+      "おぼす"
+    ]
+  },
+  "愛": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "アイ"
+    ],
+    "new_onyomi": [
+      "アイ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "いとしい",
+      "かなしい",
+      "めでる",
+      "おしむ",
+      "まな"
+    ]
+  },
+  "手": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シュ"
+    ],
+    "new_onyomi": [
+      "シュ",
+      "ズ"
+    ],
+    "old_kunyomi": [
+      "て"
+    ],
+    "new_kunyomi": [
+      "て",
+      "た"
+    ]
+  },
+  "指": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "シ"
+    ],
+    "new_onyomi": [
+      "シ"
+    ],
+    "old_kunyomi": [
+      "ゆび",
+      "さ(す)"
+    ],
+    "new_kunyomi": [
+      "ゆび",
+      "さす",
+      "さし"
+    ]
+  },
+  "新": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シン"
+    ],
+    "new_onyomi": [
+      "シン"
+    ],
+    "old_kunyomi": [
+      "あたら(しい)"
+    ],
+    "new_kunyomi": [
+      "あたらしい",
+      "あらた",
+      "あら",
+      "にい"
+    ]
+  },
+  "方": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ホウ"
+    ],
+    "new_onyomi": [
+      "ホウ"
+    ],
+    "old_kunyomi": [
+      "かた"
+    ],
+    "new_kunyomi": [
+      "かた",
+      "がた"
+    ]
+  },
+  "日": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ニチ",
+      "ジツ"
+    ],
+    "new_onyomi": [
+      "ニチ",
+      "ジツ"
+    ],
+    "old_kunyomi": [
+      "ひ",
+      "か"
+    ],
+    "new_kunyomi": [
+      "ひ",
+      "び",
+      "か"
+    ]
+  },
+  "時": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ジ"
+    ],
+    "new_onyomi": [
+      "ジ"
+    ],
+    "old_kunyomi": [
+      "とき"
+    ],
+    "new_kunyomi": [
+      "とき",
+      "どき"
+    ]
+  },
+  "暇": {
+    "jlpt_level": "N1",
+    "old_onyomi": [
+      "カ"
+    ],
+    "new_onyomi": [
+      "カ"
+    ],
+    "old_kunyomi": [
+      "ひま"
+    ],
+    "new_kunyomi": [
+      "ひま",
+      "いとま"
+    ]
+  },
+  "書": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ショ"
+    ],
+    "new_onyomi": [
+      "ショ"
+    ],
+    "old_kunyomi": [
+      "か(く)"
+    ],
+    "new_kunyomi": [
+      "かく",
+      "がき"
+    ]
+  },
+  "服": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "フク"
+    ],
+    "new_onyomi": [
+      "フク"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "ふく",
+      "るもの",
+      "のものにする",
+      "した",
+      "そのゃ"
+    ]
+  },
+  "木": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ボク",
+      "モク"
+    ],
+    "new_onyomi": [
+      "ボク",
+      "モク"
+    ],
+    "old_kunyomi": [
+      "き"
+    ],
+    "new_kunyomi": [
+      "き",
+      "こ"
+    ]
+  },
+  "来": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ライ"
+    ],
+    "new_onyomi": [
+      "ライ",
+      "タイ"
+    ],
+    "old_kunyomi": [
+      "く(る)",
+      "こ(ない)",
+      "き(た)"
+    ],
+    "new_kunyomi": [
+      "くる",
+      "きたる",
+      "きたす",
+      "き",
+      "こ"
+    ]
+  },
+  "次": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ジ"
+    ],
+    "new_onyomi": [
+      "ジ",
+      "シ"
+    ],
+    "old_kunyomi": [
+      "つぎ"
+    ],
+    "new_kunyomi": [
+      "つぐ",
+      "つぎ"
+    ]
+  },
+  "歯": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "シ"
+    ],
+    "new_onyomi": [
+      "シ"
+    ],
+    "old_kunyomi": [
+      "は"
+    ],
+    "new_kunyomi": [
+      "よわい",
+      "は",
+      "よわいする"
+    ]
+  },
+  "母": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ボ"
+    ],
+    "new_onyomi": [
+      "ボ"
+    ],
+    "old_kunyomi": [
+      "はは"
+    ],
+    "new_kunyomi": [
+      "はは",
+      "も"
+    ]
+  },
+  "毎": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "マイ"
+    ],
+    "new_onyomi": [
+      "マイ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "ごと",
+      "ごとに"
+    ]
+  },
+  "火": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "カ"
+    ],
+    "new_onyomi": [
+      "カ"
+    ],
+    "old_kunyomi": [
+      "ひ"
+    ],
+    "new_kunyomi": [
+      "ひ",
+      "び",
+      "ほ"
+    ]
+  },
+  "熱": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ネツ"
+    ],
+    "new_onyomi": [
+      "ネツ"
+    ],
+    "old_kunyomi": [
+      "あつ(い)"
+    ],
+    "new_kunyomi": [
+      "あつい"
+    ]
+  },
+  "生": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "new_onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "old_kunyomi": [
+      "い(きる)",
+      "う(まれる)",
+      "なま"
+    ],
+    "new_kunyomi": [
+      "いきる",
+      "いかす",
+      "いける",
+      "うまれる",
+      "うまれ",
+      "うむ",
+      "おう",
+      "はえる",
+      "はやす",
+      "き",
+      "なま",
+      "なる",
+      "なす",
+      "むす",
+      "う"
+    ]
+  },
+  "男": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ダン",
+      "ナン"
+    ],
+    "new_onyomi": [
+      "ダン",
+      "ナン"
+    ],
+    "old_kunyomi": [
+      "おとこ"
+    ],
+    "new_kunyomi": [
+      "おとこ",
+      "お"
+    ]
+  },
+  "百": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ヒャク"
+    ],
+    "new_onyomi": [
+      "ヒャク",
+      "ビャク"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "もも"
+    ]
+  },
+  "皆": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "カイ"
+    ],
+    "new_onyomi": [
+      "カイ"
+    ],
+    "old_kunyomi": [
+      "みな"
+    ],
+    "new_kunyomi": [
+      "みな",
+      "みんな"
+    ]
+  },
+  "目": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "モク"
+    ],
+    "new_onyomi": [
+      "モク",
+      "ボク"
+    ],
+    "old_kunyomi": [
+      "め"
+    ],
+    "new_kunyomi": [
+      "め",
+      "ま"
+    ]
+  },
+  "知": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "チ"
+    ],
+    "new_onyomi": [
+      "チ"
+    ],
+    "old_kunyomi": [
+      "し(る)"
+    ],
+    "new_kunyomi": [
+      "しる",
+      "しらせる"
+    ]
+  },
+  "私": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シ"
+    ],
+    "new_onyomi": [
+      "シ"
+    ],
+    "old_kunyomi": [
+      "わたし",
+      "わたくし"
+    ],
+    "new_kunyomi": [
+      "わたくし",
+      "わたし"
+    ]
+  },
+  "秋": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シュウ"
+    ],
+    "new_onyomi": [
+      "シュウ"
+    ],
+    "old_kunyomi": [
+      "あき"
+    ],
+    "new_kunyomi": [
+      "あき",
+      "とき"
+    ]
+  },
+  "空": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "クウ"
+    ],
+    "new_onyomi": [
+      "クウ"
+    ],
+    "old_kunyomi": [
+      "そら",
+      "あ(く)",
+      "から"
+    ],
+    "new_kunyomi": [
+      "そら",
+      "あく",
+      "あき",
+      "あける",
+      "から",
+      "すく",
+      "すかす",
+      "むなしい"
+    ]
+  },
+  "窓": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ソウ"
+    ],
+    "new_onyomi": [
+      "ソウ",
+      "ス"
+    ],
+    "old_kunyomi": [
+      "まど"
+    ],
+    "new_kunyomi": [
+      "まど",
+      "てんまど",
+      "けむだし"
+    ]
+  },
+  "箸": {
+    "jlpt_level": "N1",
+    "old_onyomi": [],
+    "new_onyomi": [
+      "チョ",
+      "チャク"
+    ],
+    "old_kunyomi": [
+      "はし"
+    ],
+    "new_kunyomi": [
+      "はし"
+    ]
+  },
+  "米": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ベイ",
+      "マイ"
+    ],
+    "new_onyomi": [
+      "ベイ",
+      "マイ",
+      "メエトル"
+    ],
+    "old_kunyomi": [
+      "こめ"
+    ],
+    "new_kunyomi": [
+      "こめ",
+      "よね"
+    ]
+  },
+  "聞": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ブン",
+      "モン"
+    ],
+    "new_onyomi": [
+      "ブン",
+      "モン"
+    ],
+    "old_kunyomi": [
+      "き(く)"
+    ],
+    "new_kunyomi": [
+      "きく",
+      "きこえる"
+    ]
+  },
+  "肉": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ニク"
+    ],
+    "new_onyomi": [
+      "ニク"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "しし"
+    ]
+  },
+  "胸": {
+    "jlpt_level": "N2",
+    "old_onyomi": [
+      "キョウ"
+    ],
+    "new_onyomi": [
+      "キョウ"
+    ],
+    "old_kunyomi": [
+      "むね"
+    ],
+    "new_kunyomi": [
+      "むね",
+      "むな"
+    ]
+  },
+  "花": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "カ"
+    ],
+    "new_onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "old_kunyomi": [
+      "はな"
+    ],
+    "new_kunyomi": [
+      "はな"
+    ]
+  },
+  "草": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ソウ"
+    ],
+    "new_onyomi": [
+      "ソウ"
+    ],
+    "old_kunyomi": [
+      "くさ"
+    ],
+    "new_kunyomi": [
+      "くさ",
+      "ぐさ"
+    ]
+  },
+  "行": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "コウ",
+      "ギョウ"
+    ],
+    "new_onyomi": [
+      "コウ",
+      "ギョウ",
+      "アン"
+    ],
+    "old_kunyomi": [
+      "い(く)",
+      "おこな(う)"
+    ],
+    "new_kunyomi": [
+      "いく",
+      "ゆく",
+      "ゆき",
+      "いき",
+      "おこなう"
+    ]
+  },
+  "西": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "セイ",
+      "サイ"
+    ],
+    "new_onyomi": [
+      "セイ",
+      "サイ",
+      "ス"
+    ],
+    "old_kunyomi": [
+      "にし"
+    ],
+    "new_kunyomi": [
+      "にし"
+    ]
+  },
+  "見": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ケン"
+    ],
+    "new_onyomi": [
+      "ケン"
+    ],
+    "old_kunyomi": [
+      "み(る)"
+    ],
+    "new_kunyomi": [
+      "みる",
+      "みえる",
+      "みせる"
+    ]
+  },
+  "話": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ワ"
+    ],
+    "new_onyomi": [
+      "ワ"
+    ],
+    "old_kunyomi": [
+      "はな(す)"
+    ],
+    "new_kunyomi": [
+      "はなす",
+      "はなし"
+    ]
+  },
+  "読": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ドク",
+      "トク"
+    ],
+    "new_onyomi": [
+      "ドク",
+      "トク",
+      "トウ"
+    ],
+    "old_kunyomi": [
+      "よ(む)"
+    ],
+    "new_kunyomi": [
+      "よむ",
+      "よみ"
+    ]
+  },
+  "誰": {
+    "jlpt_level": "N1",
+    "old_onyomi": [
+      "スイ"
+    ],
+    "new_onyomi": [
+      "スイ"
+    ],
+    "old_kunyomi": [
+      "だれ"
+    ],
+    "new_kunyomi": [
+      "だれ",
+      "たれ",
+      "た"
+    ]
+  },
+  "買": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "バイ"
+    ],
+    "new_onyomi": [
+      "バイ"
+    ],
+    "old_kunyomi": [
+      "か(う)"
+    ],
+    "new_kunyomi": [
+      "かう"
+    ]
+  },
+  "足": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ソク"
+    ],
+    "new_onyomi": [
+      "ソク"
+    ],
+    "old_kunyomi": [
+      "あし",
+      "た(りる)"
+    ],
+    "new_kunyomi": [
+      "あし",
+      "たりる",
+      "たる",
+      "たす"
+    ]
+  },
+  "道": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ドウ"
+    ],
+    "new_onyomi": [
+      "ドウ",
+      "トウ"
+    ],
+    "old_kunyomi": [
+      "みち"
+    ],
+    "new_kunyomi": [
+      "みち",
+      "いう"
+    ]
+  },
+  "酒": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "シュ"
+    ],
+    "new_onyomi": [
+      "シュ"
+    ],
+    "old_kunyomi": [
+      "さけ"
+    ],
+    "new_kunyomi": [
+      "さけ",
+      "さか"
+    ]
+  },
+  "金": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "キン",
+      "コン"
+    ],
+    "new_onyomi": [
+      "キン",
+      "コン",
+      "ゴン"
+    ],
+    "old_kunyomi": [
+      "かね"
+    ],
+    "new_kunyomi": [
+      "かね",
+      "かな",
+      "がね"
+    ]
+  },
+  "長": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "チョウ"
+    ],
+    "new_onyomi": [
+      "チョウ"
+    ],
+    "old_kunyomi": [
+      "なが(い)"
+    ],
+    "new_kunyomi": [
+      "ながい",
+      "おさ"
+    ]
+  },
+  "間": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "カン",
+      "ケン"
+    ],
+    "new_onyomi": [
+      "カン",
+      "ケン"
+    ],
+    "old_kunyomi": [
+      "あいだ",
+      "ま"
+    ],
+    "new_kunyomi": [
+      "あいだ",
+      "ま",
+      "あい"
+    ]
+  },
+  "雨": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ウ"
+    ],
+    "new_onyomi": [
+      "ウ"
+    ],
+    "old_kunyomi": [
+      "あめ"
+    ],
+    "new_kunyomi": [
+      "あめ",
+      "あま",
+      "さめ"
+    ]
+  },
+  "頭": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "トウ",
+      "ズ"
+    ],
+    "new_onyomi": [
+      "トウ",
+      "ズ",
+      "ト"
+    ],
+    "old_kunyomi": [
+      "あたま"
+    ],
+    "new_kunyomi": [
+      "あたま",
+      "かしら",
+      "がしら",
+      "かぶり"
+    ]
+  },
+  "風": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "フウ",
+      "フ"
+    ],
+    "new_onyomi": [
+      "フウ",
+      "フ"
+    ],
+    "old_kunyomi": [
+      "かぜ"
+    ],
+    "new_kunyomi": [
+      "かぜ",
+      "かざ"
+    ]
+  },
+  "食": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ショク"
+    ],
+    "new_onyomi": [
+      "ショク",
+      "ジキ"
+    ],
+    "old_kunyomi": [
+      "た(べる)",
+      "く(う)"
+    ],
+    "new_kunyomi": [
+      "くう",
+      "くらう",
+      "たべる",
+      "はむ"
+    ]
+  },
+  "飲": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "イン"
+    ],
+    "new_onyomi": [
+      "イン",
+      "オン"
+    ],
+    "old_kunyomi": [
+      "の(む)"
+    ],
+    "new_kunyomi": [
+      "のむ",
+      "のみ"
+    ]
+  },
+  "高": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "コウ"
+    ],
+    "new_onyomi": [
+      "コウ"
+    ],
+    "old_kunyomi": [
+      "たか(い)"
+    ],
+    "new_kunyomi": [
+      "たかい",
+      "たか",
+      "だか",
+      "たかまる",
+      "たかめる"
+    ]
+  },
+  "魚": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ギョ"
+    ],
+    "new_onyomi": [
+      "ギョ"
+    ],
+    "old_kunyomi": [
+      "さかな",
+      "うお"
+    ],
+    "new_kunyomi": [
+      "うお",
+      "さかな",
+      "ざかな"
+    ]
+  },
+  "走": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ソウ"
+    ],
+    "new_onyomi": [
+      "ソウ"
+    ],
+    "old_kunyomi": [
+      "はし(る)"
+    ],
+    "new_kunyomi": [
+      "はしる"
+    ]
+  },
+  "歩": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ホ"
+    ],
+    "new_onyomi": [
+      "ホ",
+      "ブ",
+      "フ"
+    ],
+    "old_kunyomi": [
+      "ある(く)",
+      "あゆ(む)"
+    ],
+    "new_kunyomi": [
+      "あるく",
+      "あゆむ"
+    ]
+  },
+  "帰": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "キ"
+    ],
+    "new_onyomi": [
+      "キ"
+    ],
+    "old_kunyomi": [
+      "かえ(る)"
+    ],
+    "new_kunyomi": [
+      "かえる",
+      "かえす",
+      "おくる",
+      "とつぐ"
+    ]
+  },
+  "着": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "チャク"
+    ],
+    "new_onyomi": [
+      "チャク",
+      "ジャク"
+    ],
+    "old_kunyomi": [
+      "き(る)",
+      "つ(く)"
+    ],
+    "new_kunyomi": [
+      "きる",
+      "きせる",
+      "つく",
+      "つける"
+    ]
+  },
+  "乗": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ジョウ"
+    ],
+    "new_onyomi": [
+      "ジョウ",
+      "ショウ"
+    ],
+    "old_kunyomi": [
+      "の(る)"
+    ],
+    "new_kunyomi": [
+      "のる",
+      "のり",
+      "のせる"
+    ]
+  },
+  "医": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "イ"
+    ],
+    "new_onyomi": [
+      "イ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "いやす",
+      "いする",
+      "くすし"
+    ]
+  },
+  "会": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "カイ"
+    ],
+    "new_onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "old_kunyomi": [
+      "あ(う)"
+    ],
+    "new_kunyomi": [
+      "あう",
+      "あわせる",
+      "あつまる"
+    ]
+  },
+  "強": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "キョウ"
+    ],
+    "new_onyomi": [
+      "キョウ",
+      "ゴウ"
+    ],
+    "old_kunyomi": [
+      "つよ(い)",
+      "し(いる)"
+    ],
+    "new_kunyomi": [
+      "つよい",
+      "つよまる",
+      "つよめる",
+      "しいる",
+      "こわい"
+    ]
+  },
+  "気": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "キ"
+    ],
+    "new_onyomi": [
+      "キ",
+      "ケ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "き"
+    ]
+  },
+  "広": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "コウ"
+    ],
+    "new_onyomi": [
+      "コウ"
+    ],
+    "old_kunyomi": [
+      "ひろ(い)"
+    ],
+    "new_kunyomi": [
+      "ひろい",
+      "ひろまる",
+      "ひろめる",
+      "ひろがる",
+      "ひろげる"
+    ]
+  },
+  "考": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "コウ"
+    ],
+    "new_onyomi": [
+      "コウ"
+    ],
+    "old_kunyomi": [
+      "かんが(える)"
+    ],
+    "new_kunyomi": [
+      "かんがえる",
+      "かんがえ"
+    ]
+  },
+  "病": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ビョウ"
+    ],
+    "new_onyomi": [
+      "ビョウ",
+      "ヘイ"
+    ],
+    "old_kunyomi": [
+      "やまい"
+    ],
+    "new_kunyomi": [
+      "やむ",
+      "やみ",
+      "やまい"
+    ]
+  },
+  "院": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "イン"
+    ],
+    "new_onyomi": [
+      "イン"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "かきね",
+      "いをめぐらした",
+      "や",
+      "の",
+      "また",
+      "ての",
+      "まい"
+    ]
+  },
+  "場": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ジョウ"
+    ],
+    "new_onyomi": [
+      "ジョウ",
+      "チョウ"
+    ],
+    "old_kunyomi": [
+      "ば"
+    ],
+    "new_kunyomi": [
+      "ば"
+    ]
+  },
+  "所": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ショ"
+    ],
+    "new_onyomi": [
+      "ショ"
+    ],
+    "old_kunyomi": [
+      "ところ"
+    ],
+    "new_kunyomi": [
+      "ところ",
+      "どころ",
+      "とこ"
+    ]
+  },
+  "近": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "キン"
+    ],
+    "new_onyomi": [
+      "キン",
+      "コン"
+    ],
+    "old_kunyomi": [
+      "ちか(い)"
+    ],
+    "new_kunyomi": [
+      "ちかい"
+    ]
+  },
+  "遠": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "エン"
+    ],
+    "new_onyomi": [
+      "エン",
+      "オン"
+    ],
+    "old_kunyomi": [
+      "とお(い)"
+    ],
+    "new_kunyomi": [
+      "とおい"
+    ]
+  },
+  "明": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "メイ"
+    ],
+    "new_onyomi": [
+      "メイ",
+      "ミョウ",
+      "ミン"
+    ],
+    "old_kunyomi": [
+      "あか(るい)",
+      "あ(ける)"
+    ],
+    "new_kunyomi": [
+      "あかり",
+      "あかるい",
+      "あかるむ",
+      "あからむ",
+      "あきらか",
+      "あける",
+      "あけ",
+      "あく",
+      "あくる",
+      "あかす"
+    ]
+  },
+  "暗": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "アン"
+    ],
+    "new_onyomi": [
+      "アン"
+    ],
+    "old_kunyomi": [
+      "くら(い)"
+    ],
+    "new_kunyomi": [
+      "くらい",
+      "くらむ",
+      "くれる"
+    ]
+  },
+  "安": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "アン"
+    ],
+    "new_onyomi": [
+      "アン"
+    ],
+    "old_kunyomi": [
+      "やす(い)"
+    ],
+    "new_kunyomi": [
+      "やすい",
+      "やすまる",
+      "やす",
+      "やすらか"
+    ]
+  },
+  "理": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "リ"
+    ],
+    "new_onyomi": [
+      "リ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "ことわり"
+    ]
+  },
+  "電": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "デン"
+    ],
+    "new_onyomi": [
+      "デン"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "に"
+    ]
+  },
+  "重": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ジュウ",
+      "チョウ"
+    ],
+    "new_onyomi": [
+      "ジュウ",
+      "チョウ"
+    ],
+    "old_kunyomi": [
+      "おも(い)",
+      "かさ(ねる)"
+    ],
+    "new_kunyomi": [
+      "え",
+      "おもい",
+      "おもり",
+      "おもなう",
+      "かさねる",
+      "かさなる",
+      "おも"
+    ]
+  },
+  "住": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ジュウ"
+    ],
+    "new_onyomi": [
+      "ジュウ",
+      "ヂュウ",
+      "チュウ"
+    ],
+    "old_kunyomi": [
+      "す(む)",
+      "す(まい)"
+    ],
+    "new_kunyomi": [
+      "すむ",
+      "すまう",
+      "ずまい"
+    ]
+  },
+  "開": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "カイ"
+    ],
+    "new_onyomi": [
+      "カイ"
+    ],
+    "old_kunyomi": [
+      "ひら(く)",
+      "あ(ける)",
+      "あ(く)"
+    ],
+    "new_kunyomi": [
+      "ひらく",
+      "ひらき",
+      "びらき",
+      "ひらける",
+      "あく",
+      "あける"
+    ]
+  },
+  "閉": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ヘイ"
+    ],
+    "new_onyomi": [
+      "ヘイ"
+    ],
+    "old_kunyomi": [
+      "と(じる)",
+      "し(める)",
+      "し(まる)"
+    ],
+    "new_kunyomi": [
+      "とじる",
+      "とざす",
+      "しめる",
+      "しまる",
+      "たてる"
+    ]
+  },
+  "始": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シ"
+    ],
+    "new_onyomi": [
+      "シ"
+    ],
+    "old_kunyomi": [
+      "はじ(める)",
+      "はじ(まる)"
+    ],
+    "new_kunyomi": [
+      "はじめる",
+      "はじまる"
+    ]
+  },
+  "終": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シュウ"
+    ],
+    "new_onyomi": [
+      "シュウ"
+    ],
+    "old_kunyomi": [
+      "お(わる)",
+      "お(える)"
+    ],
+    "new_kunyomi": [
+      "おわる",
+      "おえる",
+      "つい",
+      "ついに"
+    ]
+  },
+  "持": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ジ"
+    ],
+    "new_onyomi": [
+      "ジ"
+    ],
+    "old_kunyomi": [
+      "も(つ)"
+    ],
+    "new_kunyomi": [
+      "もつ",
+      "もち",
+      "もてる"
+    ]
+  },
+  "待": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "タイ"
+    ],
+    "new_onyomi": [
+      "タイ"
+    ],
+    "old_kunyomi": [
+      "ま(つ)"
+    ],
+    "new_kunyomi": [
+      "まつ",
+      "まち"
+    ]
+  },
+  "送": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ソウ"
+    ],
+    "new_onyomi": [
+      "ソウ"
+    ],
+    "old_kunyomi": [
+      "おく(る)"
+    ],
+    "new_kunyomi": [
+      "おくる"
+    ]
+  },
+  "返": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ヘン"
+    ],
+    "new_onyomi": [
+      "ヘン"
+    ],
+    "old_kunyomi": [
+      "かえ(す)",
+      "かえ(る)"
+    ],
+    "new_kunyomi": [
+      "かえす",
+      "かえる"
+    ]
+  },
+  "借": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シャク"
+    ],
+    "new_onyomi": [
+      "シャク"
+    ],
+    "old_kunyomi": [
+      "か(りる)"
+    ],
+    "new_kunyomi": [
+      "かりる"
+    ]
+  },
+  "貸": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "タイ"
+    ],
+    "new_onyomi": [
+      "タイ"
+    ],
+    "old_kunyomi": [
+      "か(す)"
+    ],
+    "new_kunyomi": [
+      "かす",
+      "かし"
+    ]
+  },
+  "教": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "キョウ"
+    ],
+    "new_onyomi": [
+      "キョウ"
+    ],
+    "old_kunyomi": [
+      "おし(える)",
+      "おそ(わる)"
+    ],
+    "new_kunyomi": [
+      "おしえる",
+      "おそわる"
+    ]
+  },
+  "習": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シュウ"
+    ],
+    "new_onyomi": [
+      "シュウ",
+      "ジュ"
+    ],
+    "old_kunyomi": [
+      "なら(う)"
+    ],
+    "new_kunyomi": [
+      "ならう",
+      "ならい"
+    ]
+  },
+  "働": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ドウ"
+    ],
+    "new_onyomi": [
+      "ドウ"
+    ],
+    "old_kunyomi": [
+      "はたら(く)"
+    ],
+    "new_kunyomi": [
+      "はたらく"
+    ]
+  },
+  "休": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "キュウ"
+    ],
+    "new_onyomi": [
+      "キュウ"
+    ],
+    "old_kunyomi": [
+      "やす(む)"
+    ],
+    "new_kunyomi": [
+      "やすむ",
+      "やすまる",
+      "やすめる"
+    ]
+  },
+  "起": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "キ"
+    ],
+    "new_onyomi": [
+      "キ"
+    ],
+    "old_kunyomi": [
+      "お(きる)",
+      "お(こす)"
+    ],
+    "new_kunyomi": [
+      "おきる",
+      "おこる",
+      "おこす",
+      "たつ"
+    ]
+  },
+  "寝": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "シン"
+    ],
+    "new_onyomi": [
+      "シン"
+    ],
+    "old_kunyomi": [
+      "ね(る)"
+    ],
+    "new_kunyomi": [
+      "ねる",
+      "ねかす",
+      "いぬ",
+      "みたまや",
+      "やめる"
+    ]
+  },
+  "降": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "コウ"
+    ],
+    "new_onyomi": [
+      "コウ",
+      "ゴ"
+    ],
+    "old_kunyomi": [
+      "お(りる)",
+      "ふ(る)"
+    ],
+    "new_kunyomi": [
+      "おりる",
+      "おろす",
+      "ふる",
+      "ふり",
+      "くだる",
+      "くだす"
+    ]
+  },
+  "曜": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ヨウ"
+    ],
+    "new_onyomi": [
+      "ヨウ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "しゅうかん"
+    ]
+  },
+  "工": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "new_onyomi": [
+      "コウ",
+      "ク",
+      "グ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "つく",
+      "ひと"
+    ]
+  },
+  "去": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "キョ",
+      "コ"
+    ],
+    "new_onyomi": [
+      "キョ",
+      "コ"
+    ],
+    "old_kunyomi": [
+      "さ(る)"
+    ],
+    "new_kunyomi": [
+      "さる"
+    ]
+  },
+  "王": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "オウ"
+    ],
+    "new_onyomi": [
+      "オウ",
+      "ノウ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": []
+  },
+  "良": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "リョウ"
+    ],
+    "new_onyomi": [
+      "リョウ"
+    ],
+    "old_kunyomi": [
+      "よ(い)"
+    ],
+    "new_kunyomi": [
+      "よい",
+      "いい"
+    ]
+  },
+  "言": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ゲン",
+      "ゴン"
+    ],
+    "new_onyomi": [
+      "ゲン",
+      "ゴン"
+    ],
+    "old_kunyomi": [
+      "い(う)",
+      "こと"
+    ],
+    "new_kunyomi": [
+      "いう",
+      "こと"
+    ]
+  },
+  "立": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "リツ"
+    ],
+    "new_onyomi": [
+      "リツ",
+      "リュウ",
+      "リットル"
+    ],
+    "old_kunyomi": [
+      "た(つ)"
+    ],
+    "new_kunyomi": [
+      "たつ",
+      "たち",
+      "たてる",
+      "たて",
+      "だて",
+      "だてる"
+    ]
+  },
+  "早": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ソウ"
+    ],
+    "new_onyomi": [
+      "ソウ",
+      "サッ"
+    ],
+    "old_kunyomi": [
+      "はや(い)"
+    ],
+    "new_kunyomi": [
+      "はやい",
+      "はや",
+      "はやまる",
+      "はやめる",
+      "さ"
+    ]
+  },
+  "馬": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "バ"
+    ],
+    "new_onyomi": [
+      "バ"
+    ],
+    "old_kunyomi": [
+      "うま"
+    ],
+    "new_kunyomi": [
+      "うま",
+      "ま"
+    ]
+  },
+  "校": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "コウ"
+    ],
+    "new_onyomi": [
+      "コウ",
+      "キョウ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "くらべる",
+      "を",
+      "めて",
+      "するとこっ"
+    ]
+  },
+  "銀": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ギン"
+    ],
+    "new_onyomi": [
+      "ギン"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "しろがね"
+    ]
+  },
+  "勉": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ベン"
+    ],
+    "new_onyomi": [
+      "ベン"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "つとめる"
+    ]
+  },
+  "語": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ゴ"
+    ],
+    "new_onyomi": [
+      "ゴ"
+    ],
+    "old_kunyomi": [
+      "かた(る)"
+    ],
+    "new_kunyomi": [
+      "かたる",
+      "かたらう"
+    ]
+  },
+  "化": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "new_onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "old_kunyomi": [
+      "ば(ける)"
+    ],
+    "new_kunyomi": [
+      "ばける",
+      "ばかす",
+      "ふける",
+      "けする"
+    ]
+  },
+  "赤": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "セキ"
+    ],
+    "new_onyomi": [
+      "セキ",
+      "シャク"
+    ],
+    "old_kunyomi": [
+      "あか(い)"
+    ],
+    "new_kunyomi": [
+      "あか",
+      "あかい",
+      "あからむ",
+      "あからめる"
+    ]
+  },
+  "青": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "セイ"
+    ],
+    "new_onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "old_kunyomi": [
+      "あお(い)"
+    ],
+    "new_kunyomi": [
+      "あお",
+      "あおい"
+    ]
+  },
+  "白": {
+    "jlpt_level": "N5",
+    "old_onyomi": [
+      "ハク"
+    ],
+    "new_onyomi": [
+      "ハク",
+      "ビャク"
+    ],
+    "old_kunyomi": [
+      "しろ(い)"
+    ],
+    "new_kunyomi": [
+      "しろ",
+      "しら",
+      "しろい"
+    ]
+  },
+  "黒": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "コク"
+    ],
+    "new_onyomi": [
+      "コク"
+    ],
+    "old_kunyomi": [
+      "くろ(い)"
+    ],
+    "new_kunyomi": [
+      "くろ",
+      "くろずむ",
+      "くろい"
+    ]
+  },
+  "反": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ハン"
+    ],
+    "new_onyomi": [
+      "ハン",
+      "ホン",
+      "タン",
+      "ホ"
+    ],
+    "old_kunyomi": [
+      "そ(る)"
+    ],
+    "new_kunyomi": [
+      "そる",
+      "そらす",
+      "かえす",
+      "かえる"
+    ]
+  },
+  "茶": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "チャ",
+      "サ"
+    ],
+    "new_onyomi": [
+      "チャ",
+      "サ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "の",
+      "その",
+      "を",
+      "した",
+      "み"
+    ]
+  },
+  "予": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ヨ"
+    ],
+    "new_onyomi": [
+      "ヨ",
+      "シャ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "あらかじめ"
+    ]
+  },
+  "野": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ヤ"
+    ],
+    "new_onyomi": [
+      "ヤ",
+      "ショ"
+    ],
+    "old_kunyomi": [
+      "の"
+    ],
+    "new_kunyomi": [
+      "の"
+    ]
+  },
+  "切": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "セツ"
+    ],
+    "new_onyomi": [
+      "セツ",
+      "サイ"
+    ],
+    "old_kunyomi": [
+      "き(る)"
+    ],
+    "new_kunyomi": [
+      "きる",
+      "きり",
+      "ぎり",
+      "きれる",
+      "きれ",
+      "ぎれ"
+    ]
+  },
+  "未": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ミ"
+    ],
+    "new_onyomi": [
+      "ミ",
+      "ビ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "いまだ",
+      "まだ",
+      "ひつじ"
+    ]
+  },
+  "味": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ミ"
+    ],
+    "new_onyomi": [
+      "ミ"
+    ],
+    "old_kunyomi": [
+      "あじ"
+    ],
+    "new_kunyomi": [
+      "あじ",
+      "あじわう"
+    ]
+  },
+  "音": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "オン",
+      "イン"
+    ],
+    "new_onyomi": [
+      "オン",
+      "イン",
+      "ノン"
+    ],
+    "old_kunyomi": [
+      "おと"
+    ],
+    "new_kunyomi": [
+      "おと",
+      "ね"
+    ]
+  },
+  "楽": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ガク",
+      "ラク"
+    ],
+    "new_onyomi": [
+      "ガク",
+      "ラク",
+      "ゴウ"
+    ],
+    "old_kunyomi": [
+      "たの(しい)"
+    ],
+    "new_kunyomi": [
+      "たのしい",
+      "たのしむ",
+      "このむ"
+    ]
+  },
+  "歌": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "カ"
+    ],
+    "new_onyomi": [
+      "カ"
+    ],
+    "old_kunyomi": [
+      "うた"
+    ],
+    "new_kunyomi": [
+      "うた",
+      "うたう"
+    ]
+  },
+  "自": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ジ",
+      "シ"
+    ],
+    "new_onyomi": [
+      "ジ",
+      "シ"
+    ],
+    "old_kunyomi": [
+      "みずか(ら)"
+    ],
+    "new_kunyomi": [
+      "みずから",
+      "おのずから",
+      "おのずと"
+    ]
+  },
+  "転": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "テン"
+    ],
+    "new_onyomi": [
+      "テン"
+    ],
+    "old_kunyomi": [
+      "ころ(ぶ)"
+    ],
+    "new_kunyomi": [
+      "ころがる",
+      "ころげる",
+      "ころがす",
+      "ころぶ",
+      "まろぶ",
+      "うたた",
+      "うつる",
+      "くるめく"
+    ]
+  },
+  "写": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シャ"
+    ],
+    "new_onyomi": [
+      "シャ",
+      "ジャ"
+    ],
+    "old_kunyomi": [
+      "うつ(す)"
+    ],
+    "new_kunyomi": [
+      "うつす",
+      "うつる",
+      "うつ",
+      "うつし"
+    ]
+  },
+  "真": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シン"
+    ],
+    "new_onyomi": [
+      "シン"
+    ],
+    "old_kunyomi": [
+      "ま"
+    ],
+    "new_kunyomi": [
+      "ま",
+      "まこと"
+    ]
+  },
+  "台": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "new_onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "うてな",
+      "われ",
+      "つかさ"
+    ]
+  },
+  "映": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "エイ"
+    ],
+    "new_onyomi": [
+      "エイ"
+    ],
+    "old_kunyomi": [
+      "うつ(る)"
+    ],
+    "new_kunyomi": [
+      "うつる",
+      "うつす",
+      "はえる",
+      "ばえ"
+    ]
+  },
+  "画": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ガ",
+      "カク"
+    ],
+    "new_onyomi": [
+      "ガ",
+      "カク",
+      "エ",
+      "カイ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "えがく",
+      "かくする",
+      "かぎる",
+      "はかりごと",
+      "はかる"
+    ]
+  },
+  "族": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ゾク"
+    ],
+    "new_onyomi": [
+      "ゾク"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "ぼ",
+      "いえから",
+      "しゅるい",
+      "ぞおな",
+      "あつ"
+    ]
+  },
+  "親": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シン"
+    ],
+    "new_onyomi": [
+      "シン"
+    ],
+    "old_kunyomi": [
+      "おや"
+    ],
+    "new_kunyomi": [
+      "おや",
+      "したしい",
+      "したしむ"
+    ]
+  },
+  "主": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シュ"
+    ],
+    "new_onyomi": [
+      "シュ",
+      "ス",
+      "シュウ"
+    ],
+    "old_kunyomi": [
+      "おも",
+      "ぬし"
+    ],
+    "new_kunyomi": [
+      "ぬし",
+      "おも",
+      "あるじ"
+    ]
+  },
+  "漢": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "カン"
+    ],
+    "new_onyomi": [
+      "カン"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "の"
+    ]
+  },
+  "字": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ジ"
+    ],
+    "new_onyomi": [
+      "ジ"
+    ],
+    "old_kunyomi": [
+      "あざ"
+    ],
+    "new_kunyomi": [
+      "あざ",
+      "あざな",
+      "な"
+    ]
+  },
+  "式": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "シキ"
+    ],
+    "new_onyomi": [
+      "シキ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "まった",
+      "でおこなう",
+      "やりかた",
+      "なそのつや",
+      "たやの"
+    ]
+  },
+  "試": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シ"
+    ],
+    "new_onyomi": [
+      "シ"
+    ],
+    "old_kunyomi": [
+      "こころ(みる)",
+      "ため(す)"
+    ],
+    "new_kunyomi": [
+      "こころみる",
+      "ためす"
+    ]
+  },
+  "験": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ケン",
+      "ゲン"
+    ],
+    "new_onyomi": [
+      "ケン",
+      "ゲン"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "あかし",
+      "しるし",
+      "ためす",
+      "ためし"
+    ]
+  },
+  "宿": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "シュク"
+    ],
+    "new_onyomi": [
+      "シュク"
+    ],
+    "old_kunyomi": [
+      "やど"
+    ],
+    "new_kunyomi": [
+      "やど",
+      "やどる",
+      "やどす"
+    ]
+  },
+  "題": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ダイ"
+    ],
+    "new_onyomi": [
+      "ダイ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "あたま",
+      "はじめ",
+      "や",
+      "の",
+      "し",
+      "い"
+    ]
+  },
+  "文": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ブン",
+      "モン"
+    ],
+    "new_onyomi": [
+      "ブン",
+      "モン"
+    ],
+    "old_kunyomi": [
+      "ふみ"
+    ],
+    "new_kunyomi": [
+      "ふみ",
+      "あや"
+    ]
+  },
+  "英": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "エイ"
+    ],
+    "new_onyomi": [
+      "エイ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "はなぶさ"
+    ]
+  },
+  "質": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シツ",
+      "シチ"
+    ],
+    "new_onyomi": [
+      "シツ",
+      "シチ",
+      "チ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "たち",
+      "ただす",
+      "もと",
+      "わりふ"
+    ]
+  },
+  "問": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "モン"
+    ],
+    "new_onyomi": [
+      "モン"
+    ],
+    "old_kunyomi": [
+      "と(う)"
+    ],
+    "new_kunyomi": [
+      "とう",
+      "とい",
+      "とん"
+    ]
+  },
+  "説": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "セツ"
+    ],
+    "new_onyomi": [
+      "セツ",
+      "ゼイ"
+    ],
+    "old_kunyomi": [
+      "と(く)"
+    ],
+    "new_kunyomi": [
+      "とく"
+    ]
+  },
+  "寒": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "カン"
+    ],
+    "new_onyomi": [
+      "カン"
+    ],
+    "old_kunyomi": [
+      "さむ(い)"
+    ],
+    "new_kunyomi": [
+      "さむい"
+    ]
+  },
+  "悪": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "アク"
+    ],
+    "new_onyomi": [
+      "アク",
+      "オ"
+    ],
+    "old_kunyomi": [
+      "わる(い)"
+    ],
+    "new_kunyomi": [
+      "わるい",
+      "わる",
+      "あし",
+      "にくい",
+      "ああ",
+      "いずくに",
+      "いずくんぞ",
+      "にくむ"
+    ]
+  },
+  "太": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "タイ",
+      "タ"
+    ],
+    "new_onyomi": [
+      "タイ",
+      "タ"
+    ],
+    "old_kunyomi": [
+      "ふと(い)"
+    ],
+    "new_kunyomi": [
+      "ふとい",
+      "ふとる"
+    ]
+  },
+  "光": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "コウ"
+    ],
+    "new_onyomi": [
+      "コウ"
+    ],
+    "old_kunyomi": [
+      "ひかり"
+    ],
+    "new_kunyomi": [
+      "ひかる",
+      "ひかり"
+    ]
+  },
+  "運": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ウン"
+    ],
+    "new_onyomi": [
+      "ウン"
+    ],
+    "old_kunyomi": [
+      "はこ(ぶ)"
+    ],
+    "new_kunyomi": [
+      "はこぶ"
+    ]
+  },
+  "動": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ドウ"
+    ],
+    "new_onyomi": [
+      "ドウ"
+    ],
+    "old_kunyomi": [
+      "うご(く)"
+    ],
+    "new_kunyomi": [
+      "うごく",
+      "うごかす"
+    ]
+  },
+  "止": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シ"
+    ],
+    "new_onyomi": [
+      "シ"
+    ],
+    "old_kunyomi": [
+      "と(まる)"
+    ],
+    "new_kunyomi": [
+      "とまる",
+      "どまり",
+      "とめる",
+      "どめ",
+      "とどめる",
+      "とどめ",
+      "とどまる",
+      "やめる",
+      "やむ",
+      "よす",
+      "さす",
+      "さし"
+    ]
+  },
+  "洗": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "セン"
+    ],
+    "new_onyomi": [
+      "セン"
+    ],
+    "old_kunyomi": [
+      "あら(う)"
+    ],
+    "new_kunyomi": [
+      "あらう"
+    ]
+  },
+  "急": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "キュウ"
+    ],
+    "new_onyomi": [
+      "キュウ"
+    ],
+    "old_kunyomi": [
+      "いそ(ぐ)"
+    ],
+    "new_kunyomi": [
+      "いそぐ",
+      "いそぎ",
+      "せく"
+    ]
+  },
+  "押": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "オウ"
+    ],
+    "new_onyomi": [
+      "オウ"
+    ],
+    "old_kunyomi": [
+      "お(す)"
+    ],
+    "new_kunyomi": [
+      "おす",
+      "おし",
+      "おっ",
+      "おさえる"
+    ]
+  },
+  "引": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "イン"
+    ],
+    "new_onyomi": [
+      "イン"
+    ],
+    "old_kunyomi": [
+      "ひ(く)"
+    ],
+    "new_kunyomi": [
+      "ひく",
+      "ひける"
+    ]
+  },
+  "死": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シ"
+    ],
+    "new_onyomi": [
+      "シ"
+    ],
+    "old_kunyomi": [
+      "し(ぬ)"
+    ],
+    "new_kunyomi": [
+      "しぬ",
+      "しに"
+    ]
+  },
+  "石": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "セキ",
+      "シャク"
+    ],
+    "new_onyomi": [
+      "セキ",
+      "シャク",
+      "コク"
+    ],
+    "old_kunyomi": [
+      "いし"
+    ],
+    "new_kunyomi": [
+      "いし"
+    ]
+  },
+  "研": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ケン"
+    ],
+    "new_onyomi": [
+      "ケン"
+    ],
+    "old_kunyomi": [
+      "と(ぐ)"
+    ],
+    "new_kunyomi": [
+      "とぐ"
+    ]
+  },
+  "究": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "キュウ"
+    ],
+    "new_onyomi": [
+      "キュウ",
+      "ク"
+    ],
+    "old_kunyomi": [
+      "きわ(める)"
+    ],
+    "new_kunyomi": [
+      "きわめる"
+    ]
+  },
+  "留": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "リュウ",
+      "ル"
+    ],
+    "new_onyomi": [
+      "リュウ",
+      "ル"
+    ],
+    "old_kunyomi": [
+      "と(まる)"
+    ],
+    "new_kunyomi": [
+      "とめる",
+      "とまる",
+      "とどめる",
+      "とどまる",
+      "るうぶる"
+    ]
+  },
+  "有": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ユウ"
+    ],
+    "new_onyomi": [
+      "ユウ",
+      "ウ"
+    ],
+    "old_kunyomi": [
+      "あ(る)"
+    ],
+    "new_kunyomi": [
+      "ある"
+    ]
+  },
+  "産": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "サン"
+    ],
+    "new_onyomi": [
+      "サン"
+    ],
+    "old_kunyomi": [
+      "う(む)"
+    ],
+    "new_kunyomi": [
+      "うむ",
+      "うまれる",
+      "うぶ",
+      "むす"
+    ]
+  },
+  "業": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ギョウ"
+    ],
+    "new_onyomi": [
+      "ギョウ",
+      "ゴウ"
+    ],
+    "old_kunyomi": [
+      "わざ"
+    ],
+    "new_kunyomi": [
+      "わざ"
+    ]
+  },
+  "仕": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シ"
+    ],
+    "new_onyomi": [
+      "シ",
+      "ジ"
+    ],
+    "old_kunyomi": [
+      "つか(える)"
+    ],
+    "new_kunyomi": [
+      "つかえる"
+    ]
+  },
+  "事": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ジ"
+    ],
+    "new_onyomi": [
+      "ジ",
+      "ズ"
+    ],
+    "old_kunyomi": [
+      "こと"
+    ],
+    "new_kunyomi": [
+      "こと",
+      "つかう",
+      "つかえる"
+    ]
+  },
+  "図": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ズ",
+      "ト"
+    ],
+    "new_onyomi": [
+      "ズ",
+      "ト"
+    ],
+    "old_kunyomi": [
+      "はか(る)"
+    ],
+    "new_kunyomi": [
+      "え",
+      "はかる"
+    ]
+  },
+  "官": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "カン"
+    ],
+    "new_onyomi": [
+      "カン"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "おおやけ",
+      "の",
+      "や",
+      "いついろな",
+      "さを",
+      "る"
+    ]
+  },
+  "館": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "カン"
+    ],
+    "new_onyomi": [
+      "カン"
+    ],
+    "old_kunyomi": [
+      "やかた"
+    ],
+    "new_kunyomi": [
+      "やかた",
+      "たて"
+    ]
+  },
+  "代": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "new_onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "old_kunyomi": [
+      "か(わる)"
+    ],
+    "new_kunyomi": [
+      "かわる",
+      "かわり",
+      "がわり",
+      "かえる",
+      "よ",
+      "しろ"
+    ]
+  },
+  "世": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "セイ",
+      "セ"
+    ],
+    "new_onyomi": [
+      "セイ",
+      "セ",
+      "ソウ"
+    ],
+    "old_kunyomi": [
+      "よ"
+    ],
+    "new_kunyomi": [
+      "よ"
+    ]
+  },
+  "度": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ド",
+      "タク"
+    ],
+    "new_onyomi": [
+      "ド",
+      "ト",
+      "タク"
+    ],
+    "old_kunyomi": [
+      "たび"
+    ],
+    "new_kunyomi": [
+      "たび",
+      "たい"
+    ]
+  },
+  "回": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "カイ"
+    ],
+    "new_onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "old_kunyomi": [
+      "まわ(る)"
+    ],
+    "new_kunyomi": [
+      "まわる",
+      "まわり",
+      "まわす",
+      "まわし",
+      "もとおる",
+      "かえる"
+    ]
+  },
+  "用": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ヨウ"
+    ],
+    "new_onyomi": [
+      "ヨウ"
+    ],
+    "old_kunyomi": [
+      "もち(いる)"
+    ],
+    "new_kunyomi": [
+      "もちいる"
+    ]
+  },
+  "注": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "チュウ"
+    ],
+    "new_onyomi": [
+      "チュウ"
+    ],
+    "old_kunyomi": [
+      "そそ(ぐ)"
+    ],
+    "new_kunyomi": [
+      "そそぐ",
+      "さす",
+      "つぐ"
+    ]
+  },
+  "声": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "new_onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "old_kunyomi": [
+      "こえ"
+    ],
+    "new_kunyomi": [
+      "こえ",
+      "こわ"
+    ]
+  },
+  "特": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "トク"
+    ],
+    "new_onyomi": [
+      "トク"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "ひと"
+    ]
+  },
+  "別": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ベツ"
+    ],
+    "new_onyomi": [
+      "ベツ"
+    ],
+    "old_kunyomi": [
+      "わか(れる)"
+    ],
+    "new_kunyomi": [
+      "わかれる",
+      "わける"
+    ]
+  },
+  "合": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ゴウ"
+    ],
+    "new_onyomi": [
+      "ゴウ",
+      "ガッ",
+      "カッ"
+    ],
+    "old_kunyomi": [
+      "あ(う)"
+    ],
+    "new_kunyomi": [
+      "あう",
+      "あい",
+      "あわす",
+      "あわせる"
+    ]
+  },
+  "答": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "トウ"
+    ],
+    "new_onyomi": [
+      "トウ"
+    ],
+    "old_kunyomi": [
+      "こた(える)"
+    ],
+    "new_kunyomi": [
+      "こたえる",
+      "こたえ"
+    ]
+  },
+  "正": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "new_onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "old_kunyomi": [
+      "ただ(しい)"
+    ],
+    "new_kunyomi": [
+      "ただしい",
+      "ただす",
+      "まさ",
+      "まさに"
+    ]
+  },
+  "計": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ケイ"
+    ],
+    "new_onyomi": [
+      "ケイ"
+    ],
+    "old_kunyomi": [
+      "はか(る)"
+    ],
+    "new_kunyomi": [
+      "はかる",
+      "はからう"
+    ]
+  },
+  "京": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "キョウ",
+      "ケイ"
+    ],
+    "new_onyomi": [
+      "キョウ",
+      "ケイ",
+      "キン"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "みやこ"
+    ]
+  },
+  "集": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "シュウ"
+    ],
+    "new_onyomi": [
+      "シュウ"
+    ],
+    "old_kunyomi": [
+      "あつ(まる)"
+    ],
+    "new_kunyomi": [
+      "あつまる",
+      "あつめる",
+      "つどう"
+    ]
+  },
+  "不": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "フ",
+      "ブ"
+    ],
+    "new_onyomi": [
+      "フ",
+      "ブ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "ち",
+      "しの",
+      "でない",
+      "しない",
+      "ゅふとの",
+      "でのめら"
+    ]
+  },
+  "便": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ベン",
+      "ビン"
+    ],
+    "new_onyomi": [
+      "ベン",
+      "ビン"
+    ],
+    "old_kunyomi": [
+      "たよ(り)"
+    ],
+    "new_kunyomi": [
+      "たより"
+    ]
+  },
+  "以": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "イ"
+    ],
+    "new_onyomi": [
+      "イ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "もって"
+    ]
+  },
+  "発": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ハツ",
+      "ホツ"
+    ],
+    "new_onyomi": [
+      "ハツ",
+      "ホツ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "たつ",
+      "あばく",
+      "おこる",
+      "つかわす",
+      "はなつ"
+    ]
+  },
+  "建": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ケン",
+      "コン"
+    ],
+    "new_onyomi": [
+      "ケン",
+      "コン"
+    ],
+    "old_kunyomi": [
+      "た(てる)"
+    ],
+    "new_kunyomi": [
+      "たてる",
+      "たて",
+      "だて",
+      "たつ"
+    ]
+  },
+  "品": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ヒン"
+    ],
+    "new_onyomi": [
+      "ヒン",
+      "ホン"
+    ],
+    "old_kunyomi": [
+      "しな"
+    ],
+    "new_kunyomi": [
+      "しな"
+    ]
+  },
+  "通": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "ツウ",
+      "ツ"
+    ],
+    "new_onyomi": [
+      "ツウ",
+      "ツ"
+    ],
+    "old_kunyomi": [
+      "とお(る)"
+    ],
+    "new_kunyomi": [
+      "とおる",
+      "とおり",
+      "どおり",
+      "とおす",
+      "とおし",
+      "どおし",
+      "かよう"
+    ]
+  },
+  "進": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "シン"
+    ],
+    "new_onyomi": [
+      "シン"
+    ],
+    "old_kunyomi": [
+      "すす(む)"
+    ],
+    "new_kunyomi": [
+      "すすむ",
+      "すすめる"
+    ]
+  },
+  "冷": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "レイ"
+    ],
+    "new_onyomi": [
+      "レイ"
+    ],
+    "old_kunyomi": [
+      "つめ(たい)"
+    ],
+    "new_kunyomi": [
+      "つめたい",
+      "ひえる",
+      "ひや",
+      "ひややか",
+      "ひやす",
+      "ひやかす",
+      "さめる",
+      "さます"
+    ]
+  },
+  "汚": {
+    "jlpt_level": "N2",
+    "old_onyomi": [
+      "オ"
+    ],
+    "new_onyomi": [
+      "オ"
+    ],
+    "old_kunyomi": [
+      "きたな(い)"
+    ],
+    "new_kunyomi": [
+      "けがす",
+      "けがれる",
+      "けがらわしい",
+      "よごす",
+      "よごれる",
+      "きたない"
+    ]
+  },
+  "果": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "カ"
+    ],
+    "new_onyomi": [
+      "カ"
+    ],
+    "old_kunyomi": [
+      "は(たす)"
+    ],
+    "new_kunyomi": [
+      "はたす",
+      "はてる",
+      "はて"
+    ]
+  },
+  "付": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "フ"
+    ],
+    "new_onyomi": [
+      "フ"
+    ],
+    "old_kunyomi": [
+      "つ(ける)"
+    ],
+    "new_kunyomi": [
+      "つける",
+      "づける",
+      "つけ",
+      "づけ",
+      "つく",
+      "づく",
+      "つき",
+      "づき"
+    ]
+  },
+  "消": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ショウ"
+    ],
+    "new_onyomi": [
+      "ショウ"
+    ],
+    "old_kunyomi": [
+      "き(える)"
+    ],
+    "new_kunyomi": [
+      "きえる",
+      "けす"
+    ]
+  },
+  "個": {
+    "jlpt_level": "N2",
+    "old_onyomi": [
+      "コ"
+    ],
+    "new_onyomi": [
+      "コ",
+      "カ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "つ",
+      "ひとり",
+      "を",
+      "えることは"
+    ]
+  },
+  "笑": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ショウ"
+    ],
+    "new_onyomi": [
+      "ショウ"
+    ],
+    "old_kunyomi": [
+      "わら(う)"
+    ],
+    "new_kunyomi": [
+      "わらう",
+      "えむ"
+    ]
+  },
+  "怒": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ド"
+    ],
+    "new_onyomi": [
+      "ド",
+      "ヌ"
+    ],
+    "old_kunyomi": [
+      "おこ(る)"
+    ],
+    "new_kunyomi": [
+      "いかる",
+      "おこる"
+    ]
+  },
+  "幸": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "コウ"
+    ],
+    "new_onyomi": [
+      "コウ"
+    ],
+    "old_kunyomi": [
+      "しあわ(せ)"
+    ],
+    "new_kunyomi": [
+      "さいわい",
+      "さち",
+      "しあわせ"
+    ]
+  },
+  "悲": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ヒ"
+    ],
+    "new_onyomi": [
+      "ヒ"
+    ],
+    "old_kunyomi": [
+      "かな(しい)"
+    ],
+    "new_kunyomi": [
+      "かなしい",
+      "かなしむ"
+    ]
+  },
+  "苦": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ク"
+    ],
+    "new_onyomi": [
+      "ク"
+    ],
+    "old_kunyomi": [
+      "くる(しい)",
+      "にが(い)"
+    ],
+    "new_kunyomi": [
+      "くるしい",
+      "ぐるしい",
+      "くるしむ",
+      "くるしめる",
+      "にがい",
+      "にがる"
+    ]
+  },
+  "痛": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ツウ"
+    ],
+    "new_onyomi": [
+      "ツウ"
+    ],
+    "old_kunyomi": [
+      "いた(い)"
+    ],
+    "new_kunyomi": [
+      "いたい",
+      "いたむ",
+      "いたましい",
+      "いためる"
+    ]
+  },
+  "恥": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "チ"
+    ],
+    "new_onyomi": [
+      "チ"
+    ],
+    "old_kunyomi": [
+      "はじ"
+    ],
+    "new_kunyomi": [
+      "はじる",
+      "はじ",
+      "はじらう",
+      "はずかしい"
+    ]
+  },
+  "配": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ハイ"
+    ],
+    "new_onyomi": [
+      "ハイ"
+    ],
+    "old_kunyomi": [
+      "くば(る)"
+    ],
+    "new_kunyomi": [
+      "くばる"
+    ]
+  },
+  "困": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "コン"
+    ],
+    "new_onyomi": [
+      "コン"
+    ],
+    "old_kunyomi": [
+      "こま(る)"
+    ],
+    "new_kunyomi": [
+      "こまる"
+    ]
+  },
+  "辛": {
+    "jlpt_level": "N2",
+    "old_onyomi": [
+      "シン"
+    ],
+    "new_onyomi": [
+      "シン"
+    ],
+    "old_kunyomi": [
+      "から(い)"
+    ],
+    "new_kunyomi": [
+      "からい",
+      "つらい",
+      "づらい",
+      "かのと"
+    ]
+  },
+  "眠": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ミン"
+    ],
+    "new_onyomi": [
+      "ミン"
+    ],
+    "old_kunyomi": [
+      "ねむ(る)"
+    ],
+    "new_kunyomi": [
+      "ねむる",
+      "ねむい"
+    ]
+  },
+  "残": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ザン"
+    ],
+    "new_onyomi": [
+      "ザン",
+      "サン"
+    ],
+    "old_kunyomi": [
+      "のこ(る)"
+    ],
+    "new_kunyomi": [
+      "のこる",
+      "のこす",
+      "そこなう",
+      "のこり"
+    ]
+  },
+  "感": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "カン"
+    ],
+    "new_onyomi": [
+      "カン"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "に",
+      "ご"
+    ]
+  },
+  "情": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ジョウ"
+    ],
+    "new_onyomi": [
+      "ジョウ",
+      "セイ"
+    ],
+    "old_kunyomi": [
+      "なさ(け)"
+    ],
+    "new_kunyomi": [
+      "なさけ"
+    ]
+  },
+  "覚": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "カク"
+    ],
+    "new_onyomi": [
+      "カク"
+    ],
+    "old_kunyomi": [
+      "おぼ(える)"
+    ],
+    "new_kunyomi": [
+      "おぼえる",
+      "さます",
+      "さめる",
+      "さとる"
+    ]
+  },
+  "忘": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ボウ"
+    ],
+    "new_onyomi": [
+      "ボウ"
+    ],
+    "old_kunyomi": [
+      "わす(れる)"
+    ],
+    "new_kunyomi": [
+      "わすれる"
+    ]
+  },
+  "決": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ケツ"
+    ],
+    "new_onyomi": [
+      "ケツ"
+    ],
+    "old_kunyomi": [
+      "き(める)"
+    ],
+    "new_kunyomi": [
+      "きめる",
+      "ぎめ",
+      "きまる",
+      "さく"
+    ]
+  },
+  "定": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "テイ",
+      "ジョウ"
+    ],
+    "new_onyomi": [
+      "テイ",
+      "ジョウ"
+    ],
+    "old_kunyomi": [
+      "さだ(める)"
+    ],
+    "new_kunyomi": [
+      "さだめる",
+      "さだまる",
+      "さだか"
+    ]
+  },
+  "比": {
+    "jlpt_level": "N2",
+    "old_onyomi": [
+      "ヒ"
+    ],
+    "new_onyomi": [
+      "ヒ"
+    ],
+    "old_kunyomi": [
+      "くら(べる)"
+    ],
+    "new_kunyomi": [
+      "くらべる"
+    ]
+  },
+  "受": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ジュ"
+    ],
+    "new_onyomi": [
+      "ジュ"
+    ],
+    "old_kunyomi": [
+      "う(ける)"
+    ],
+    "new_kunyomi": [
+      "うける",
+      "うけ",
+      "うかる"
+    ]
+  },
+  "授": {
+    "jlpt_level": "N1",
+    "old_onyomi": [
+      "ジュ"
+    ],
+    "new_onyomi": [
+      "ジュ"
+    ],
+    "old_kunyomi": [
+      "さず(ける)"
+    ],
+    "new_kunyomi": [
+      "さずける",
+      "さずかる"
+    ]
+  },
+  "徒": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ト"
+    ],
+    "new_onyomi": [
+      "ト"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "いたずら",
+      "あだ"
+    ]
+  },
+  "復": {
+    "jlpt_level": "N2",
+    "old_onyomi": [
+      "フク"
+    ],
+    "new_onyomi": [
+      "フク"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "また"
+    ]
+  },
+  "表": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ヒョウ"
+    ],
+    "new_onyomi": [
+      "ヒョウ"
+    ],
+    "old_kunyomi": [
+      "おもて",
+      "あらわ(す)"
+    ],
+    "new_kunyomi": [
+      "おもて",
+      "あらわす",
+      "あらわれる"
+    ]
+  },
+  "違": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "イ"
+    ],
+    "new_onyomi": [
+      "イ"
+    ],
+    "old_kunyomi": [
+      "ちが(う)"
+    ],
+    "new_kunyomi": [
+      "ちがう",
+      "ちがい",
+      "ちがえる",
+      "たがう",
+      "たがえる"
+    ]
+  },
+  "部": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ブ"
+    ],
+    "new_onyomi": [
+      "ブ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "べ"
+    ]
+  },
+  "必": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ヒツ"
+    ],
+    "new_onyomi": [
+      "ヒツ"
+    ],
+    "old_kunyomi": [
+      "かなら(ず)"
+    ],
+    "new_kunyomi": [
+      "かならず"
+    ]
+  },
+  "要": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ヨウ"
+    ],
+    "new_onyomi": [
+      "ヨウ"
+    ],
+    "old_kunyomi": [
+      "い(る)"
+    ],
+    "new_kunyomi": [
+      "いる",
+      "かなめ"
+    ]
+  },
+  "由": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ユウ",
+      "ユ"
+    ],
+    "new_onyomi": [
+      "ユ",
+      "ユウ",
+      "ユイ"
+    ],
+    "old_kunyomi": [
+      "よし"
+    ],
+    "new_kunyomi": [
+      "よし",
+      "よる"
+    ]
+  },
+  "届": {
+    "jlpt_level": "N2",
+    "old_onyomi": [
+      "トドク"
+    ],
+    "new_onyomi": [
+      "カイ"
+    ],
+    "old_kunyomi": [
+      "とど(ける)"
+    ],
+    "new_kunyomi": [
+      "とどける",
+      "とどけ",
+      "とどく"
+    ]
+  },
+  "利": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "リ"
+    ],
+    "new_onyomi": [
+      "リ"
+    ],
+    "old_kunyomi": [
+      "き(く)"
+    ],
+    "new_kunyomi": [
+      "きく"
+    ]
+  },
+  "払": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "フツ"
+    ],
+    "new_onyomi": [
+      "フツ",
+      "ヒツ",
+      "ホツ"
+    ],
+    "old_kunyomi": [
+      "はら(う)"
+    ],
+    "new_kunyomi": [
+      "はらう",
+      "はらい",
+      "ばらい"
+    ]
+  },
+  "活": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "カツ"
+    ],
+    "new_onyomi": [
+      "カツ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "いきる",
+      "いかす",
+      "いける"
+    ]
+  },
+  "末": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "マツ",
+      "バツ"
+    ],
+    "new_onyomi": [
+      "マツ",
+      "バツ"
+    ],
+    "old_kunyomi": [
+      "すえ"
+    ],
+    "new_kunyomi": [
+      "すえ",
+      "うら",
+      "うれ"
+    ]
+  },
+  "平": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ヘイ",
+      "ビョウ"
+    ],
+    "new_onyomi": [
+      "ヘイ",
+      "ビョウ",
+      "ヒョウ"
+    ],
+    "old_kunyomi": [
+      "たい(ら)"
+    ],
+    "new_kunyomi": [
+      "たいら",
+      "たいらげる",
+      "ひら"
+    ]
+  },
+  "和": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ワ"
+    ],
+    "new_onyomi": [
+      "ワ",
+      "オ",
+      "カ"
+    ],
+    "old_kunyomi": [
+      "やわ(らぐ)"
+    ],
+    "new_kunyomi": [
+      "やわらぐ",
+      "やわらげる",
+      "なごむ",
+      "なごやか",
+      "あえる"
+    ]
+  },
+  "戦": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "セン"
+    ],
+    "new_onyomi": [
+      "セン"
+    ],
+    "old_kunyomi": [
+      "たたか(う)"
+    ],
+    "new_kunyomi": [
+      "いくさ",
+      "たたかう",
+      "おののく",
+      "そよぐ",
+      "わななく"
+    ]
+  },
+  "争": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ソウ"
+    ],
+    "new_onyomi": [
+      "ソウ"
+    ],
+    "old_kunyomi": [
+      "あらそ(う)"
+    ],
+    "new_kunyomi": [
+      "あらそう",
+      "いかでか"
+    ]
+  },
+  "政": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "new_onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "まつりごと",
+      "まん"
+    ]
+  },
+  "治": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ジ",
+      "チ"
+    ],
+    "new_onyomi": [
+      "ジ",
+      "チ"
+    ],
+    "old_kunyomi": [
+      "おさ(める)",
+      "なお(る)"
+    ],
+    "new_kunyomi": [
+      "おさめる",
+      "おさまる",
+      "なおる",
+      "なおす"
+    ]
+  },
+  "経": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ケイ",
+      "キョウ"
+    ],
+    "new_onyomi": [
+      "ケイ",
+      "キョウ",
+      "キン"
+    ],
+    "old_kunyomi": [
+      "へ(る)"
+    ],
+    "new_kunyomi": [
+      "へる",
+      "たつ",
+      "たていと",
+      "はかる",
+      "のり"
+    ]
+  },
+  "済": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "サイ"
+    ],
+    "new_onyomi": [
+      "サイ",
+      "セイ"
+    ],
+    "old_kunyomi": [
+      "す(む)"
+    ],
+    "new_kunyomi": [
+      "すむ",
+      "ずみ",
+      "すまない",
+      "すます",
+      "すくう",
+      "なす",
+      "わたし",
+      "わたる"
+    ]
+  },
+  "法": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ホウ"
+    ],
+    "new_onyomi": [
+      "ホウ",
+      "ハッ",
+      "ホッ",
+      "フラン"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "のり"
+    ]
+  },
+  "律": {
+    "jlpt_level": "N2",
+    "old_onyomi": [
+      "リツ",
+      "リチ"
+    ],
+    "new_onyomi": [
+      "リツ",
+      "リチ",
+      "レツ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "ぼ",
+      "ほうそく",
+      "おる"
+    ]
+  },
+  "際": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "サイ"
+    ],
+    "new_onyomi": [
+      "サイ"
+    ],
+    "old_kunyomi": [
+      "きわ"
+    ],
+    "new_kunyomi": [
+      "きわ",
+      "ぎわ"
+    ]
+  },
+  "関": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "カン"
+    ],
+    "new_onyomi": [
+      "カン"
+    ],
+    "old_kunyomi": [
+      "せき"
+    ],
+    "new_kunyomi": [
+      "せき",
+      "ぜき",
+      "かかわる",
+      "からくり",
+      "かんぬき"
+    ]
+  },
+  "係": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ケイ"
+    ],
+    "new_onyomi": [
+      "ケイ"
+    ],
+    "old_kunyomi": [
+      "かか(る)"
+    ],
+    "new_kunyomi": [
+      "かかる",
+      "かかり",
+      "がかり",
+      "かかわる"
+    ]
+  },
+  "義": {
+    "jlpt_level": "N1",
+    "old_onyomi": [
+      "ギ"
+    ],
+    "new_onyomi": [
+      "ギ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "しい",
+      "いや",
+      "え",
+      "わけ",
+      "の",
+      "な"
+    ]
+  },
+  "党": {
+    "jlpt_level": "N2",
+    "old_onyomi": [
+      "トウ"
+    ],
+    "new_onyomi": [
+      "トウ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "なかま",
+      "むら"
+    ]
+  },
+  "遊": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ユウ",
+      "ユ"
+    ],
+    "new_onyomi": [
+      "ユウ",
+      "ユ"
+    ],
+    "old_kunyomi": [
+      "あそ(ぶ)"
+    ],
+    "new_kunyomi": [
+      "あそぶ",
+      "あそばす"
+    ]
+  },
+  "泳": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "エイ"
+    ],
+    "new_onyomi": [
+      "エイ"
+    ],
+    "old_kunyomi": [
+      "およ(ぐ)"
+    ],
+    "new_kunyomi": [
+      "およぐ"
+    ]
+  },
+  "疲": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ヒ"
+    ],
+    "new_onyomi": [
+      "ヒ"
+    ],
+    "old_kunyomi": [
+      "つか(れる)"
+    ],
+    "new_kunyomi": [
+      "つかれる",
+      "づかれ",
+      "つからす"
+    ]
+  },
+  "涼": {
+    "jlpt_level": "N2",
+    "old_onyomi": [
+      "リョウ"
+    ],
+    "new_onyomi": [
+      "リョウ"
+    ],
+    "old_kunyomi": [
+      "すず(しい)"
+    ],
+    "new_kunyomi": [
+      "すずしい",
+      "すずむ",
+      "すずやか",
+      "うすい",
+      "ひやす",
+      "まことに"
+    ]
+  },
+  "静": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "セイ",
+      "ジョウ"
+    ],
+    "new_onyomi": [
+      "セイ",
+      "ジョウ"
+    ],
+    "old_kunyomi": [
+      "しず(か)"
+    ],
+    "new_kunyomi": [
+      "しず",
+      "しずか",
+      "しずまる",
+      "しずめる"
+    ]
+  },
+  "公": {
+    "jlpt_level": "N4",
+    "old_onyomi": [
+      "コウ"
+    ],
+    "new_onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "old_kunyomi": [
+      "おおやけ"
+    ],
+    "new_kunyomi": [
+      "おおやけ"
+    ]
+  },
+  "込": {
+    "jlpt_level": "N3",
+    "old_onyomi": [],
+    "new_onyomi": [],
+    "old_kunyomi": [
+      "こ(む)"
+    ],
+    "new_kunyomi": [
+      "こむ",
+      "こみ",
+      "こめる"
+    ]
+  },
+  "連": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "レン"
+    ],
+    "new_onyomi": [
+      "レン"
+    ],
+    "old_kunyomi": [
+      "つ(れる)"
+    ],
+    "new_kunyomi": [
+      "つらなる",
+      "つらねる",
+      "つれる",
+      "づれ"
+    ]
+  },
+  "側": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ソク"
+    ],
+    "new_onyomi": [
+      "ソク"
+    ],
+    "old_kunyomi": [
+      "がわ"
+    ],
+    "new_kunyomi": [
+      "かわ",
+      "がわ",
+      "そば"
+    ]
+  },
+  "景": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ケイ"
+    ],
+    "new_onyomi": [
+      "ケイ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "けしき",
+      "ようす",
+      "ながめ",
+      "ありさま",
+      "てん"
+    ]
+  },
+  "記": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "キ"
+    ],
+    "new_onyomi": [
+      "キ"
+    ],
+    "old_kunyomi": [
+      "しる(す)"
+    ],
+    "new_kunyomi": [
+      "しるす"
+    ]
+  },
+  "形": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ケイ",
+      "ギョウ"
+    ],
+    "new_onyomi": [
+      "ケイ",
+      "ギョウ"
+    ],
+    "old_kunyomi": [
+      "かたち"
+    ],
+    "new_kunyomi": [
+      "かた",
+      "がた",
+      "かたち",
+      "なり"
+    ]
+  },
+  "共": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "キョウ"
+    ],
+    "new_onyomi": [
+      "キョウ"
+    ],
+    "old_kunyomi": [
+      "とも"
+    ],
+    "new_kunyomi": [
+      "とも",
+      "ともに",
+      "ども"
+    ]
+  },
+  "供": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "キョウ",
+      "ク"
+    ],
+    "new_onyomi": [
+      "キョウ",
+      "ク",
+      "クウ",
+      "グ"
+    ],
+    "old_kunyomi": [
+      "そな(える)"
+    ],
+    "new_kunyomi": [
+      "そなえる",
+      "とも",
+      "ども"
+    ]
+  },
+  "両": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "リョウ"
+    ],
+    "new_onyomi": [
+      "リョウ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "てる",
+      "ふたつ"
+    ]
+  },
+  "若": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ジャク",
+      "ニャク"
+    ],
+    "new_onyomi": [
+      "ジャク",
+      "ニャク",
+      "ニャ"
+    ],
+    "old_kunyomi": [
+      "わか(い)"
+    ],
+    "new_kunyomi": [
+      "わかい",
+      "わか",
+      "もしくわ",
+      "もし",
+      "もしくは",
+      "ごとし"
+    ]
+  },
+  "老": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ロウ"
+    ],
+    "new_onyomi": [
+      "ロウ"
+    ],
+    "old_kunyomi": [
+      "お(いる)"
+    ],
+    "new_kunyomi": [
+      "おいる",
+      "ふける"
+    ]
+  },
+  "奥": {
+    "jlpt_level": "N2",
+    "old_onyomi": [
+      "オウ"
+    ],
+    "new_onyomi": [
+      "オウ"
+    ],
+    "old_kunyomi": [
+      "おく"
+    ],
+    "new_kunyomi": [
+      "おく",
+      "おくまる",
+      "くま"
+    ]
+  },
+  "将": {
+    "jlpt_level": "N2",
+    "old_onyomi": [
+      "ショウ"
+    ],
+    "new_onyomi": [
+      "ショウ",
+      "ソウ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "まさに",
+      "はた",
+      "まさ",
+      "ひきいる",
+      "もって"
+    ]
+  },
+  "育": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "イク"
+    ],
+    "new_onyomi": [
+      "イク"
+    ],
+    "old_kunyomi": [
+      "そだ(つ)"
+    ],
+    "new_kunyomi": [
+      "そだつ",
+      "そだち",
+      "そだてる",
+      "はぐくむ"
+    ]
+  },
+  "性": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "new_onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "さが"
+    ]
+  },
+  "招": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ショウ"
+    ],
+    "new_onyomi": [
+      "ショウ"
+    ],
+    "old_kunyomi": [
+      "まね(く)"
+    ],
+    "new_kunyomi": [
+      "まねく"
+    ]
+  },
+  "取": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "シュ"
+    ],
+    "new_onyomi": [
+      "シュ"
+    ],
+    "old_kunyomi": [
+      "と(る)"
+    ],
+    "new_kunyomi": [
+      "とる",
+      "とり",
+      "どり"
+    ]
+  },
+  "最": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "サイ"
+    ],
+    "new_onyomi": [
+      "サイ",
+      "シュ"
+    ],
+    "old_kunyomi": [
+      "もっと(も)"
+    ],
+    "new_kunyomi": [
+      "もっとも",
+      "つま"
+    ]
+  },
+  "初": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ショ"
+    ],
+    "new_onyomi": [
+      "ショ"
+    ],
+    "old_kunyomi": [
+      "はじ(めて)"
+    ],
+    "new_kunyomi": [
+      "はじめ",
+      "はじめて",
+      "はつ",
+      "うい",
+      "そめる",
+      "ぞめ"
+    ]
+  },
+  "番": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "バン"
+    ],
+    "new_onyomi": [
+      "バン"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "つがい"
+    ]
+  },
+  "歳": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "サイ",
+      "セイ"
+    ],
+    "new_onyomi": [
+      "サイ",
+      "セイ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "とし",
+      "とせ",
+      "よわい"
+    ]
+  },
+  "枚": {
+    "jlpt_level": "N2",
+    "old_onyomi": [
+      "マイ"
+    ],
+    "new_onyomi": [
+      "マイ",
+      "バイ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "や",
+      "など",
+      "うすくて",
+      "たいものを",
+      "えることは",
+      "える"
+    ]
+  },
+  "点": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "テン"
+    ],
+    "new_onyomi": [
+      "テン"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "つける",
+      "つく",
+      "たてる",
+      "さす",
+      "とぼす",
+      "ともす",
+      "ぼち"
+    ]
+  },
+  "段": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ダン"
+    ],
+    "new_onyomi": [
+      "ダン",
+      "タン"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": []
+  },
+  "号": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ゴウ"
+    ],
+    "new_onyomi": [
+      "ゴウ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "さけぶ",
+      "よびな"
+    ]
+  },
+  "勝": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ショウ"
+    ],
+    "new_onyomi": [
+      "ショウ"
+    ],
+    "old_kunyomi": [
+      "か(つ)"
+    ],
+    "new_kunyomi": [
+      "かつ",
+      "がち",
+      "まさる",
+      "すぐれる"
+    ]
+  },
+  "負": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "フ"
+    ],
+    "new_onyomi": [
+      "フ"
+    ],
+    "old_kunyomi": [
+      "ま(ける)",
+      "お(う)"
+    ],
+    "new_kunyomi": [
+      "まける",
+      "まかす",
+      "おう"
+    ]
+  },
+  "賛": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "サン"
+    ],
+    "new_onyomi": [
+      "サン"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "たすける",
+      "たたえる"
+    ]
+  },
+  "成": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "セイ",
+      "ジョウ"
+    ],
+    "new_onyomi": [
+      "セイ",
+      "ジョウ"
+    ],
+    "old_kunyomi": [
+      "な(る)"
+    ],
+    "new_kunyomi": [
+      "なる",
+      "なす"
+    ]
+  },
+  "絶": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ゼツ"
+    ],
+    "new_onyomi": [
+      "ゼツ"
+    ],
+    "old_kunyomi": [
+      "た(える)"
+    ],
+    "new_kunyomi": [
+      "たえる",
+      "たやす",
+      "たつ"
+    ]
+  },
+  "対": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "タイ",
+      "ツイ"
+    ],
+    "new_onyomi": [
+      "タイ",
+      "ツイ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "あいて",
+      "こたえる",
+      "そろい",
+      "つれあい",
+      "ならぶ",
+      "むかう"
+    ]
+  },
+  "続": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ゾク"
+    ],
+    "new_onyomi": [
+      "ゾク",
+      "ショク",
+      "コウ",
+      "キョウ"
+    ],
+    "old_kunyomi": [
+      "つづ(く)"
+    ],
+    "new_kunyomi": [
+      "つづく",
+      "つづける",
+      "つぐない"
+    ]
+  },
+  "辞": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ジ"
+    ],
+    "new_onyomi": [
+      "ジ"
+    ],
+    "old_kunyomi": [
+      "や(める)"
+    ],
+    "new_kunyomi": [
+      "やめる",
+      "いなむ"
+    ]
+  },
+  "投": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "トウ"
+    ],
+    "new_onyomi": [
+      "トウ"
+    ],
+    "old_kunyomi": [
+      "な(げる)"
+    ],
+    "new_kunyomi": [
+      "なげる",
+      "なげ"
+    ]
+  },
+  "選": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "セン"
+    ],
+    "new_onyomi": [
+      "セン"
+    ],
+    "old_kunyomi": [
+      "えら(ぶ)"
+    ],
+    "new_kunyomi": [
+      "えらぶ",
+      "える",
+      "よる"
+    ]
+  },
+  "約": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ヤク"
+    ],
+    "new_onyomi": [
+      "ヤク"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "つづまる",
+      "つづめる",
+      "つづまやか"
+    ]
+  },
+  "束": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ソク"
+    ],
+    "new_onyomi": [
+      "ソク"
+    ],
+    "old_kunyomi": [
+      "たば"
+    ],
+    "new_kunyomi": [
+      "たば",
+      "たばねる",
+      "つか",
+      "つかねる"
+    ]
+  },
+  "守": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "シュ",
+      "ス"
+    ],
+    "new_onyomi": [
+      "シュ",
+      "ス"
+    ],
+    "old_kunyomi": [
+      "まも(る)"
+    ],
+    "new_kunyomi": [
+      "まもる",
+      "まもり",
+      "もり",
+      "かみ"
+    ]
+  },
+  "過": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "カ"
+    ],
+    "new_onyomi": [
+      "カ"
+    ],
+    "old_kunyomi": [
+      "す(ぎる)"
+    ],
+    "new_kunyomi": [
+      "すぎる",
+      "すごす",
+      "あやまち",
+      "あやまつ",
+      "よぎる"
+    ]
+  },
+  "飛": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ヒ"
+    ],
+    "new_onyomi": [
+      "ヒ"
+    ],
+    "old_kunyomi": [
+      "と(ぶ)"
+    ],
+    "new_kunyomi": [
+      "とぶ",
+      "とばす"
+    ]
+  },
+  "失": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "シツ"
+    ],
+    "new_onyomi": [
+      "シツ"
+    ],
+    "old_kunyomi": [
+      "うしな(う)"
+    ],
+    "new_kunyomi": [
+      "うしなう",
+      "うせる"
+    ]
+  },
+  "速": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ソク"
+    ],
+    "new_onyomi": [
+      "ソク"
+    ],
+    "old_kunyomi": [
+      "はや(い)"
+    ],
+    "new_kunyomi": [
+      "はやい",
+      "はや",
+      "はやめる",
+      "すみやか"
+    ]
+  },
+  "遅": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "チ"
+    ],
+    "new_onyomi": [
+      "チ"
+    ],
+    "old_kunyomi": [
+      "おそ(い)"
+    ],
+    "new_kunyomi": [
+      "おくれる",
+      "おくらす",
+      "おそい"
+    ]
+  },
+  "駐": {
+    "jlpt_level": "N2",
+    "old_onyomi": [
+      "チュウ"
+    ],
+    "new_onyomi": [
+      "チュウ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "とどまる",
+      "とどめる",
+      "や",
+      "がとまる"
+    ]
+  },
+  "泊": {
+    "jlpt_level": "N2",
+    "old_onyomi": [
+      "ハク"
+    ],
+    "new_onyomi": [
+      "ハク"
+    ],
+    "old_kunyomi": [
+      "と(まる)"
+    ],
+    "new_kunyomi": [
+      "とまる",
+      "とめる"
+    ]
+  },
+  "船": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "セン"
+    ],
+    "new_onyomi": [
+      "セン"
+    ],
+    "old_kunyomi": [
+      "ふね"
+    ],
+    "new_kunyomi": [
+      "ふね",
+      "ふな"
+    ]
+  },
+  "座": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ザ"
+    ],
+    "new_onyomi": [
+      "ザ"
+    ],
+    "old_kunyomi": [
+      "すわ(る)"
+    ],
+    "new_kunyomi": [
+      "すわる"
+    ]
+  },
+  "席": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "セキ"
+    ],
+    "new_onyomi": [
+      "セキ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "むしろ"
+    ]
+  },
+  "交": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "コウ"
+    ],
+    "new_onyomi": [
+      "コウ"
+    ],
+    "old_kunyomi": [
+      "ま(じる)"
+    ],
+    "new_kunyomi": [
+      "まじわる",
+      "まじえる",
+      "まじる",
+      "まざる",
+      "まぜる",
+      "かう",
+      "かわす",
+      "こもごも"
+    ]
+  },
+  "申": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "シン"
+    ],
+    "new_onyomi": [
+      "シン"
+    ],
+    "old_kunyomi": [
+      "もう(す)"
+    ],
+    "new_kunyomi": [
+      "もうす",
+      "もうし",
+      "さる"
+    ]
+  },
+  "神": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "シン",
+      "ジン"
+    ],
+    "new_onyomi": [
+      "シン",
+      "ジン"
+    ],
+    "old_kunyomi": [
+      "かみ"
+    ],
+    "new_kunyomi": [
+      "かみ",
+      "かん",
+      "こう"
+    ]
+  },
+  "様": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ヨウ"
+    ],
+    "new_onyomi": [
+      "ヨウ",
+      "ショウ"
+    ],
+    "old_kunyomi": [
+      "さま"
+    ],
+    "new_kunyomi": [
+      "さま",
+      "さん"
+    ]
+  },
+  "調": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "チョウ"
+    ],
+    "new_onyomi": [
+      "チョウ"
+    ],
+    "old_kunyomi": [
+      "しら(べる)"
+    ],
+    "new_kunyomi": [
+      "しらべる",
+      "しらべ",
+      "ととのう",
+      "ととのえる"
+    ]
+  },
+  "君": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "クン"
+    ],
+    "new_onyomi": [
+      "クン"
+    ],
+    "old_kunyomi": [
+      "きみ"
+    ],
+    "new_kunyomi": [
+      "きみ",
+      "ぎみ"
+    ]
+  },
+  "達": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "タツ"
+    ],
+    "new_onyomi": [
+      "タツ",
+      "ダ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "たち"
+    ]
+  },
+  "直": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "チョク",
+      "ジキ"
+    ],
+    "new_onyomi": [
+      "チョク",
+      "ジキ",
+      "ジカ"
+    ],
+    "old_kunyomi": [
+      "なお(す)"
+    ],
+    "new_kunyomi": [
+      "ただちに",
+      "なおす",
+      "なおる",
+      "なおき",
+      "すぐ"
+    ]
+  },
+  "危": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "キ"
+    ],
+    "new_onyomi": [
+      "キ"
+    ],
+    "old_kunyomi": [
+      "あぶ(ない)"
+    ],
+    "new_kunyomi": [
+      "あぶない",
+      "あやうい",
+      "あやぶむ"
+    ]
+  },
+  "険": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ケン"
+    ],
+    "new_onyomi": [
+      "ケン"
+    ],
+    "old_kunyomi": [
+      "けわ(しい)"
+    ],
+    "new_kunyomi": [
+      "けわしい"
+    ]
+  },
+  "捨": {
+    "jlpt_level": "N2",
+    "old_onyomi": [
+      "シャ"
+    ],
+    "new_onyomi": [
+      "シャ"
+    ],
+    "old_kunyomi": [
+      "す(てる)"
+    ],
+    "new_kunyomi": [
+      "すてる"
+    ]
+  },
+  "戻": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "レイ"
+    ],
+    "new_onyomi": [
+      "レイ"
+    ],
+    "old_kunyomi": [
+      "もど(る)"
+    ],
+    "new_kunyomi": [
+      "もどす",
+      "もどる"
+    ]
+  },
+  "吸": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "キュウ"
+    ],
+    "new_onyomi": [
+      "キュウ"
+    ],
+    "old_kunyomi": [
+      "す(う)"
+    ],
+    "new_kunyomi": [
+      "すう"
+    ]
+  },
+  "放": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ホウ"
+    ],
+    "new_onyomi": [
+      "ホウ"
+    ],
+    "old_kunyomi": [
+      "はな(す)"
+    ],
+    "new_kunyomi": [
+      "はなす",
+      "っぱなし",
+      "はなつ",
+      "はなれる",
+      "こく",
+      "ほうる"
+    ]
+  },
+  "変": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ヘン"
+    ],
+    "new_onyomi": [
+      "ヘン"
+    ],
+    "old_kunyomi": [
+      "か(わる)"
+    ],
+    "new_kunyomi": [
+      "かわる",
+      "かわり",
+      "かえる"
+    ]
+  },
+  "絵": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "new_onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "old_kunyomi": [],
+    "new_kunyomi": [
+      "ね",
+      "る",
+      "かす"
+    ]
+  },
+  "当": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "トウ"
+    ],
+    "new_onyomi": [
+      "トウ"
+    ],
+    "old_kunyomi": [
+      "あ(たる)"
+    ],
+    "new_kunyomi": [
+      "あたる",
+      "あたり",
+      "あてる",
+      "あて",
+      "まさに",
+      "まさにべし"
+    ]
+  },
+  "伝": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "デン"
+    ],
+    "new_onyomi": [
+      "デン",
+      "テン"
+    ],
+    "old_kunyomi": [
+      "つた(える)"
+    ],
+    "new_kunyomi": [
+      "つたわる",
+      "つたえる",
+      "つたう",
+      "つだう",
+      "づたい",
+      "つて"
+    ]
+  },
+  "無": {
+    "jlpt_level": "N3",
+    "old_onyomi": [
+      "ム",
+      "ブ"
+    ],
+    "new_onyomi": [
+      "ム",
+      "ブ"
+    ],
+    "old_kunyomi": [
+      "な(い)"
+    ],
+    "new_kunyomi": [
+      "ない"
+    ]
+  }
+}
